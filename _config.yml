@@ -113,9 +113,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Researcher, and **amateur** musician."
+  name             : "EURO Young"
+  avatar           : "/assets/images/EURO.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "The place for young researchers."
   location         : "Europe"
   email            :  euroyoung@euro-online.org
   links:
