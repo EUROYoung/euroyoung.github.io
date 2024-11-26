@@ -5,6 +5,8 @@ author_profile: true
 layout: single
 classes: wide
 ---
+<br style="line-height: 1em;">
+
 ## Submitted Works/Preprints
 
 __A Toll-Setting Problem with Robust Wardrop Equilibrium Conditions Under Budgeted Uncertainty__  
