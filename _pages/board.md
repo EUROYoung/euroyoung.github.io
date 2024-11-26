@@ -5,11 +5,11 @@ author_profile: true
 layout: single
 classes: wide
 ---
-## Board members
+## Meet the Board members!
 
 
 <img src="/assets/images/YasmineBeck.jpg" width="200" />
-__Yasmine Beck__ (ESSEC Business School Paris-Cergy, France)
+[__Yasmine Beck__](https://yasminebeck.github.io/) (ESSEC Business School Paris-Cergy, France)
 
 <img src="/assets/images/YasmineBeck.jpg" width="200" />
 __Marta Baldomero Naranjo__ (Universidad de Cádiz, Spain)
