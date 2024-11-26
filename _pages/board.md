@@ -5,7 +5,7 @@ author_profile: true
 layout: single
 classes: wide
 ---
-## Board member
+## Board members
 
 __Marta Baldomero Naranjo__ (Universidad de Cádiz, Spain)
 __Andrea Mancuso__ (Università di Napoli Federico II, Italy)
