@@ -7,6 +7,10 @@ classes: wide
 ---
 ## Board members
 
+<p align="center">
+<iframe src="assets/EURO.png width="600" height="450" style="border:0;" allowfullscreen ></iframe>
+</p>
+
 __Marta Baldomero Naranjo__ (Universidad de Cádiz, Spain)
 __Andrea Mancuso__ (Università di Napoli Federico II, Italy)
 __Yasmine Beck__ (ESSEC Business School Paris-Cergy, France)
