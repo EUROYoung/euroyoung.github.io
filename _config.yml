@@ -131,7 +131,7 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-       #url: "mailto: euroyoung@euro-online.org"
+       url: "mailto:euroyoung@euro-online.org"
     - label: "Website"
       icon: "fas fa-fw fa-link"
        #url: "https://your-website.com"
@@ -154,6 +154,9 @@ footer:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://x.com/EUROYoungForum"
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+       url: "mailto:euroyoung@euro-online.org"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url:
