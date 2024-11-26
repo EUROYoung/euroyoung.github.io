@@ -12,7 +12,7 @@ classes: wide
 [__Yasmine Beck__](https://yasminebeck.github.io/) (ESSEC Business School Paris-Cergy, France)
 
 <img src="/assets/images/LauraDavilaPena.jpeg" width="200" />
-[__Laura Davila Pena__](https://scholar.google.com/citations?hl=en&user=0qATOf0AAAAJ)) (University of Kent, U.K)
+[__Laura Davila Pena__](https://scholar.google.com/citations?hl=en&user=0qATOf0AAAAJ) (University of Kent, U.K)
 
 <img src="/assets/images/YasmineBeck.jpg" width="200" />
 __Marta Baldomero Naranjo__ (Universidad de Cádiz, Spain)
