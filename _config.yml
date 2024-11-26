@@ -154,9 +154,9 @@ footer:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://x.com/EUROYoungForum"
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-       url: "mailto:euroyoung@euro-online.org"
+    #- label: "Email"
+     # icon: "fas fa-fw fa-envelope-square"
+      # url: "mailto:euroyoung@euro-online.org"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url:
