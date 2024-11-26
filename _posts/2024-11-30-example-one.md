@@ -1,5 +1,5 @@
 ---
-title:  "An example of a new: Case 1"
+title:  "An example of a new: Case 1 "
 date: November 30, 2024
 show_date: true
 share: false
