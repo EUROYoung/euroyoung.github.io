@@ -1,6 +1,6 @@
 ---
-title: "Publications"
-permalink: /publications/
+title: "Workshop"
+permalink: /workshop/
 author_profile: true
 layout: single
 classes: wide
