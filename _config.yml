@@ -117,7 +117,12 @@ author:
   avatar           : "/assets/images/EURO.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "The place for young researchers."
   location         : "Europe"
-  email            : # euroyoung@euro-online.org
+  email            : "euroyoung@euro-online.org"
+  twitter          : "EUROYoungForum"
+  github           : "YasmineBeck"
+  #linkedin         : "yasmine-beck-310659163"
+
+  
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -127,7 +132,7 @@ author:
        #url: "https://your-website.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-       url: "https://x.com/EUROYoungForum/"
+  #     url: "https://x.com/EUROYoungForum/"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
