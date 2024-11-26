@@ -7,9 +7,8 @@ classes: wide
 ---
 ## Board members
 
-<p align="center">
-<iframe src="/assets/images/EURO.png width="600" height="450" style="border:0;" allowfullscreen ></iframe>
-</p>
+
+![](/assets/images/EURO.png)
 
 __Marta Baldomero Naranjo__ (Universidad de Cádiz, Spain)
 __Andrea Mancuso__ (Università di Napoli Federico II, Italy)
