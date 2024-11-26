@@ -1,6 +1,6 @@
 ---
-title: "Selected Talks"
-permalink: /talks/
+title: "Past Workshops"
+permalink: /pastworkshops/
 author_profile: true
 layout: single
 classes: wide
