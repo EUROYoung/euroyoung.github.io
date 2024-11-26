@@ -2,10 +2,10 @@
 main:
   - title: "Home"
     url: /
-   - title: "Workshop"
-    url: /workshop/   
-  - title: "Past Workshops"
-    url: /pastworkshops/ 
+   #- title: "Workshop"
+   # url: /workshop/   
+  #- title: "Past Workshops"
+  #  url: /pastworkshops/ 
   #- title: "Publications"
    # url: /publications/
   #- title: "Talks"
