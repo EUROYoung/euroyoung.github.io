@@ -17,7 +17,7 @@ minimal_mistakes_skin    : "aqua"  # "default" "air", "aqua", "contrast", "dark"
 # Site Settings
 locale                   : "en-US"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
-title                    : "EURO **young**"
+title                    : "EURO Young"
 title_separator          : "-"
 subtitle                 : EURO YOUNG # site tagline that appears below site title in masthead
 name                     : "EURO YOUNG"
@@ -116,18 +116,18 @@ author:
   name             : "Your Name"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Researcher, and **amateur** musician."
-  location         : "Kaiserslautern, DE"
-  email            :
+  location         : "Europe"
+  email            :  euroyoung@euro-online.org
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
+       url: "mailto: euroyoung@euro-online.org"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
+       #url: "https://your-website.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
+       url: "https://x.com/EUROYoungForum/"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
@@ -143,7 +143,7 @@ footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url:
+      url: "https://x.com/EUROYoungForum/"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url:
