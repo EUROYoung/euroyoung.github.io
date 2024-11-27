@@ -7,8 +7,6 @@ classes: wide
 ---
 <br style="line-height: 1em;">
 
-## Objective
-
 The EUROYoung workshops are the main events organised by our Forum.
 With these workshops we want:
 
