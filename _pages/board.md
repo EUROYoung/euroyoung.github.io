@@ -19,7 +19,7 @@ classes: wide
 <img src="/assets/images/LauraDavilaPena.jpeg" width="200" />
 [__Laura Davila Pena__](https://scholar.google.com/citations?hl=en&user=0qATOf0AAAAJ) (University of Kent, U.K)
 
-<img src="/assets/images/YasmineBeck.jpg" width="200" />
+<img src="/assets/images/Alan-Osorio-Mora.jpeg" width="200" />
 [__Alan Osorio Mora__](https://aoso-mora.github.io/) (RPTU Kaiserslautern, Germany)
 
 ## Previous Board Members
