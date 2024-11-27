@@ -10,7 +10,7 @@ classes: wide
 <img src="/assets/images/MartaBaldomero.jpeg" width="200" />
 [__Marta Baldomero Naranjo__](https://scholar.google.com/citations?hl=en&user=9659dl4AAAAJ) (Universidad de Cádiz, Spain)
 
-<img src="/assets/images/YasmineBeck.jpg" width="200" />
+<img src="/assets/images/AndreaMancuso.jpeg" width="200" />
 [__Andrea Mancuso__](https://scholar.google.com/citations?hl=en&user=yb3uVecAAAAJ) (Università di Napoli Federico II, Italy)
 
 <img src="/assets/images/YasmineBeck.jpg" width="200" />
