@@ -120,9 +120,8 @@ analytics:
 author:
   name             : "EURO Young"
   avatar           : "/assets/images/EURO.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "The place for young researchers. Contact us: <br>
-  euroyoung@euro-online.org"
-  </br>
+  #bio              : "The place for young researchers. Contact us:  euroyoung@euro-online.org"
+  bio              : <div id="content">{{ The place for young researchers. Contact us: | euroyoung@euro-online.org }}</div>
   location         : #"Europe"
   email            : "euroyoung@euro-online.org"
   twitter          : "EUROYoungForum"
