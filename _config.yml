@@ -121,7 +121,7 @@ author:
   name             : "EURO Young"
   avatar           : "/assets/images/EURO.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "The place for young researchers."
-  location         : "Europe"
+  location         : #"Europe"
   email            : "euroyoung@euro-online.org"
   twitter          : "EUROYoungForum"
   github           : "EUROYoungForum"
