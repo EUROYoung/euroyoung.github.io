@@ -1,0 +1,149 @@
+@media (min-width: 992px) {
+    html {
+        font-size: 1rem;
+    }
+}
+
+body {
+    background-color: #005694;
+    color: white;
+}
+
+a, a:hover, a:visited {
+    color: white;
+    font-weight: bold;
+}
+
+.top-bar {
+    background-color: #005694;
+}
+
+.title-header {
+    padding: 25px 0px 20px 0px;
+}
+
+.header-animation {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: -1;
+}
+
+.euroyoung-thead > tr > th {
+    color: #005694 !important;
+}
+
+.euroyoung-navbar {
+    padding: 24px 0px 24px 0px;
+}
+
+.euroyoung-navbar button {
+    background-color: #005694;
+}
+
+.euroyoung-navbar a {
+    color: white !important;
+}
+
+.euroyoung-brand {
+    color: white !important;
+}
+
+.main-content {
+    padding: 48px 0px 48px 0px;
+}
+
+.main-content h1, .main-content h2, .main-content h3 {
+    color: #00ADE9;
+    margin-bottom: 24px;
+}
+
+.main-content-ws h1 {
+    font-weight: bold;
+}
+
+.main-content article {
+    margin-bottom: 48px;
+}
+
+@media (min-width: 992px) {
+    .main-content article:before {
+        content: "";
+        display: block;
+        height: 432px;
+        margin-top: -432px;
+        visibility: hidden;
+    }
+
+    .main-content article.ws, .main-content .jumbotron-ws {
+        margin-bottom: 192px;
+    }
+    
+    .main-content article.ws {
+        padding-bottom: 192px;
+        border-bottom: 1px solid #00ADE9;
+    }
+}
+
+@media (max-width: 992px) {
+    .main-content article:before {
+        content: "";
+        display: block;
+        height: 288px;
+        margin-top: -288px;
+        visibility: hidden;
+    }
+
+    .main-content .jumbotron-ws ul {
+        list-style-position: inside;
+        padding-left: 0;
+    }
+
+    .main-content .ws-sponsors img {
+        display: block;
+        margin-bottom: 12px;
+    }
+}
+
+.main-content ul {
+    list-style: none;
+}
+
+.main-content li::before {
+    content: "\203A\A0";
+}
+
+.bottom-footer {
+    border-top: 1px solid #00ADE9;
+    padding: 48px 24px 48px 24px;
+}
+
+.bottom-footer img {
+    background-color: rgba(255, 255, 255, .75);
+}
+
+.iflag {
+    height: 1.5em;
+    width: 1.5em;
+    display: inline-block;
+    vertical-align: top;
+}
+
+.intertext-img {
+    margin: 48px 0px 48px 0px;
+}
+
+.euroyoung-jumbotron {
+    margin-top: 48px;
+    background-color: #00ADE9;
+}
+
+.euroyoung-jumbotron h1 {
+    color: white;
+}
+
+.homepage-alert a, .homepage-alter a:link, .homepage-alert a:hover, .homepage-alert a:visited {
+    color: inherit;
+}
