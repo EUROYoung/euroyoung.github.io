@@ -8,4 +8,3 @@ tag:
 ---
 
 This is a try 2
-![SIAM Certificate](/images/siam-certificate.jpg)
