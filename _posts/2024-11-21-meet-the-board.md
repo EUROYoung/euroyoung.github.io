@@ -9,4 +9,4 @@ tag:
 ---
 
 
-Hi meet the board here!
+Hi meet the board [here](https://euroyoung.eu/board/)!
