@@ -16,7 +16,7 @@ With these workshops we want:
 * To promote __peer-education__ and give young researchers the opportunity to teach their colleagues something unique they have learnt;
 * To share knowledge from established O.R. &ldquo;__seniors__&rdquo; to the new generations.
 * To provide __affordable__ (approaching zero-cost) opportunities to young researchers to present their work, learn, and network.
-* To promote __[EURO]__(https://www.euro-online.org/), its activities, instruments, and resources.
+* To promote [__EURO__](https://www.euro-online.org/), its activities, instruments, and resources.
 
 
 ## Journal Articles  
