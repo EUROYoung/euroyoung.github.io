@@ -1,6 +1,6 @@
 ---
 title:  "Example"
-date: July 4, 2023
+date: November 22, 2024
 show_date: true
 share: false
 tag:
