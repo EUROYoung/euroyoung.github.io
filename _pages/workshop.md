@@ -9,13 +9,15 @@ classes: wide
 
 ## Submitted Works/Preprints
 
-__A Toll-Setting Problem with Robust Wardrop Equilibrium Conditions Under Budgeted Uncertainty__  
-Jointly with Martine Labbe and [Martin Schmidt](https://martinschmidt.squarespace.com/home)  
-Preprint (07/2024): [Optimization Online](https://optimization-online.org/?p=26949)  
+The EUROYoung workshops are the main events organised by our Forum.
+With these workshops we want:
 
-__Heuristic Methods for $\Gamma$-Robust Mixed-Integer Linear Bilevel Problems__  
-Jointly with [Ivana Ljubic](https://ivanaljubic.github.io/) and [Martin Schmidt](https://martinschmidt.squarespace.com/home)  
-Preprint (04/2024, last update 10/2024): [Optimization Online](https://optimization-online.org/?p=26186)  
+* To __create a bond__ between researchers going through a delicate phase of their career and preparing themselves to be the faculty and practitioners of tomorrow;
+* To promote __peer-education__ and give young researchers the opportunity to teach their colleagues something unique they have learnt;
+* To share knowledge from established O.R. &ldquo;__seniors__&rdquo; to the new generations.
+* To provide __affordable__ (approaching zero-cost) opportunities to young researchers to present their work, learn, and network.
+* To promote __[EURO]__(https://www.euro-online.org/), its activities, instruments, and resources.
+
 
 ## Journal Articles  
 
