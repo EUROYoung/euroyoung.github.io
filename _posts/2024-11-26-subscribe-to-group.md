@@ -1,5 +1,5 @@
 ---
-title:  "Subscribe to our Google group for updates!!"
+title:  "Become a member of EUROYoung Forum!"
 date: November 26, 2024
 show_date: true
 share: false
@@ -11,4 +11,4 @@ To stay true to our name, we encourage participation of young researchers (up to
 
 Fill the form and keep yourself posted about our activities and career opportunities, click [here](https://docs.google.com/forms/d/e/1FAIpQLSdfX8dBw0CrVnZg8kyRvNMzjN0hYId4LpmzkQluK_OkCWvm4g/viewform).
 
-To stop being a member, cancel your group subscription.
+To stop being a member, please send us an email at euroyoung@euro-online.org .
