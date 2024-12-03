@@ -11,4 +11,4 @@ To stay true to our name, we encourage participation of young researchers (up to
 
 Fill the form and keep yourself posted about our activities and career opportunities, click [here](https://docs.google.com/forms/d/e/1FAIpQLSdfX8dBw0CrVnZg8kyRvNMzjN0hYId4LpmzkQluK_OkCWvm4g/viewform).
 
-To stop being a member, please send us an email at euroyoung@euro-online.org .
+To stop being a member, please send us an email at euroyoung@euro-online.org.
