@@ -1,7 +1,7 @@
 ---
-title: "Archive Layout with Content"
+title: "Workshop - Naples 2025"
 layout: archive
-permalink: /archive-layout-with-content/
+permalink: /napoli/
 ---
 
 A variety of common markup showing how the theme styles them.
