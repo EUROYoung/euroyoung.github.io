@@ -18,11 +18,11 @@ __Registration__ 1 May 2025 - 1 June 2025
 __Workshop__ 15 October 2025 - 17 October 2025
 
 # Plenary Speakers
-__Dolores Romero Morales__ (Copenhagen Business School)
+## Dolores Romero Morales 
 
-__Martin Schmidt__ (University of Trier) 
+## Martin Schmidt 
 
-__Maria Grazia Speranza__ (University of Brescia) 
+## Maria Grazia Speranza  
 
 # Committees
 
