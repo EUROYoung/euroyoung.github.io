@@ -1,6 +1,7 @@
 ---
 title: "Workshop - Naples 2025"
 layout: single
+classes: wide
 toc: true
 toc_label: "Content"
 toc_sticky: true
