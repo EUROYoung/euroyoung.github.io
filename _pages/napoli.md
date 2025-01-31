@@ -12,17 +12,30 @@ permalink: /napoli/
 
 A variety of common markup showing how the theme styles them.
 
-# Header one
+# Committees
 
-## Header two
+## Scientific Committee
+Claudio Sterle
+Andrea Mancuso 
+Adriano Masone 
+Martina Cerulli
+Alan
+Yasmine
+Laura 
+Marta Baldomero-Naranjo
+Antonio Diglio 
+Carmela Piccolo 
 
-### Header three
+## Organizing Committee
+Andrea Mancuso 
+Adriano Masone 
+Marta Baldomero-Naranjo
+Domenico (Salerno)  
+Carmine (Salerno)  
+Eduardo 
+Danilo 
 
-#### Header four
 
-##### Header five
-
-###### Header six
 
 ## Blockquotes
 
