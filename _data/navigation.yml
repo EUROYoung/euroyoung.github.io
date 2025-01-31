@@ -2,6 +2,8 @@
 main:
   - title: "Home"
     url: /
+  - title: "Naples 2025"
+    url: /napoli/ 
   - title: "Workshop"
     url: /workshop/ 
   - title: "Past Events"
