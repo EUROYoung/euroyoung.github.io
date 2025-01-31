@@ -62,6 +62,26 @@ Carmela Piccolo
  
  Danilo 
 
+# Scientific Programme
+
+# Social Programme
+
+# Abstracts
+All participants wishing to attend the worshop are required to submit an abstract __following the provided template__. 
+
+Each attendee is allowed to present one abstract at the conference.
+
+Please submit your abstract no later than February 19, 2025. All submissions will be reviewed by members of the scientific committee. Notification of the decision of the referees will be sent to the corresponding author by March 10, 2025.
+
+## Template
+You can download the template HERE.
+
+Please notice that these submissions that not meet the instructions provided will be discarded. 
+
+
+
+
+
 # Contact
 euroyoung@euro-online.org
 
