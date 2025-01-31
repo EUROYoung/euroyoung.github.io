@@ -11,9 +11,11 @@ permalink: /napoli/
 ---
 
 # Important Dates 
-Abstract Submission __1 March 2025__- __15 April 2025__ 
-Registration __1 May 2025__- __1 June 2025__ 
-Workshop __15 October 2025__- __17 October 2025__
+__Abstract Submission__ 1 March 2025 - 15 April 2025 
+
+__Registration__ 1 May 2025 - 1 June 2025 
+
+__Workshop__ 15 October 2025 - 17 October 2025
 
 # Plenary Speakers
 
