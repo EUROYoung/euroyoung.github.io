@@ -5,6 +5,9 @@ toc: true
 toc_label: "Content"
 toc_sticky: true
 author_profile: true
+header:
+  overlay_image: /assets/images/EURO.png
+  overlay_filter: 0.3
 permalink: /napoli/
 ---
 
