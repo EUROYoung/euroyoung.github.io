@@ -2,6 +2,7 @@
 title: "Workshop - Naples 2025"
 layout: archive
 toc: true
+toc_sticky: true
 permalink: /napoli/
 ---
 
