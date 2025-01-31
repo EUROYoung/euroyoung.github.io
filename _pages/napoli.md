@@ -4,6 +4,7 @@ layout: single
 toc: true
 toc_label: "Content"
 toc_sticky: true
+author_profile: true
 permalink: /napoli/
 ---
 
