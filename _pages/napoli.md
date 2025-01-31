@@ -19,9 +19,9 @@ A variety of common markup showing how the theme styles them.
 * Andrea Mancuso 
 * Adriano Masone 
 * Martina Cerulli
-* Alan
-* Yasmine
-* Laura 
+* Alan Osorio-Mora
+* Yasmine Beck
+* Laura Davila-Pena
 * Marta Baldomero-Naranjo
 * Antonio Diglio 
 * Carmela Piccolo 
