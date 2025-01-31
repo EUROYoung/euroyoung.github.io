@@ -18,30 +18,49 @@ __Registration__ 1 May 2025 - 1 June 2025
 __Workshop__ 15 October 2025 - 17 October 2025
 
 # Plenary Speakers
+__Dolores Romero Morales__ (Copenhagen Business School)
 
+__Martin Schmidt__ (University of Trier) 
+
+__Maria Grazia Speranza__ (University of Brescia) 
 
 # Committees
 
 ## Scientific Committee
-* Claudio Sterle
-* Andrea Mancuso 
-* Adriano Masone 
-* Martina Cerulli
-* Alan Osorio-Mora
-* Yasmine Beck
-* Laura Davila-Pena
-* Marta Baldomero-Naranjo
-* Antonio Diglio 
-* Carmela Piccolo 
+Claudio Sterle
+
+Andrea Mancuso 
+
+Adriano Masone 
+
+Martina Cerulli
+
+Alan Osorio-Mora
+
+Yasmine Beck
+
+Laura Davila-Pena
+
+Marta Baldomero-Naranjo
+
+Antonio Diglio 
+
+Carmela Piccolo 
 
 ## Organizing Committee
-* Andrea Mancuso 
-* Adriano Masone 
-* Marta Baldomero-Naranjo
-* Domenico (Salerno)  
-* Carmine (Salerno)  
-* Eduardo 
-* Danilo 
+ Andrea Mancuso 
+
+ Adriano Masone 
+ 
+ Marta Baldomero-Naranjo
+ 
+ Domenico (Salerno)  
+ 
+ Carmine (Salerno)  
+ 
+ Eduardo 
+ 
+ Danilo 
 
 # Contact
 euroyoung@euro-online.org
