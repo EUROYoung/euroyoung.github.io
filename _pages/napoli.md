@@ -10,7 +10,12 @@ header:
 permalink: /napoli/
 ---
 
-# Important Dates
+# Important Dates 
+Abstract Submission __1 March 2025__- __15 April 2025__ 
+Registration __1 May 2025__- __1 June 2025__ 
+Workshop __15 October 2025__- __17 October 2025__
+
+# Plenary Speakers
 
 
 # Committees
@@ -38,4 +43,6 @@ permalink: /napoli/
 
 # Contact
 euroyoung@euro-online.org
+
+# Sponsors
 
