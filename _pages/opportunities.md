@@ -2,6 +2,7 @@
 title: "Opportunities"
 permalink: /opportunities/
 author_profile: true
+toc: true
 layout: single
 classes: wide
 ---
