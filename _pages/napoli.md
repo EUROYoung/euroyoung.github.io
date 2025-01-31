@@ -15,25 +15,25 @@ A variety of common markup showing how the theme styles them.
 # Committees
 
 ## Scientific Committee
-Claudio Sterle
-Andrea Mancuso 
-Adriano Masone 
-Martina Cerulli
-Alan
-Yasmine
-Laura 
-Marta Baldomero-Naranjo
-Antonio Diglio 
-Carmela Piccolo 
+* Claudio Sterle
+* Andrea Mancuso 
+* Adriano Masone 
+* Martina Cerulli
+* Alan
+* Yasmine
+* Laura 
+* Marta Baldomero-Naranjo
+* Antonio Diglio 
+* Carmela Piccolo 
 
 ## Organizing Committee
-Andrea Mancuso 
-Adriano Masone 
-Marta Baldomero-Naranjo
-Domenico (Salerno)  
-Carmine (Salerno)  
-Eduardo 
-Danilo 
+* Andrea Mancuso 
+* Adriano Masone 
+* Marta Baldomero-Naranjo
+* Domenico (Salerno)  
+* Carmine (Salerno)  
+* Eduardo 
+* Danilo 
 
 
 
