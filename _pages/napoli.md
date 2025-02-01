@@ -71,13 +71,22 @@ All participants wishing to attend the worshop are required to submit an abstrac
 
 Each attendee is allowed to present one abstract at the conference.
 
-Please submit your abstract no later than February 19, 2025. All submissions will be reviewed by members of the scientific committee. Notification of the decision of the referees will be sent to the corresponding author by March 10, 2025.
+Please submit your abstract __no later than April 15, 2025__. All submissions will be reviewed by members of the scientific committee. Notification of the decision of the referees will be sent to the corresponding author by April 25, 2025.
 
 ## Template
 You can download the template HERE.
 
-Please notice that these submissions that not meet the instructions provided will be discarded. 
+## Submission Process
+All the abstracts must be send in PDF format to euroyoung@euro-online.org.
+The name of the file must be your own name (e.g., alanosoriomora.pdf).  
+The subject of the email must be “Submission Workshop Napoli _your name_ ” (e.g., Submission Workshop Napoli Alan Osorio-Mora).
 
+__Please notice that these submissions that not meet the instructions provided might be discarded.__ 
+
+## After acceptance
+The EuroYoung workshop is focussed on early career researchers, consequently we try our best in order to keep the fee as low as possible.
+In return we ask to the participants to avoid bad practices such as submiting abstracts if not completly about attending.
+Given that, in order to ensure your spot at the workshop __the selected participant must pay the fee within 10 days after the acceptance notification__. If not, the selection will be inmediatly cancelled, and the spot will be re-assigned to other candidate.  
 
 
 
