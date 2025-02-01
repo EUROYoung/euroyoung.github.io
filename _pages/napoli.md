@@ -6,7 +6,7 @@ toc: true
 toc_label: "Content"
 author_profile: true
 header:
-  image: /assets/images/EURO.png
+  image: /assets/images/napoli2.jpeg
 permalink: /napoli/
 ---
 
@@ -16,6 +16,10 @@ __Abstract Submission__ 1 March 2025 - 15 April 2025
 __Registration__ 1 May 2025 - 1 June 2025 
 
 __Workshop__ 15 October 2025 - 17 October 2025
+
+<img src="/assets/images/napoli1.jpeg" alt="" class="full">
+
+<img src="/assets/images/napoli3.jpeg" alt="" class="full">
 
 # Plenary Speakers
 ## Dolores Romero Morales 
