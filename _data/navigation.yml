@@ -4,8 +4,8 @@ main:
     url: /
   - title: "Naples 2025"
     url: /napoli/ 
-  - title: "Workshop"
-    url: /workshop/ 
+  #- title: "Workshop"
+  #  url: /workshop/ 
   - title: "Past Events"
     url: /pastworkshops/ 
   #- title: "Publications"
