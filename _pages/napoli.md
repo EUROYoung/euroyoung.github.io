@@ -71,7 +71,6 @@ Carmela Piccolo
 # Social Programme
 
 # Venue
-<iframe src="[https://www.google.com/maps/d/embed?mid=1ELysbd_HcyENvsuK5auBFbFpwZ0](https://www.google.com/maps/place/universidad+federico+II/@40.8362183,14.2339762,17z/data=!3m1!4b1!4m6!3m5!1s0x133b092e2ca8f27d:0xb737ade1c2211516!8m2!3d40.8362183!4d14.2365511!16s%2Fg%2F11t3c4w19c?entry=ttu&g_ep=EgoyMDI1MDEyOS4xIKXMDSoASAFQAw%3D%3D)" width="640" height="480"></iframe>
 
 
 # Abstracts
