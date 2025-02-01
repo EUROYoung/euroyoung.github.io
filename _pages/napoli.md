@@ -6,7 +6,7 @@ toc: true
 toc_label: "Content"
 author_profile: true
 header:
-  image: /assets/images/napoli2.jpeg
+  image: /assets/images/napoli4.jpeg
 permalink: /napoli/
 ---
 
@@ -19,7 +19,17 @@ __Workshop__ 15 October 2025 - 17 October 2025
 
 <img src="/assets/images/napoli1.jpeg" alt="" class="full">
 
+<img src="/assets/images/napoli2.jpeg" alt="" class="full">
+
 <img src="/assets/images/napoli3.jpeg" alt="" class="full">
+
+<img src="/assets/images/napoli4.jpeg" alt="" class="full">
+
+<img src="/assets/images/napoli5.jpeg" alt="" class="full">
+
+<img src="/assets/images/napoli6.jpeg" alt="" class="full">
+
+<img src="/assets/images/napoli7.jpeg" alt="" class="full">
 
 # Plenary Speakers
 ## Dolores Romero Morales 
@@ -27,6 +37,11 @@ __Workshop__ 15 October 2025 - 17 October 2025
 ## Martin Schmidt 
 
 ## Maria Grazia Speranza  
+
+<img src="/assets/images/napolihorizontal.jpeg" alt="" class="full">
+
+<img src="/assets/images/napolihorizontal2.jpeg" alt="" class="full">
+
 
 # Committees
 
