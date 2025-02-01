@@ -4,7 +4,6 @@ layout: single
 classes: wide
 toc: true
 toc_label: "Content"
-toc_sticky: true
 author_profile: true
 header:
   image: /assets/images/EURO.png
