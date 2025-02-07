@@ -7,7 +7,7 @@ toc_sticky: false
 toc_label: "Content"
 author_profile: false
 header:
-  image: /assets/images/napoli4.jpeg
+  overlay_image: /assets/images/napoli4.jpeg
 permalink: /napoli/
 gallery:
   - url: /assets/images/napoli1.jpeg
