@@ -10,6 +10,7 @@ header:
 permalink: /napoli/
 ---
 
+
 # Important Dates 
 __Abstract Submission__ 1 March 2025 - 15 April 2025 
 
@@ -131,4 +132,5 @@ Given that, in order to ensure your spot at the workshop __the selected particip
 euroyoung@euro-online.org
 
 # Sponsors
+
 
