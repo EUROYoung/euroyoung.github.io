@@ -3,7 +3,7 @@ title: "Workshop - Naples 2025"
 layout: single
 classes: wide
 toc: true
-toc_sticky: true
+toc_sticky: false
 toc_label: "Content"
 author_profile: true
 header:
