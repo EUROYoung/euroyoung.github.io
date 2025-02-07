@@ -36,7 +36,8 @@ gallery:
     title: "Image repetida"
 ---
 
-Join us for an exciting Workshop on Operational Research in the beautiful city of Naples, where young researchers will have the opportunity to engage with leading experts in the field. This event will feature plenary talks by top researchers, providing valuable insights into cutting-edge advancements and real-world applications. Beyond the academic sessions, enjoy networking opportunities and social activities, all set against the stunning backdrop of Naples—a city rich in history, culture, and cuisine. Don't miss this chance to expand your knowledge, connect with peers, and experience the charm of one of Italy’s most vibrant cities!
+# About
+Join us for an exciting Workshop on Operational Research in the beautiful city of Naples, where young researchers will have the opportunity to engage with leading experts in the field. This event will feature plenary talks by top researchers, providing valuable insights into cutting-edge advancements and real-world applications. Beyond the academic sessions, enjoy networking opportunities and social activities, all set against the stunning backdrop of Naples, a city rich in history, culture, and cuisine. Don't miss this chance to expand your knowledge, connect with peers, and experience the charm of one of Italy’s most vibrant cities!
 
 # Important Dates 
 __Abstract Submission__ 1 March 2025 - 15 April 2025 
