@@ -26,16 +26,16 @@ gallery:
     image_path: /assets/images/napoli5.jpeg
     alt: "placeholder image 5"
     title: "Image 2 title caption"
+  - url: /assets/images/napoli7.jpeg
+    image_path: /assets/images/napoli7.jpeg
+    alt: "placeholder image 5"
+    title: "Image 2 title caption"
+  - url: /assets/images/napoli1.jpeg
+    image_path: /assets/images/napoli1.jpeg
+    alt: "placeholder image 5"
+    title: "Image repetida"
 ---
 
- [comment]: - url: /assets/images/napoli3.jpeg
-    [comment]: image_path: /assets/images/napoli3.jpeg
-    [comment]: alt: "placeholder image 3"
-    [comment]: title: "Image 3 title caption"
-      [comment]:- url: /assets/images/napoli6.jpeg
-  [comment]:  image_path: /assets/images/napoli6.jpeg
-   [comment]: alt: "placeholder image 6"
-    [comment]: title: "Image 3 title caption"
 
 # Important Dates 
 __Abstract Submission__ 1 March 2025 - 15 April 2025 
