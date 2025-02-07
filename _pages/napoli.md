@@ -5,7 +5,7 @@ classes: wide
 toc: true
 toc_sticky: false
 toc_label: "Content"
-author_profile: true
+author_profile: false
 header:
   image: /assets/images/napoli4.jpeg
 permalink: /napoli/
