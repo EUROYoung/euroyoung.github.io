@@ -94,32 +94,32 @@ Grazia is cited in the _“World’s 2% Top Scientists” ranking_. She is also 
 # Committees
 
 ## Scientific Committee
-Claudio Sterle - University of Naples Federico II, Italy
+Claudio Sterle (_University of Naples Federico II, Italy_)
 
-Andrea Mancuso - University of Naples Federico II, Italy
+Andrea Mancuso (University of Naples Federico II, Italy)
 
-Adriano Masone - University of Naples Federico II, Italy
+Adriano Masone (University of Naples Federico II, Italy)
 
-Martina Cerulli - University of Salerno, Italy
+Martina Cerulli (University of Salerno, Italy)
 
-Alan Osorio-Mora - RPTU Kaiserslautern, Germany 
+Alan Osorio-Mora (RPTU Kaiserslautern, Germany) 
 
-Yasmine Beck - ESSEC Business School of Paris, France
+Yasmine Beck (ESSEC Business School of Paris, France)
 
-Laura Davila-Pena - University of Kent, U.K.
+Laura Davila-Pena (University of Kent, U.K.)
 
-Marta Baldomero-Naranjo - Universidad de Cádiz, Spain
+Marta Baldomero-Naranjo (Universidad de Cádiz, Spain)
 
-Antonio Diglio - University of Naples Federico II, Italy
+Antonio Diglio (University of Naples Federico II, Italy)
 
-Carmela Piccolo -  University of Naples Federico II, Italy
+Carmela Piccolo (University of Naples Federico II, Italy)
 
 ## Organizing Committee
- Andrea Mancuso -  University of Naples Federico II, Italy
+ Andrea Mancuso (University of Naples Federico II, Italy)
 
- Adriano Masone -  University of Naples Federico II, Italy
+ Adriano Masone (University of Naples Federico II, Italy)
  
- Marta Baldomero-Naranjo - Universidad de Cádiz, Spain
+ Marta Baldomero-Naranjo (Universidad de Cádiz, Spain)
  
  [comment]: Domenico (Salerno)  
  
