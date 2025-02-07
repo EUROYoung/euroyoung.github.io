@@ -9,6 +9,31 @@ author_profile: false
 header:
   image: /assets/images/napoli4.jpeg
 permalink: /napoli/
+gallery:
+  - url: /assets/images/napoli1.jpeg
+    image_path: /assets/images/napoli1.jpeg
+    alt: "placeholder image 1"
+    title: "Image 1 title caption"
+  - url: /assets/images/napoli2.jpeg
+    image_path: /assets/images/napoli2.jpeg
+    alt: "placeholder image 2"
+    title: "Image 2 title caption"
+  - url: /assets/images/napoli3.jpeg
+    image_path: /assets/images/napoli3.jpeg
+    alt: "placeholder image 3"
+    title: "Image 3 title caption"
+  - url: /assets/images/napoli4.jpeg
+    image_path: /assets/images/napoli4.jpeg
+    alt: "placeholder image 4"
+    title: "Image 1 title caption"
+  - url: /assets/images/napoli5.jpeg
+    image_path: /assets/images/napoli5.jpeg
+    alt: "placeholder image 5"
+    title: "Image 2 title caption"
+  - url: /assets/images/napoli6.jpeg
+    image_path: /assets/images/napoli6.jpeg
+    alt: "placeholder image 6"
+    title: "Image 3 title caption"
 ---
 
 
@@ -18,6 +43,8 @@ __Abstract Submission__ 1 March 2025 - 15 April 2025
 __Registration__ 1 May 2025 - 1 June 2025 
 
 __Workshop__ 15 October 2025 - 17 October 2025
+
+{% include gallery caption="This is a sample gallery with **Markdown support**." %}
 
 <img src="/assets/images/napoli1.jpeg" alt="" class="full">
 
