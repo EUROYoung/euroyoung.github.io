@@ -1,5 +1,5 @@
 ---
-title: "Welcome to the V<sup>th</sup> EUROYoung Workshop - Naples 2025"
+title: "The V<sup>th</sup> EUROYoung Workshop - Naples 2025"
 layout: single
 classes: wide
 toc: true
