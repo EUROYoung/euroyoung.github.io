@@ -35,19 +35,22 @@ __Workshop__ 15 October 2025 - 17 October 2025
 # Plenary Speakers
 ## Dolores Romero Morales 
 <img src="/assets/images/DoloresRomeroMorales.jpg" alt="" class="full">
+
 Dolores Romero Morales is a professor of operations research at Copenhagen Business School, Denmark. Her areas of expertise include explainability and fairness in data science as well as sustainable supply chain management. Dolores currently serves as the Editor-in-Chief of _TOP_ and as an associate editor of the _Journal of the Operational Research Society_ as well as the _INFORMS Journal on Data Science_. Moreover, she is an _Honorary SAS Fellow_ and a member of the _SAS Academic Advisory Board_.
 
 Among her recent achievements, Dolores (together with her co-authors) was awarded the 2024 _Spanish Society of Statistics and Operations Research — BBVA Foundation Award_ for the best contribution in statistics and operations research applied to data science and big data published in the _European Journal of Operational Research_. Beyond research, Dolores actively supports early-career researchers through initiatives such as _YoungWomen4OR_, a program within the _EURO WISDOM Forum_ that aims at increasing the visibility of young female researchers in operations research across _EURO_.
 
 ## Martin Schmidt 
 <img src="/assets/images/MartinSchmidt.jpg" alt="" class="full">
+
 Martin Schmidt is a professor of nonlinear optimization at Trier University, Germany. His research interests include bilevel optimization, optimization under uncertainty, equilibrium models, and applications in energy markets. He is the speaker of the research training group _Algorithmic Optimization_ at Trier University, a fellow of the _Energy Campus Nuremberg_, and a member of the _International Scientific Committee_ of the Instituto Universitario de Investigación de Matemáticas y Aplicaciones of Universidad de Zaragoza. 
 
 Martin currently serves on the editorial board of _Optimization Letters_ and he is an associate editor of the _Journal of Optimization Theory and Applications_, _OR Spectrum_, and the _EURO Journal on Computational Optimization_, as well as a technical editor of _Mathematical Programming Computation_.
 
 Among his recent achievements, Martin (together with his co-authors) was awarded the _Optimization Letters Best Paper Award_, the _Marguerite Frank Award_ for the best _EURO Journal on Computational Optimization_ paper, and the _Mathematical Methods of Operations Research Best Paper Award_, all in 2021.
 
-## Maria Grazia Speranza  
+## Maria Grazia Speranza 
+
 M. Grazia Speranza is full professor of Operations Research at the University of Brescia. She was President of the _International Federation of Operational Research Societies (IFORS)_, of the association of _European Operational Research Societies (EURO)_ and of the _Transportation Science and Logistics (TSL)_ society of _INFORMS_.
 
 Grazia’s research is in the area of mixed integer programming and combinatorial optimization, with a focus on applications to transportation and logistics. She is author of more than 200 papers. She is currently a member of the advisory board of editors for _Transportation Science_, editor of the series _EURO Advanced Tutorials in Operational Research_, and a member of the editorial boards of the _EURO Journal on Transportation and Logistics_, _International Transactions in Operational Research_, and _4OR_.  
