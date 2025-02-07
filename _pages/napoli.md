@@ -26,8 +26,8 @@ gallery:
     image_path: /assets/images/napoli5.jpeg
     alt: "placeholder image 5"
     title: "Image 2 title caption"
-  - url: /assets/images/napoli7.jpeg
-    image_path: /assets/images/napoli7.jpeg
+  - url: /assets/images/napoli2.jpeg
+    image_path: /assets/images/napoli2.jpeg
     alt: "placeholder image 5"
     title: "Image 2 title caption"
   - url: /assets/images/napoli1.jpeg
