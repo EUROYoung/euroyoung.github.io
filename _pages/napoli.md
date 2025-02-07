@@ -18,10 +18,6 @@ gallery:
     image_path: /assets/images/napoli2.jpeg
     alt: "placeholder image 2"
     title: "Image 2 title caption"
-  - url: /assets/images/napoli3.jpeg
-    image_path: /assets/images/napoli3.jpeg
-    alt: "placeholder image 3"
-    title: "Image 3 title caption"
   - url: /assets/images/napoli4.jpeg
     image_path: /assets/images/napoli4.jpeg
     alt: "placeholder image 4"
@@ -30,12 +26,16 @@ gallery:
     image_path: /assets/images/napoli5.jpeg
     alt: "placeholder image 5"
     title: "Image 2 title caption"
-  - url: /assets/images/napoli6.jpeg
-    image_path: /assets/images/napoli6.jpeg
-    alt: "placeholder image 6"
-    title: "Image 3 title caption"
 ---
 
+ [comment]: - url: /assets/images/napoli3.jpeg
+    [comment]: image_path: /assets/images/napoli3.jpeg
+    [comment]: alt: "placeholder image 3"
+    [comment]: title: "Image 3 title caption"
+      [comment]:- url: /assets/images/napoli6.jpeg
+  [comment]:  image_path: /assets/images/napoli6.jpeg
+   [comment]: alt: "placeholder image 6"
+    [comment]: title: "Image 3 title caption"
 
 # Important Dates 
 __Abstract Submission__ 1 March 2025 - 15 April 2025 
@@ -44,21 +44,21 @@ __Registration__ 1 May 2025 - 1 June 2025
 
 __Workshop__ 15 October 2025 - 17 October 2025
 
-{% include gallery caption="This is a sample gallery with **Markdown support**." %}
+{% include gallery caption="Check out some of the highlights of Naples (no edited photos!)" %}
 
-<img src="/assets/images/napoli1.jpeg" alt="" class="full">
+[comment]: <img src="/assets/images/napoli1.jpeg" alt="" class="full">
 
-<img src="/assets/images/napoli2.jpeg" alt="" class="full">
+[comment]: <img src="/assets/images/napoli2.jpeg" alt="" class="full">
 
-<img src="/assets/images/napoli3.jpeg" alt="" class="full">
+[comment]: <img src="/assets/images/napoli3.jpeg" alt="" class="full">
 
-<img src="/assets/images/napoli4.jpeg" alt="" class="full">
+[comment]: <img src="/assets/images/napoli4.jpeg" alt="" class="full">
 
-<img src="/assets/images/napoli5.jpeg" alt="" class="full">
+[comment]: <img src="/assets/images/napoli5.jpeg" alt="" class="full">
 
-<img src="/assets/images/napoli6.jpeg" alt="" class="full">
+[comment]: <img src="/assets/images/napoli6.jpeg" alt="" class="full">
 
-<img src="/assets/images/napoli7.jpeg" alt="" class="full">
+[comment]: <img src="/assets/images/napoli7.jpeg" alt="" class="full">
 
 # Plenary Speakers
 ## Dolores Romero Morales 
