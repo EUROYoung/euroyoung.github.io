@@ -70,6 +70,14 @@ Dolores Romero Morales is a professor of Operations Research at Copenhagen Busin
 
 Among her recent achievements, Dolores (together with her co-authors) was awarded the 2024 _Spanish Society of Statistics and Operations Research — BBVA Foundation Award_ for the best contribution in statistics and operations research applied to data science and big data published in the _European Journal of Operational Research_. Beyond research, Dolores actively supports early-career researchers through initiatives such as _YoungWomen4OR_, a program within the _EURO WISDOM Forum_ that aims at increasing the visibility of young female researchers in operations research across _EURO_.
 
+## Maurizio Boccia 
+[comment]: <img src="/assets/images/MBoccia.jpg" alt="" class="full">
+
+Maurizio Boccia is a full professor of Operations Research at the University of Naples Federico II, Italy. His research interests include large-scale linear integer programming and the development of exact and heuristic methods for complex combinatorial and network optimization problems, with applications in scheduling, location, routing, and location-routing. He also focuses on truck-and-drone routing problems and has collaborated with several international institutions, including CORE (Belgium), SINTEF ICT (Norway), and the University of Quebec-Montreal. 
+
+He is a member of the Board of Professors of the Ph.D. program in Information Technology and Electrical Engineering (ITEE) at the University of Naples Federico II. He has been the scientific coordinator of multiple European, national, and regional research units, as well as numerous collaborations with private companies such as OptRail S.r.l., NGI SpA, ITALTEL SpA, Elasis SpA, and ITALDATA SpA.
+
+
 ## Martin Schmidt 
 <img src="/assets/images/MartinSchmidt.jpg" alt="" class="full">
 
@@ -107,7 +115,7 @@ Martina Cerulli (_University of Salerno, Italy_)
 
 Alan Osorio-Mora (_RPTU Kaiserslautern, Germany_) 
 
-Yasmine Beck (_ESSEC Business School of Paris, France_)
+Yasmine Beck (_ESSEC Business School, France_)
 
 Laura Davila-Pena (_University of Kent, U.K._)
 
