@@ -14,7 +14,7 @@ classes: wide
 [__Andrea Mancuso__](https://scholar.google.com/citations?hl=en&user=yb3uVecAAAAJ) (Università di Napoli Federico II, Italy)
 
 <img src="/assets/images/YasmineBeck.jpg" width="200" />
-[__Yasmine Beck__](https://yasminebeck.github.io/) (ESSEC Business School Paris-Cergy, France)
+[__Yasmine Beck__](https://yasminebeck.github.io/) (ESSEC Business School, France)
 
 <img src="/assets/images/LauraDavilaPena.jpeg" width="200" />
 [__Laura Davila Pena__](https://scholar.google.com/citations?hl=en&user=0qATOf0AAAAJ) (University of Kent, U.K)
