@@ -80,6 +80,7 @@ Martin currently serves on the editorial board of _Optimization Letters_ and he 
 Among his recent achievements, Martin (together with his co-authors) was awarded the _Optimization Letters Best Paper Award_, the _Marguerite Frank Award_ for the best _EURO Journal on Computational Optimization_ paper, and the _Mathematical Methods of Operations Research Best Paper Award_, all in 2021.
 
 ## Maria Grazia Speranza 
+<img src="/assets/images/MGrazia.jpg" alt="" class="full">
 
 M. Grazia Speranza is full professor of Operations Research at the University of Brescia. She was President of the _International Federation of Operational Research Societies (IFORS)_, of the association of _European Operational Research Societies (EURO)_ and of the _Transportation Science and Logistics (TSL)_ society of _INFORMS_.
 
