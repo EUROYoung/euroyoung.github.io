@@ -156,6 +156,8 @@ Each attendee is allowed to present one abstract at the conference.
 
 Please submit your abstract __no later than April 15, 2025__. All submissions will be reviewed by members of the scientific committee. Notification of the decision of the referees will be sent to the corresponding author by April 25, 2025.
 
+__Priority will be given to early-career researchers affiliated with institutions within EURO.__
+
 ## Template
 You can download the template HERE.
 
@@ -178,5 +180,12 @@ Given that, in order to ensure your spot at the workshop __the selected particip
 euroyoung@euro-online.org
 
 # Sponsors
+We highly appreciatte the support of the following sponsors.
 
+<img src="/assets/images/MGrazia.jpg" alt="" class="full">
 
+<img src="/assets/images/EURO.jpg" alt="Girl in a jacket" width="500" height="600">
+
+<img src="/assets/images/AIRO" alt="Girl in a jacket" width="500" height="600">
+
+<img src="/assets/images/DEPNAPOLI" alt="Girl in a jacket" width="500" height="600">
