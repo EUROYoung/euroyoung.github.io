@@ -188,4 +188,4 @@ euroyoung@euro-online.org
 # Sponsors
 We highly appreciate the support of the following sponsors.
 
-<img src="/assets/images/EURO.png" alt="Girl in a jacket" width="300" height="300"> <img src="/assets/images/AIRO.png" alt="Girl in a jacket" width="200" height="200"> <img src="/assets/images/UNINA.jpeg" alt="UNINA" width="300" height="300">
+<img src="/assets/images/EURO.png" alt="Girl in a jacket" width="300" height="300"> <img src="/assets/images/AIRO.png" alt="Girl in a jacket" width="200" height="200"> <img src="/assets/images/UNINA.jpeg" alt="UNINA" width="300" height="150">
