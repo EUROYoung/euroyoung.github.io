@@ -111,7 +111,7 @@ Yasmine Beck (_ESSEC Business School, France_)
 
 Martina Cerulli (_University of Salerno, Italy_)
 
-Laura Davila-Pena (_University of Kent, U.K._)
+Laura Davila-Pena (_University of Kent, UK_)
 
 Antonio Diglio (_University of Naples Federico II, Italy_)
 
