@@ -175,7 +175,7 @@ The subject of the email must be “Submission Workshop Napoli _your name_ ” (
 __Please notice that these submissions that do not meet the instructions provided might be discarded.__ 
 
 ## After acceptance
-The EuroYoung workshop is focused on early career researchers, consequently we try our best in order to keep the fee as low as possible.
+The EUROYoung workshop is focused on early career researchers, consequently we try our best in order to keep the fee as low as possible.
 In return we ask to the participants to avoid bad practices such as submitting abstracts if not completely about attending.
 Given that, in order to ensure your spot at the workshop __the selected participant must pay the fee within 10 days after the acceptance notification__. If not, the selection will be intermediately canceled, and the spot will be re-assigned to other candidate.  
 
