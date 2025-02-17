@@ -143,10 +143,16 @@ Claudio Sterle (_University of Naples Federico II, Italy_)
  [comment]: Danilo 
 
 # Scientific Programme
+To be added soon.
 
 # Social Programme
+To be added soon.
 
 # Venue
+The workshop will take place at the University Of Naples Federico II.
+
+You can take a look of the surroundings of the _DIPARTIMENTO DI INGEGNERIA ELETTRICA E TECNOLOGIE DELL'INFORMAZIONE_ in the following map.
+
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3018.623976758409!2d14.233976176656633!3d40.836222330000616!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x133b092e2ca8f27d%3A0xb737ade1c2211516!2suniversidad%20federico%20II!5e0!3m2!1sen!2sde!4v1738934157041!5m2!1sen!2sde" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 # Abstracts
@@ -166,7 +172,7 @@ All the abstracts must be send in PDF format to euroyoung@euro-online.org.
 The name of the file must be your own name (e.g., alanosoriomora.pdf).  
 The subject of the email must be “Submission Workshop Napoli _your name_ ” (e.g., Submission Workshop Napoli Alan Osorio-Mora).
 
-__Please notice that these submissions that not meet the instructions provided might be discarded.__ 
+__Please notice that these submissions that do not meet the instructions provided might be discarded.__ 
 
 ## After acceptance
 The EuroYoung workshop is focused on early career researchers, consequently we try our best in order to keep the fee as low as possible.
@@ -182,4 +188,4 @@ euroyoung@euro-online.org
 # Sponsors
 We highly appreciate the support of the following sponsors.
 
-<img src="/assets/images/EURO.png" alt="Girl in a jacket" width="300" height="300"> <img src="/assets/images/AIRO.png" alt="Girl in a jacket" width="200" height="200"> <img src="/assets/images/DEPNAPOLI.jpeg" alt="UNINA" width="300" height="300">
+<img src="/assets/images/EURO.png" alt="Girl in a jacket" width="300" height="300"> <img src="/assets/images/AIRO.png" alt="Girl in a jacket" width="200" height="200"> <img src="/assets/images/UNINA.jpeg" alt="UNINA" width="300" height="300">
