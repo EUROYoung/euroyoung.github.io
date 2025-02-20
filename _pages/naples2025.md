@@ -39,10 +39,10 @@ gallery2:
 
  
 gallery3:
-  - url: /assets/images/duomo.jpeg
-    image_path: /assets/images/duomo.jpeg
+  - url: /assets/images/castle.jpeg
+    image_path: /assets/images/castle.jpeg
     alt: "placeholder image 5"
-    title: "duomo"
+    title: "castle"
   - url: /assets/images/duomonight.jpeg
     image_path: /assets/images/duomonight.jpeg
     alt: "placeholder image 5"
@@ -50,7 +50,21 @@ gallery3:
   - url: /assets/images/square.jpeg
     image_path: /assets/images/square.jpeg
     alt: "placeholder image 5"
-    title: "square"   
+    title: "square"
+
+gallery4:
+  - url: /assets/images/duomo.jpeg
+    image_path: /assets/images/duomo.jpeg
+    alt: "placeholder image 5"
+    title: "duomo"
+  - url: /assets/images/maradona.jpeg
+    image_path: /assets/images/maradona.jpeg
+    alt: "placeholder image 5"
+    title: "maradona"
+  - url: /assets/images/galeria.jpeg
+    image_path: /assets/images/galeria.jpeg
+    alt: "placeholder image 5"
+    title: "galleria"       
 ---
 
 # About
@@ -174,6 +188,9 @@ The workshop will take place at the University Of Naples Federico II.
 You can take a look of the surroundings of the _DIPARTIMENTO DI INGEGNERIA ELETTRICA E TECNOLOGIE DELL'INFORMAZIONE_ in the following map.
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3018.623976758409!2d14.233976176656633!3d40.836222330000616!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x133b092e2ca8f27d%3A0xb737ade1c2211516!2suniversidad%20federico%20II!5e0!3m2!1sen!2sde!4v1738934157041!5m2!1sen!2sde" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+{% include gallery id="gallery4" caption="Check out some of the highlights of Naples (no edited photos!)" %}
+
 
 # Abstracts
 All participants wishing to attend the workshop are required to submit an abstract __following the provided template__. 
