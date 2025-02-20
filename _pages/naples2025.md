@@ -211,7 +211,7 @@ Notice that __rideshare apps like Uber are not legal in Italy__!
 
 
 # Contact
-euroyoung@euro-online.org
+If you have any query, write us! euroyoung@euro-online.org
 
 # Sponsors
 We highly appreciate the support of the following sponsors.
