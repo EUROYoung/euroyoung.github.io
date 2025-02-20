@@ -180,12 +180,11 @@ Please submit your abstract __no later than April 15, 2025__. All submissions wi
 __Priority will be given to early-career researchers affiliated with institutions within EURO.__
 
 ## Template
-You can download the template HERE.
+You can download the <a href="/assets/pdffiles/template.zip" download="newfilename">template HERE</a>.
 
 ## Submission Process
-All the abstracts must be send in PDF format to euroyoung@euro-online.org.
-The name of the file must be your own name (e.g., alanosoriomora.pdf).  
-The subject of the email must be “Submission Workshop Napoli _your name_ ” (e.g., Submission Workshop Napoli Alan Osorio-Mora).
+All the abstracts must be submitted in PDF format using the following [form (Here).](https://docs.google.com/forms/d/1g7nDFTNu0j_puacc3akc6wDTKjNOJqmhoyD243YC3KI/viewform?edit_requested=true)
+The name of the file must be your own name (e.g., surnames_names.pdf).  
 
 __Please notice that these submissions that do not meet the instructions provided might be discarded.__ 
 
