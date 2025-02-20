@@ -220,6 +220,7 @@ The fee will not exceed __€200 (worst-case scenario)__, and depending on the a
 The fee covers: 
 
 __Accommodation for 3 nights__ (from Wednesday to Friday).
+
 __Meals during the workshop__ (from Wednesday's dinner to Friday's dinner, including the respective breakfast, lunch and dinner during the mentioned period).
 
 
