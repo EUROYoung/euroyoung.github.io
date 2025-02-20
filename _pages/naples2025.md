@@ -220,7 +220,7 @@ __Meals during the workshop__ (breakfast, lunch and dinner).
 
 
 # Contact
-If you have any query, write us! euroyoung@euro-online.org
+If you have any query, write us! _euroyoung@euro-online.org_
 
 # Sponsors
 We highly appreciate the support of the following sponsors.
