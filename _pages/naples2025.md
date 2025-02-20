@@ -181,7 +181,7 @@ Your abstract must fit in a single page including the references and the short b
 All the abstracts must be submitted in PDF format using the following [form (here).](https://docs.google.com/forms/d/1g7nDFTNu0j_puacc3akc6wDTKjNOJqmhoyD243YC3KI/viewform?edit_requested=true)
 The name of the file must be your own name (e.g., surnames_names.pdf).  
 
-__Please notice that these submissions that do not meet all the instructions provided might be discarded.__ 
+__Please notice that those submissions that do not meet all the instructions provided might be discarded.__ 
 
 ## After acceptance
 The EUROYoung workshop is focused on early career researchers, consequently we try our best in order to keep the fee as low as possible.
