@@ -35,7 +35,7 @@ gallery:
     alt: "placeholder image 5"
     title: "Image repetida"
 
-    gallery2:
+gallery2:
   - url: /assets/images/napoli5.jpeg
     image_path: /assets/images/napoli5.jpeg
     alt: "placeholder image 5"
