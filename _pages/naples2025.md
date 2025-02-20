@@ -191,7 +191,7 @@ __Please notice that these submissions that do not meet the instructions provide
 
 ## After acceptance
 The EUROYoung workshop is focused on early career researchers, consequently we try our best in order to keep the fee as low as possible.
-In return we ask to the participants to avoid bad practices such as submitting abstracts if not completely about attending.
+In return we ask to the participants to avoid bad practices such as submitting abstracts if not completely sure about attending.
 Given that, in order to ensure your spot at the workshop __the selected participant must pay the fee within 10 days after the acceptance notification__. If not, the selection will be intermediately canceled, and the spot will be re-assigned to other candidate.  
 
 {% include gallery id="gallery4" caption="More to discover" %}
