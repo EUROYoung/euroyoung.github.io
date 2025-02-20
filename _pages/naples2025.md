@@ -158,29 +158,6 @@ To be added soon.
 {% include gallery id="gallery2" caption="Quartieri Spagnoli (Spanish Barracks)" %}
 
 
-# Venue
-The workshop will take place at the University Of Naples Federico II.
-
-<img src="/assets/images/venue.jpeg" alt="" width="500" height="300">
-
-You can take a look of the surroundings of the _Dipartimento di Ingegneria Elettrica e Tecnologie dell'Informazione_ in the following map.
-
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3018.623976758409!2d14.233976176656633!3d40.836222330000616!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x133b092e2ca8f27d%3A0xb737ade1c2211516!2suniversidad%20federico%20II!5e0!3m2!1sen!2sde!4v1738934157041!5m2!1sen!2sde" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-
-{% include gallery id="gallery3" caption="Monuments (castles, cathedral)" %}
-
-## How to get to Naples
-Arriving in Naples from other European countries is quite convenient, thanks to its well-connected transportation network. 
-The best way to get there is clearly by air ✈️ to Naples International Airport (NAP).
-
-Naples International Airport (Aeroporto di Napoli-Capodichino, NAP) is the main airport serving the city.
-It has direct flights from major European cities, including London, Paris, Madrid, Berlin, Amsterdam, Zurich, Vienna, and Barcelona.
-Budget airlines like Ryanair, easyJet, and Wizz Air offer affordable flights.
-From the airport, you can reach the city center in 15-20 minutes via:
-Alibus shuttle (€5) to Naples Central Station and the port.
-Taxi (fixed fare of around €25).
-Notice that __rideshare apps like Uber are not legal in Italy__!
-
 
 # Abstracts
 All participants wishing to attend the workshop are required to submit an abstract __following the provided template__. 
@@ -208,6 +185,29 @@ In return we ask to the participants to avoid bad practices such as submitting a
 Given that, in order to ensure your spot at the workshop __the selected participant must pay the fee within 10 days after the acceptance notification__. If not, the selection will be intermediately canceled, and the spot will be re-assigned to other candidate.  
 
 {% include gallery id="gallery4" caption="More to discover" %}
+
+# Venue
+The workshop will take place at the University Of Naples Federico II.
+
+<img src="/assets/images/venue.jpeg" alt="" width="500" height="300">
+
+You can take a look of the surroundings of the _Dipartimento di Ingegneria Elettrica e Tecnologie dell'Informazione_ in the following map.
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3018.623976758409!2d14.233976176656633!3d40.836222330000616!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x133b092e2ca8f27d%3A0xb737ade1c2211516!2suniversidad%20federico%20II!5e0!3m2!1sen!2sde!4v1738934157041!5m2!1sen!2sde" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+{% include gallery id="gallery3" caption="Monuments (castles, cathedral)" %}
+
+## How to get to Naples
+Arriving in Naples from other European countries is quite convenient, thanks to its well-connected transportation network. 
+The best way to get there is clearly by air ✈️ to Naples International Airport (NAP).
+
+Naples International Airport (Aeroporto di Napoli-Capodichino, NAP) is the main airport serving the city.
+It has direct flights from major European cities, including London, Paris, Madrid, Berlin, Amsterdam, Zurich, Vienna, and Barcelona.
+Budget airlines like Ryanair, easyJet, and Wizz Air offer affordable flights.
+From the airport, you can reach the city center in 15-20 minutes via:
+Alibus shuttle (€5) to Naples Central Station and the port.
+Taxi (fixed fare of around €25).
+Notice that __rideshare apps like Uber are not legal in Italy__!
 
 
 # Contact
