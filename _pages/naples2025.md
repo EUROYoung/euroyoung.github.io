@@ -169,6 +169,18 @@ You can take a look of the surroundings of the _Dipartimento di Ingegneria Elett
 
 {% include gallery id="gallery3" caption="Monuments (castles, cathedral)" %}
 
+## How to get to Naples
+Arriving in Naples from other European countries is quite convenient, thanks to its well-connected transportation network. 
+The best way to get there is clearly by air ✈️ to Naples International Airport (NAP).
+
+Naples International Airport (Aeroporto di Napoli-Capodichino, NAP) is the main airport serving the city.
+It has direct flights from major European cities, including London, Paris, Madrid, Berlin, Amsterdam, Zurich, Vienna, and Barcelona.
+Budget airlines like Ryanair, easyJet, and Wizz Air offer affordable flights.
+From the airport, you can reach the city center in 15-20 minutes via:
+Alibus shuttle (€5) to Naples Central Station and the port.
+Taxi (fixed fare of around €25).
+Notice that __rideshare apps like Uber are not legal in Italy__!
+
 
 # Abstracts
 All participants wishing to attend the workshop are required to submit an abstract __following the provided template__. 
