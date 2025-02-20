@@ -1,5 +1,5 @@
 ---
-title: "The V EUROYoung Workshop - Naples 2025"
+title: "The 5th EUROYoung Workshop - Naples 2025"
 layout: single
 classes: wide
 toc: true
@@ -8,7 +8,7 @@ toc_label: "Content"
 author_profile: false
 header:
   overlay_image: /assets/images/napoli4.jpeg
-permalink: /napoli/
+permalink: /naples2025/
 gallery:
   - url: /assets/images/napoli1.jpeg
     image_path: /assets/images/napoli1.jpeg
