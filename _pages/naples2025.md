@@ -199,7 +199,6 @@ You can take a look of the surroundings of the _Dipartimento di Ingegneria Elett
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3018.623976758409!2d14.233976176656633!3d40.836222330000616!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x133b092e2ca8f27d%3A0xb737ade1c2211516!2suniversidad%20federico%20II!5e0!3m2!1sen!2sde!4v1738934157041!5m2!1sen!2sde" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
-{% include gallery id="gallery3" caption="Monuments (castles, cathedral)" %}
 
 ## How to get to Naples
 
@@ -213,6 +212,9 @@ From the airport, you can reach the city center in 15-20 minutes via:
 Alibus shuttle (€5) to Naples Central Station and the port.
 Taxi (fixed fare of around €25).
 Notice that __rideshare apps like Uber are not legal in Italy__!
+
+
+{% include gallery id="gallery3" caption="Monuments (castles, cathedral)" %}
 
 ## What does the fee include?
 
