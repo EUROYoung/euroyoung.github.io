@@ -186,8 +186,8 @@ Given that, in order to ensure your spot at the workshop __the selected particip
 
 {% include gallery id="gallery4" caption="More to discover" %}
 
-# Venue
-The workshop will take place at the University Of Naples Federico II.
+# Venue and fee
+The workshop will take place at the __University Of Naples Federico II__.
 
 <img src="/assets/images/venue.jpeg" alt="" width="500" height="300">
 
@@ -198,6 +198,7 @@ You can take a look of the surroundings of the _Dipartimento di Ingegneria Elett
 {% include gallery id="gallery3" caption="Monuments (castles, cathedral)" %}
 
 ## How to get to Naples
+
 Arriving in Naples from other European countries is quite convenient, thanks to its well-connected transportation network. 
 The best way to get there is clearly by air ✈️ to Naples International Airport (NAP).
 
@@ -208,6 +209,14 @@ From the airport, you can reach the city center in 15-20 minutes via:
 Alibus shuttle (€5) to Naples Central Station and the port.
 Taxi (fixed fare of around €25).
 Notice that __rideshare apps like Uber are not legal in Italy__!
+
+## What is included in the fee?
+
+The fee will not exceed __€200 (worst-case scenario)__, and depending on the additional funding that we can get the price will be decreasing.
+The fee covers: 
+
+__Accommodation for 3 nights__ (from Wednesday to Friday).
+__Meals during the workshop__ (breakfast, lunch and dinner).
 
 
 # Contact
