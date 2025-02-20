@@ -79,19 +79,6 @@ __Workshop__ 15 October 2025 - 17 October 2025
 
 {% include gallery id="gallery" caption="Check out some of the highlights of Naples (no edited photos!)" %}
 
-[comment]: <img src="/assets/images/napoli1.jpeg" alt="" class="full">
-
-[comment]: <img src="/assets/images/napoli2.jpeg" alt="" class="full">
-
-[comment]: <img src="/assets/images/napoli3.jpeg" alt="" class="full">
-
-[comment]: <img src="/assets/images/napoli4.jpeg" alt="" class="full">
-
-[comment]: <img src="/assets/images/napoli5.jpeg" alt="" class="full">
-
-[comment]: <img src="/assets/images/napoli6.jpeg" alt="" class="full">
-
-[comment]: <img src="/assets/images/napoli7.jpeg" alt="" class="full">
 
 # Plenary Speakers
 ## [Maurizio Boccia](https://scholar.google.com/citations?hl=en&user=M9k7ePwAAAAJ) 
@@ -130,8 +117,6 @@ Grazia is cited in the _“World’s 2% Top Scientists” ranking_. She is also 
 
 <img src="/assets/images/napolihorizontal.jpeg" alt="" class="full">
 
-<img src="/assets/images/napolihorizontal2.jpeg" alt="" class="full">
-
 
 # Committees
 
@@ -164,22 +149,13 @@ Claudio Sterle (_University of Naples Federico II, Italy_)
 
  Adriano Masone (_University of Naples Federico II, Italy_)
  
-
- [comment]: Domenico (Salerno)  
- 
- [comment]: Carmine (Salerno)  
- 
- [comment]: Eduardo 
- 
- [comment]: Danilo 
-
 # Scientific Programme
 To be added soon.
 
 # Social Programme
 To be added soon.
 
-{% include gallery id="gallery3" caption="Check out some of the highlights of Naples (no edited photos!)" %}
+{% include gallery id="gallery2" caption="Check out some of the highlights of Naples (no edited photos!)" %}
 
 
 # Venue
@@ -189,7 +165,7 @@ You can take a look of the surroundings of the _DIPARTIMENTO DI INGEGNERIA ELETT
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3018.623976758409!2d14.233976176656633!3d40.836222330000616!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x133b092e2ca8f27d%3A0xb737ade1c2211516!2suniversidad%20federico%20II!5e0!3m2!1sen!2sde!4v1738934157041!5m2!1sen!2sde" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
-{% include gallery id="gallery4" caption="Check out some of the highlights of Naples (no edited photos!)" %}
+{% include gallery id="gallery3" caption="Check out some of the highlights of Naples (no edited photos!)" %}
 
 
 # Abstracts
@@ -216,7 +192,7 @@ The EUROYoung workshop is focused on early career researchers, consequently we t
 In return we ask to the participants to avoid bad practices such as submitting abstracts if not completely about attending.
 Given that, in order to ensure your spot at the workshop __the selected participant must pay the fee within 10 days after the acceptance notification__. If not, the selection will be intermediately canceled, and the spot will be re-assigned to other candidate.  
 
-{% include gallery id="gallery2" caption="Check out some of the highlights of Naples (no edited photos!)" %}
+{% include gallery id="gallery4" caption="Check out some of the highlights of Naples (no edited photos!)" %}
 
 
 # Contact
