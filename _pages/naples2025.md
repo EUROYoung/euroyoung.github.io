@@ -81,6 +81,10 @@ __Workshop__ 15 October 2025 - 17 October 2025
 
 
 # Plenary Speakers
+
+Meet our confirmed speakers!
+
+
 ## [Maurizio Boccia](https://scholar.google.com/citations?hl=en&user=M9k7ePwAAAAJ) 
 <img src="/assets/images/MBoccia.jpeg" alt="" width="350" height="320">
 
