@@ -18,24 +18,39 @@ gallery:
     image_path: /assets/images/napoli2.jpeg
     alt: "placeholder image 2"
     title: "Image 2 title caption"
-  - url: /assets/images/napoli4.jpeg
-    image_path: /assets/images/napoli4.jpeg
+  - url: /assets/images/napoli5.jpeg
+    image_path: /assets/images/napoli5.jpeg
     alt: "placeholder image 4"
     title: "Image 1 title caption"
 
 gallery2:
-  - url: /assets/images/napoli5.jpeg
-    image_path: /assets/images/napoli5.jpeg
+  - url: /assets/images/colors.jpeg
+    image_path: /assets/images/colors.jpeg
     alt: "placeholder image 5"
-    title: "Image 2 title caption"
-  - url: /assets/images/napoli2.jpeg
-    image_path: /assets/images/napoli2.jpeg
+    title: "colors"
+  - url: /assets/images/flags.jpeg
+    image_path: /assets/images/flags.jpeg
     alt: "placeholder image 5"
-    title: "Image 2 title caption"
-  - url: /assets/images/napoli1.jpeg
-    image_path: /assets/images/napoli1.jpeg
+    title: "flags"
+  - url: /assets/images/lights.jpeg
+    image_path: /assets/images/lights.jpeg
     alt: "placeholder image 5"
-    title: "Image repetida"
+    title: "lights"
+
+ 
+gallery3:
+  - url: /assets/images/duomo.jpeg
+    image_path: /assets/images/duomo.jpeg
+    alt: "placeholder image 5"
+    title: "duomo"
+  - url: /assets/images/duomonight.jpeg
+    image_path: /assets/images/duomonight.jpeg
+    alt: "placeholder image 5"
+    title: "duomonight"
+  - url: /assets/images/square.jpeg
+    image_path: /assets/images/square.jpeg
+    alt: "placeholder image 5"
+    title: "square"   
 ---
 
 # About
@@ -149,6 +164,9 @@ To be added soon.
 
 # Social Programme
 To be added soon.
+
+{% include gallery id="gallery3" caption="Check out some of the highlights of Naples (no edited photos!)" %}
+
 
 # Venue
 The workshop will take place at the University Of Naples Federico II.
