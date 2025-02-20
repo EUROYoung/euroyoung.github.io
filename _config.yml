@@ -151,7 +151,7 @@ author:
 # Site Footer
 footer:
   links:
-    - label: "Twitter"
+    - label: "X"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://x.com/EUROYoungForum"
     #- label: "Email"
