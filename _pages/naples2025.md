@@ -180,13 +180,15 @@ Please submit your abstract __no later than April 15, 2025__. All submissions wi
 __Priority will be given to early-career researchers affiliated with institutions within EURO.__
 
 ## Template
-You can download the <a href="/assets/pdffiles/template.zip" download="EUROYoungtemplate">template here</a>.
+You can download the <a href="/assets/pdffiles/template.zip" download="EUROYoungtemplate">LaTeX template here</a>.
+Please follow the instructions provided inside the file, i.e., __do not modify the format of the template__.
+Your abstract must fit in a single page including the references and the short bio of the speaker.
 
 ## Submission Process
 All the abstracts must be submitted in PDF format using the following [form (here).](https://docs.google.com/forms/d/1g7nDFTNu0j_puacc3akc6wDTKjNOJqmhoyD243YC3KI/viewform?edit_requested=true)
 The name of the file must be your own name (e.g., surnames_names.pdf).  
 
-__Please notice that these submissions that do not meet the instructions provided might be discarded.__ 
+__Please notice that these submissions that do not meet all the instructions provided might be discarded.__ 
 
 ## After acceptance
 The EUROYoung workshop is focused on early career researchers, consequently we try our best in order to keep the fee as low as possible.
