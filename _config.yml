@@ -135,7 +135,7 @@ author:
     - label: "Website"
       icon: "fas fa-fw fa-link"
        #url: "https://your-website.com"
-    - label: "Twitter"
+    - label: "X"
       icon: "fab fa-fw fa-twitter-square"
   #     url: "https://x.com/EUROYoungForum/"
     - label: "Facebook"
