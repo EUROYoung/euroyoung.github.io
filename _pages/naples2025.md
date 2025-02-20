@@ -210,7 +210,7 @@ Alibus shuttle (€5) to Naples Central Station and the port.
 Taxi (fixed fare of around €25).
 Notice that __rideshare apps like Uber are not legal in Italy__!
 
-## What is included in the fee?
+## What does the fee include??
 
 The fee will not exceed __€200 (worst-case scenario)__, and depending on the additional funding that we can get the price will be decreasing.
 The fee covers: 
