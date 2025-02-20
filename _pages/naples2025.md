@@ -34,6 +34,20 @@ gallery:
     image_path: /assets/images/napoli1.jpeg
     alt: "placeholder image 5"
     title: "Image repetida"
+
+    gallery2:
+  - url: /assets/images/napoli5.jpeg
+    image_path: /assets/images/napoli5.jpeg
+    alt: "placeholder image 5"
+    title: "Image 2 title caption"
+  - url: /assets/images/napoli2.jpeg
+    image_path: /assets/images/napoli2.jpeg
+    alt: "placeholder image 5"
+    title: "Image 2 title caption"
+  - url: /assets/images/napoli1.jpeg
+    image_path: /assets/images/napoli1.jpeg
+    alt: "placeholder image 5"
+    title: "Image repetida"
 ---
 
 # About
@@ -179,7 +193,7 @@ The EUROYoung workshop is focused on early career researchers, consequently we t
 In return we ask to the participants to avoid bad practices such as submitting abstracts if not completely about attending.
 Given that, in order to ensure your spot at the workshop __the selected participant must pay the fee within 10 days after the acceptance notification__. If not, the selection will be intermediately canceled, and the spot will be re-assigned to other candidate.  
 
-
+{% include gallery2 caption="Check out some of the highlights of Naples (no edited photos!)" %}
 
 
 # Contact
