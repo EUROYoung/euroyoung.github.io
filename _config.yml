@@ -154,6 +154,8 @@ footer:
     - label: "X"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://x.com/EUROYoungForum"
+    - label: "BlueSky"
+      url: "https://bsky.app/profile/euroyoung.bsky.social"  
     #- label: "Email"
      # icon: "fas fa-fw fa-envelope-square"
       # url: "mailto:euroyoung@euro-online.org"
