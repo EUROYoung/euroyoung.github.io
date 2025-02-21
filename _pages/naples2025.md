@@ -93,7 +93,7 @@ Maurizio Boccia is a full professor of Operations Research at the University of 
 He is a member of the Board of Professors of the Ph.D. program in Information Technology and Electrical Engineering (ITEE) at the University of Naples Federico II. He has been the scientific coordinator of multiple European, national, and regional research units, as well as numerous collaborations with private companies such as OptRail S.r.l., NGI SpA, ITALTEL SpA, Elasis SpA, and ITALDATA SpA.
 
 ## [Dolores Romero Morales](https://www.cbs.dk/en/research/departments-and-centres/department-of-economics/staff/drmeco) 
-<img src="/assets/images/DoloresRomeroMorales.jpg" alt="" width="300" height="400">
+<img src="/assets/images/DoloresRomeroMorales2.jpg" alt="" width="300" height="400">
 
 Dolores Romero Morales is a professor of Operations Research at Copenhagen Business School, Denmark. Her areas of expertise include explainability and fairness in data science as well as sustainable supply chain management. Dolores currently serves as the Editor-in-Chief of _TOP_ and as an associate editor of the _Journal of the Operational Research Society_ as well as the _INFORMS Journal on Data Science_. Moreover, she is an _Honorary SAS Fellow_ and a member of the _SAS Academic Advisory Board_.
 
