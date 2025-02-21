@@ -86,7 +86,7 @@ Meet our confirmed speakers!
 
 
 ## [Maurizio Boccia](https://scholar.google.com/citations?hl=en&user=M9k7ePwAAAAJ) 
-<img src="/assets/images/MBoccia2.jpeg" alt="" width="350" height="320">
+<img src="/assets/images/MBoccia2.jpeg" alt="" width="300" height="400">
 
 Maurizio Boccia is a full professor of Operations Research at the University of Naples Federico II, Italy. His research interests include large-scale linear integer programming and the development of exact and heuristic methods for complex combinatorial and network optimization problems, with applications in scheduling, location, routing, and location-routing. He also focuses on truck-and-drone routing problems and has collaborated with several international institutions, including CORE (Belgium), SINTEF ICT (Norway), and the University of Quebec-Montreal. 
 
@@ -101,7 +101,7 @@ Among her recent achievements, Dolores (together with her co-authors) was awarde
 
 
 ## [Martin Schmidt](https://martinschmidt.squarespace.com/) 
-<img src="/assets/images/MartinSchmidt2.jpg" alt="" width="400" height="300">
+<img src="/assets/images/MartinSchmidt2.jpg" alt="" width="300" height="400">
 
 Martin Schmidt is a professor of Nonlinear Optimization at Trier University, Germany. His research interests include bilevel optimization, optimization under uncertainty, equilibrium models, and applications in energy markets. He is the speaker of the research training group _Algorithmic Optimization_ at Trier University, a fellow of the _Energy Campus Nuremberg_, and a member of the _International Scientific Committee_ of the Instituto Universitario de Investigación de Matemáticas y Aplicaciones of Universidad de Zaragoza. 
 
@@ -110,7 +110,7 @@ Martin currently serves on the editorial board of _Optimization Letters_ and he 
 Among his recent achievements, Martin (together with his co-authors) was awarded the _Optimization Letters Best Paper Award_, the _Marguerite Frank Award_ for the best _EURO Journal on Computational Optimization_ paper, and the _Mathematical Methods of Operations Research Best Paper Award_, all in 2021.
 
 ## [Maria Grazia Speranza](https://scholar.google.com/citations?hl=en&user=48zUfJ4AAAAJ) 
-<img src="/assets/images/MGrazia2.jpg" alt="" width="350" height="300">
+<img src="/assets/images/MGrazia2.jpg" alt="" width="300" height="400">
 
 M. Grazia Speranza is full professor of Operations Research at the University of Brescia. She was President of the _International Federation of Operational Research Societies (IFORS)_, of the association of _European Operational Research Societies (EURO)_ and of the _Transportation Science and Logistics (TSL)_ society of _INFORMS_.
 
