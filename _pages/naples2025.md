@@ -147,21 +147,21 @@ Claudio Sterle (_University of Naples Federico II, Italy_)
 
 
 ## Organizing Committee
-Danilo Amitrano, (_University of Naples Federico II, Italy_)
+Danilo Amitrano (_University of Naples Federico II, Italy_)
  
 Marta Baldomero-Naranjo (_Universidad de Cádiz, Spain_)
 
-Martina Doneda, (_University of Bergamo, Italy_)
+Martina Doneda (_University of Bergamo, Italy_)
 
-Mario Lepore, (_University of Salerno, Italy_)
+Mario Lepore (_University of Salerno, Italy_)
 
 Andrea Mancuso (_University of Naples Federico II, Italy_)
 
 Adriano Masone (_University of Naples Federico II, Italy_)
 
-Eduardo Pipicelli, (_University of Naples Federico II, Italy_)
+Eduardo Pipicelli (_University of Naples Federico II, Italy_)
 
-Carmine Sorgente, (_University of Salerno, Italy_)
+Carmine Sorgente (_University of Salerno, Italy_)
 
 
 # Scientific Programme
