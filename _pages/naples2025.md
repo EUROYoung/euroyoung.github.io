@@ -182,7 +182,7 @@ Each attendee is allowed to present one abstract at the conference.
 Please submit your abstract __no later than April 15, 2025__. All submissions will be reviewed by members of the scientific committee. Notification of the decision of the referees will be sent to the corresponding author by April 25, 2025.
 
 
-__There is a limited number of places available__. If applications exceed this limit, allocations will be made on a first-come, first-served basis, while also ensuring representation of researchers from different countries to foster international collaboration.
+__There is a limited number of places available__. If applications exceed this limit, selection will be made on a first-come, first-served basis, while also ensuring representation of researchers from different countries to foster international collaboration.
 
 __Priority will be given to early-career researchers affiliated with institutions within EURO.__
 
