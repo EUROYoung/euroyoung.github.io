@@ -119,9 +119,6 @@ Grazia’s research is in the area of mixed integer programming and combinatoria
 Grazia is cited in the _“World’s 2% Top Scientists” ranking_. She is also recognized as one of the _Top 100 Italian Women in STEM_. She was awarded with the _Laurea honoris causa_ by the University of Freiburg, Switzerland. She is a member of the _Academy of Sciences_ of the University of Bologna and was awarded as an Italian Knowledge Leader by the Convention Bureau Italia. In 2024 she received the _EURO Gold medal_ and was nominated _INFORMS Fellow_.
 
 
-<img src="/assets/images/napolihorizontal.jpeg" alt="" class="full">
-
-
 # Committees
 
 ## Scientific Committee
