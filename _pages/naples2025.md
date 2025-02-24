@@ -244,4 +244,5 @@ If you have any query, write us! _euroyoung@euro-online.org_
 We highly appreciate the support of the following sponsors.
 
 <img src="/assets/images/EURO.png" alt="EURO" width="300" height="300"> <img src="/assets/images/UNINA.jpeg" alt="UNINA" width="200" height="100"> <img src="/assets/images/UNINA.png" alt="UNINA" width="200" height="200"> 
+
 <img src="/assets/images/AIRO.png" alt="AIRO" width="200" height="200">  <img src="/assets/images/ayroyoung.png" alt="AIROYoung" width="150" height="150">
