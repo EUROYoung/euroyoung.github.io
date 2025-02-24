@@ -209,8 +209,7 @@ The workshop will take place at the __University Of Naples Federico II__.
 
 You can take a look of the surroundings of the _Dipartimento di Ingegneria Elettrica e Tecnologie dell'Informazione_ in the following map.
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3018.623976758409!2d14.233976176656633!3d40.836222330000616!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x133b092e2ca8f27d%3A0xb737ade1c2211516!2suniversidad%20federico%20II!5e0!3m2!1sen!2sde!4v1738934157041!5m2!1sen!2sde" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3019.1470152756697!2d14.19197287646634!3d40.82473437137678!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x133b0934a2dc956d%3A0x7a6e276b1d971f2f!2sUniversit%C3%A0%20degli%20Studi%20di%20Napoli%20Federico%20II%20-%20%22Scuola%20Politecnica%20e%20delle%20Scienze%20di%20Base%22!5e0!3m2!1sit!2sit!4v1740389147217!5m2!1sit!2sit" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 ## How to get to Naples
 
