@@ -27,7 +27,7 @@ The PDRA will lead on simulation studies for the newly formed Centre for Advance
 The successful candidate will work closely with Prof Kathy Kotiadis to undertake simulation studies exploring the impact of new diagnostic developments on organisations and especially the National Health System.
 Given the length of the appointment __(until December 2028)__, the postholder would be expected to undertake a number of simulation studies for different diagnostic developments, in collaboration with external stakeholders e.g. diagnostic SMEs, clinicians/end users.
 For more information please look [here](https://jobs.kent.ac.uk/vacancy.aspx?ref=KBS-212-25-R).
-For more information on the post not addressed in the advert please contact k.kotiadis@kent.ac.uk.
+For more information on the post not addressed in the advert please contact _k.kotiadis@kent.ac.uk_.
 
 ## Tenure track positions
 
