@@ -237,8 +237,15 @@ __Accommodation in shared rooms (3 guests per room) for 3 nights__ (from Wednesd
 __Meals during the workshop__ (from Wednesday's dinner to Friday's dinner, including the respective breakfast, lunch and dinner during the mentioned period).
 
 
-__If you want to stay in a single room__, you can contact the hotel after acceptance, mentioning that you will participate in the EUROYoung Workshop, and arrange a price with them.
-__This cost must be paid by you, and the workshop fee remains unchanged__.
+Participants who wish to stay in a __single-use double room or a double room with an accompanying person__ should contact the hotel directly. Please mention EUROYoung October 2025 in your email and include us in CC so we can track participant accommodations.
+
+__Important__: These accommodation costs will not be covered by us. We have arranged the following special rates with the hotel (subject to availability):
+
+Single-use double room: €80 per night
+Double room: €90 per night
+Participants are, of course, free to choose any other accommodation that better suits their needs.
+
+The hotel's website can be accessed [HERE](https://www.hotelnuvo.it/it/).
 
 
 # Contact
