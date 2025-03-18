@@ -244,6 +244,7 @@ __Important__: These accommodation costs will not be covered by us. We have arra
 
 Single-use double room: €80 per night
 Double room: €90 per night
+
 Participants are, of course, free to choose any other accommodation that better suits their needs.
 
 The hotel's website can be accessed [HERE](https://www.hotelnuvo.it/it/).
