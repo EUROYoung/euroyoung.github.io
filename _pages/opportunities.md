@@ -7,12 +7,14 @@ layout: single
 classes: wide
 ---
 
-## Workshops/Summer Schools and other
+## Workshops/Summer Schools and others
 ### The First ROAR-NET Training School on Computational Modelling of Combinatorial Optimisation Problems
 will take place at the Luxembourg Institute of Science and Technology (LIST) in Belvaux, Luxembourg, from
 16 to 20 June 2025.
+
 __Trainee application deadline: 4 April 2025__.
 More details [HERE](https://roar-net.eu/events/first-training-school/).
+
 ABOUT THE TRAINING SCHOOL:
 The First ROAR-NET Training School will consist of a combination of
 lectures, problem-solving group projects, poster presentations by the
