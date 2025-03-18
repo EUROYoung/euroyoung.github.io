@@ -237,6 +237,10 @@ __Accommodation in shared rooms (3 guests per room) for 3 nights__ (from Wednesd
 __Meals during the workshop__ (from Wednesday's dinner to Friday's dinner, including the respective breakfast, lunch and dinner during the mentioned period).
 
 
+__If you want to stay in a single room__, you can contact the hotel after acceptance, mentioning that you will participate in the EUROYoung Workshop, and arrange a price with them.
+__This cost must be paid by you, and the workshop fee remains unchanged__.
+
+
 # Contact
 If you have any query, write us! _euroyoung@euro-online.org_
 
