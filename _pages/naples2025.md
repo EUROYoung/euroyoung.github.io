@@ -73,6 +73,8 @@ Join us for an exciting Workshop on Operational Research in the beautiful city o
 # Important Dates 
 __Abstract Submission__ 10 March 2025 (10:00 AM CET time) - 15 April 2025 
 
+__Extended deadline: April 25, 2025__
+
 __Registration__ 1 May 2025 - 1 June 2025 
 
 __Workshop__ 15 October 2025 - 17 October 2025
