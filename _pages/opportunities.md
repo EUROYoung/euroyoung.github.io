@@ -8,41 +8,25 @@ classes: wide
 ---
 
 ## Workshops/Summer Schools and others
-### The First ROAR-NET Training School on Computational Modelling of Combinatorial Optimisation Problems
-will take place at the Luxembourg Institute of Science and Technology (LIST) in Belvaux, Luxembourg, from
-16 to 20 June 2025.
+more to come...
 
-__Trainee application deadline: 4 April 2025__.
-More details [HERE](https://roar-net.eu/events/first-training-school/).
+## M.Sc. positions
 
-ABOUT THE TRAINING SCHOOL:
-The First ROAR-NET Training School will consist of a combination of
-lectures, problem-solving group projects, poster presentations by the
-Trainees, and team-building activities. Topics include:
+### Modelling Associate vacancy at the Kent Business School, University of Kent 
 
-        * Problem structuring
-        * Problem modelling for constructive search and for local search
-        * The ROAR-NET API specification
-        * Practical aspects of model development and implementation
+Do you enjoy developing simulation models? Do you want to get more experience in this?
+Through this project you will have the opportunity to work on real world model development in (human and animal) health care. You will work closely with Professor Kathy Kotiadis, an expert in discrete event simulation modelling (theory and applied practice) to undertake simulation studies exploring the impact of new diagnostic developments on organisations and especially the NHS. Given the length of the appointment (until December 2028), you participate in a number of simulation studies for different diagnostic developments, in collaboration with external stakeholders e.g. diagnostic SMEs, clinicians/end users.  By the end of the project you will:
 
-Each project involves the development, implementation (coding), and
-evaluation of a model for a given optimisation problem and will be
-carried out by a team composed of 4-5 Trainees and a mentor (a Trainer).
+* have gained additional modelling and simulation skills 
+* be part of a leading UK Operational Research department 
+* have contributed to diagnostic developments from innovation to market (implementation)
+* gained dissemination skills (e.g. conference and journal dissemination)
+* be a leading expert in health systems simulation modelling.
 
-WHO CAN APPLY?
-
-PhD students, postdocs, researchers, and innovators with good
-programming and/or optimisation skills are invited to apply to attend
-the school as Trainees. Financial support is available for eligible
-applicants from COST Member and Near Neighbour Countries.
-
-Trainee application deadline: 4 April 2025
-
-For full details, see the Call for Trainee Applications:
-[Click here](https://roar-net.eu/calls/ts-call-1/).
+For more information on how to apply please click [here](https://jobs.kent.ac.uk/Vacancy.aspx?ref=KBS-212-25-R2)
 
 ## Ph.D. positions
-
+more to come...
 
 ## Postdoc positions
 
