@@ -60,11 +60,12 @@ permalink: /speakers/speaker3/
   <h1>Martin Schmidt</h1>
   <h2>Trier University, Germany</h2>
   
-Martin Schmidt is a professor of Nonlinear Optimization at Trier University, Germany. His research interests include bilevel optimization, optimization under uncertainty, equilibrium models, and applications in energy markets. He is the speaker of the research training group _Algorithmic Optimization_ at Trier University, a fellow of the _Energy Campus Nuremberg_, and a member of the _International Scientific Committee_ of the Instituto Universitario de Investigación de Matemáticas y Aplicaciones of Universidad de Zaragoza. 
+Martin Schmidt is a professor of Nonlinear Optimization at Trier University, Germany. His research interests include bilevel optimization, optimization under uncertainty, equilibrium models, and applications in energy markets. He is the speaker of the research training group <em>Algorithmic Optimization</em> at Trier University, a fellow of the <em>Energy Campus Nuremberg</em>, and a member of the <em>International Scientific Committee</em> of the Instituto Universitario de Investigación de Matemáticas y Aplicaciones of Universidad de Zaragoza. 
 
-Martin currently serves on the editorial board of _Optimization Letters_ and he is an associate editor of the _Journal of Optimization Theory and Applications_, _OR Spectrum_, and the _EURO Journal on Computational Optimization_, as well as a technical editor of _Mathematical Programming Computation_.
+Martin currently serves on the editorial board of <em>Optimization Letters</em> and he is an associate editor of the <em>Journal of Optimization Theory and Applications</em>, <em>OR Spectrum</em>, and the <em>EURO Journal on Computational Optimization</em>, as well as a technical editor of <em>Mathematical Programming Computation</em>.
 
-Among his recent achievements, Martin (together with his co-authors) was awarded the _Optimization Letters Best Paper Award_, the _Marguerite Frank Award_ for the best _EURO Journal on Computational Optimization_ paper, and the _Mathematical Methods of Operations Research Best Paper Award_, all in 2021.
+Among his recent achievements, Martin (together with his co-authors) was awarded the <em>Optimization Letters Best Paper Award</em>, the <em>Marguerite Frank Award</em> for the best <em>EURO Journal on Computational Optimization</em> paper, and the <em>Mathematical Methods of Operations Research Best Paper Award</em>, all in 2021.
+
   <p><strong>Talk Title</strong>: <em>"To be added"</em></p>
 
   <p>To be added..</p>
