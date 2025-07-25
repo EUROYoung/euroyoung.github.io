@@ -2,7 +2,7 @@
 title: "The 5<sup>th</sup> EUROYoung Workshop - Naples 2025"
 layout: single
 classes: wide
-toc: true
+toc: false
 toc_sticky: false
 toc_label: "Content"
 author_profile: false
