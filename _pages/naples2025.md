@@ -165,27 +165,27 @@ Meet our confirmed speakers!
 
 <h1 id="committees">Committees</h1>
 
-## Co-Chaits
+## Co-Chairs
 Marta Baldomero-Naranjo (_Universidad de Cádiz, Spain_)
 
 Andrea Mancuso (_University of Naples Federico II, Italy_)
 
 ## Other member
-Yasmine Beck (_ESSEC Business School, France_),
-Martina Cerulli (_University of Salerno, Italy_),
-Laura Davila-Pena (_University of Kent, UK_), 
-Antonio Diglio (_University of Naples Federico II, Italy_),
-Adriano Masone (_University of Naples Federico II, Italy_),
-Alan Osorio-Mora (_RPTU Kaiserslautern, Germany_),
-Carmela Piccolo (_University of Naples Federico II, Italy_),
-Claudio Sterle (_University of Naples Federico II, Italy_),
-Danilo Amitrano (_University of Naples Federico II, Italy_),
-Martina Doneda (_University of Bergamo, Italy_),
-Mario Lepore (_University of Salerno, Italy_),
-Andrea Mancuso (_University of Naples Federico II, Italy_),
-Adriano Masone (_University of Naples Federico II, Italy_),
-Eduardo Pipicelli (_University of Naples Federico II, Italy_),
-Carmine Sorgente (_University of Salerno, Italy_),
+Yasmine Beck (<em>ESSEC Business School, France</em>)<br>
+Martina Cerulli (<em>University of Salerno, Italy</em>)<br>
+Laura Davila-Pena (<em>University of Kent, UK</em>)<br>
+Antonio Diglio (<em>University of Naples Federico II, Italy</em>)<br>
+Adriano Masone (<em>University of Naples Federico II, Italy</em>)<br>
+Alan Osorio-Mora (<em>RPTU Kaiserslautern, Germany</em>)<br>
+Carmela Piccolo (<em>University of Naples Federico II, Italy</em>)<br>
+Claudio Sterle (<em>University of Naples Federico II, Italy</em>)<br>
+Danilo Amitrano (<em>University of Naples Federico II, Italy</em>)<br>
+Martina Doneda (<em>University of Bergamo, Italy</em>)<br>
+Mario Lepore (<em>University of Salerno, Italy</em>)<br>
+Andrea Mancuso (<em>University of Naples Federico II, Italy</em>)<br>
+Adriano Masone (<em>University of Naples Federico II, Italy</em>)<br>
+Eduardo Pipicelli (<em>University of Naples Federico II, Italy</em>)<br>
+Carmine Sorgente (<em>University of Salerno, Italy</em>)
 
 <h1 id="programme">Programme</h1>
 To be added soon.
