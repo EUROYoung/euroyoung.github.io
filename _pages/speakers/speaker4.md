@@ -53,7 +53,7 @@ permalink: /speakers/speaker4/
 <div class="speaker-container">
 
   <div class="speaker-image">
-    <img src="/assets/images/DoloresRomeroMorales2.jpg" alt="M. Grazia Speranza">
+    <img src="/assets/images/MGrazia2.jpg" alt="M. Grazia Speranza">
   </div>
 
 <div class="speaker-details">
