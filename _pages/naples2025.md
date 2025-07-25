@@ -65,7 +65,7 @@ gallery4:
   <a href="#speakers">Speakers</a> |
   <a href="#committees">Committees</a> |
   <a href="#abstracts">Abstracts</a> |
-  <a href="#programme">Programme</a>
+  <a href="#programme">Programme</a> |
   <a href="#venue">Venue</a> |
   <a href="#contact">Contact</a> |
   <a href="#sponsors">Sponsors</a>
