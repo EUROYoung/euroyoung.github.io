@@ -138,21 +138,21 @@ Meet our confirmed speakers!
 
   <div class="speaker-card">
     <a href="/speakers/speaker1/">
-      <img src="/assets/images/MBoccia2.jpeg" alt="Dolores Romero Morales">
+      <img src="/assets/images/DoloresRomeroMorales2.jpg" alt="Dolores Romero Morales">
     </a>
     <p>Dolores Romero Morales</p>
   </div>
 
   <div class="speaker-card">
     <a href="/speakers/speaker1/">
-      <img src="/assets/images/MBoccia2.jpeg" alt="Martin Schmidt">
+      <img src="/assets/images/MartinSchmidt2.jpg" alt="Martin Schmidt">
     </a>
     <p>Martin Schmidt</p>
   </div>
 
   <div class="speaker-card">
     <a href="/speakers/speaker1/">
-      <img src="/assets/images/MBoccia2.jpeg" alt="Maria Grazia Speranza">
+      <img src="/assets/images/MGrazia2.jpg" alt="Maria Grazia Speranza">
     </a>
     <p>Maria Grazia Speranza</p>
   </div>
