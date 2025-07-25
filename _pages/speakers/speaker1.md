@@ -6,7 +6,7 @@ permalink: /speakers2025/speaker-name/
 
 # Speaker Name
 
-![Speaker Name](/assets/img/FSDG.jpg)
+![Speaker Name](/assets/images/MBoccia2.jpeg)
 
 **Title**: Professor at XYZ University  
 **Talk Title**: "Cool Research Topic"  
