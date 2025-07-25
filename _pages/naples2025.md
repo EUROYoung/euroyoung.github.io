@@ -175,11 +175,12 @@ Meet our confirmed speakers!
 
 <h1 id="committees">Committees</h1>
 
-## Co-Chairs
+## Organizing committee
+### Co-Chairs
 Marta Baldomero-Naranjo (<em>Universidad de Cádiz, Spain</em>)<br>
 Andrea Mancuso (<em>University of Naples Federico II, Italy</em>)<br>
 
-## Other members
+### Other members
 Yasmine Beck (<em>ESSEC Business School, France</em>)<br>
 Martina Cerulli (<em>University of Salerno, Italy</em>)<br>
 Laura Davila-Pena (<em>University of Kent, UK</em>)<br>
@@ -188,6 +189,8 @@ Adriano Masone (<em>University of Naples Federico II, Italy</em>)<br>
 Alan Osorio-Mora (<em>RPTU Kaiserslautern, Germany</em>)<br>
 Carmela Piccolo (<em>University of Naples Federico II, Italy</em>)<br>
 Claudio Sterle (<em>University of Naples Federico II, Italy</em>)<br>
+
+## Scientific committee
 Danilo Amitrano (<em>University of Naples Federico II, Italy</em>)<br>
 Martina Doneda (<em>University of Bergamo, Italy</em>)<br>
 Mario Lepore (<em>University of Salerno, Italy</em>)<br>
