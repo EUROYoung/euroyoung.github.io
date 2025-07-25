@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Speaker Name"
-permalink: /speakers2025/speaker-name/
+permalink: /speakers/speaker-name/
 ---
 
 # Speaker Name
