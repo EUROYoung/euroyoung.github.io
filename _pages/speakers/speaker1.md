@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Dr. Alice Smith"
+title: "Maurizio Boccia"
 permalink: /speakers/speaker1/
 ---
 
@@ -53,22 +53,27 @@ permalink: /speakers/speaker1/
 <div class="speaker-container">
 
   <div class="speaker-image">
-    <img src="/assets/images/MBoccia2.jpeg" alt="Maurizzio Boccia">
+    <img src="/assets/images/MBoccia2.jpeg" alt="Maurizio Boccia">
   </div>
 
 <div class="speaker-details">
-  <h1>Dr. Alice Smith</h1>
-  <h2>Professor at XYZ University</h2>
-  <p><strong>Talk Title</strong>: <em>"Optimizing the Future: Algorithms for Tomorrow"</em></p>
+  <h1>Maurizio Boccia</h1>
+  <h2>University of Naples Federico II, Italy</h2>
+  
+Maurizio Boccia is a full professor of Operations Research at the University of Naples Federico II, Italy. His research interests include large-scale linear integer programming and the development of exact and heuristic methods for complex combinatorial and network optimization problems, with applications in scheduling, location, routing, and location-routing. He also focuses on truck-and-drone routing problems and has collaborated with several international institutions, including CORE (Belgium), SINTEF ICT (Norway), and the University of Quebec-Montreal. 
 
-  <p>Dr. Alice Smith is a globally recognized expert in combinatorial optimization, with over 20 years of research in metaheuristics and industrial applications. She holds a chair at XYZ University and has published more than 100 papers on vehicle routing and scheduling problems.</p>
+He is a member of the Board of Professors of the Ph.D. program in Information Technology and Electrical Engineering (ITEE) at the University of Naples Federico II. He has been the scientific coordinator of multiple European, national, and regional research units, as well as numerous collaborations with private companies such as OptRail S.r.l., NGI SpA, ITALTEL SpA, Elasis SpA, and ITALDATA SpA.
 
-  <p>Her recent work focuses on real-time decision-making in logistics systems using hybrid metaheuristics and reinforcement learning.</p>
+  
+  <p><strong>Talk Title</strong>: <em>"To be added"</em></p>
+
+  <p>To be added..</p>
+
+  <p>.......</p>
 
   <hr>
 
-  <p><strong>Contact</strong>: <a href="mailto:alice.smith@xyz.edu">alice.smith@xyz.edu</a><br>
-     <strong>Website</strong>: <a href="https://www.alicesmithlab.org">www.alicesmithlab.org</a></p>
+  <p><strong>Website</strong>: <a href="[https://www.alicesmithlab.org">www.alicesmithlab.org](https://scholar.google.com/citations?hl=en&user=M9k7ePwAAAAJ)</a></p>
 </div>
 
 </div>
