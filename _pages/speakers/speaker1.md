@@ -56,20 +56,20 @@ permalink: /speakers/speaker1/
     <img src="/assets/images/MBoccia2.jpeg" alt="Maurizzio Boccia">
   </div>
 
-  <div class="speaker-details">
-    # Dr. Alice Smith
+<div class="speaker-details">
+  <h1>Dr. Alice Smith</h1>
+  <h2>Professor at XYZ University</h2>
+  <p><strong>Talk Title</strong>: <em>"Optimizing the Future: Algorithms for Tomorrow"</em></p>
 
-    ### Professor at XYZ University  
-    **Talk Title**: *"Optimizing the Future: Algorithms for Tomorrow"*
+  <p>Dr. Alice Smith is a globally recognized expert in combinatorial optimization, with over 20 years of research in metaheuristics and industrial applications. She holds a chair at XYZ University and has published more than 100 papers on vehicle routing and scheduling problems.</p>
 
-    Dr. Alice Smith is a globally recognized expert in combinatorial optimization, with over 20 years of research in metaheuristics and industrial applications. She holds a chair at XYZ University and has published more than 100 papers on vehicle routing and scheduling problems.
+  <p>Her recent work focuses on real-time decision-making in logistics systems using hybrid metaheuristics and reinforcement learning.</p>
 
-    Her recent work focuses on real-time decision-making in logistics systems using hybrid metaheuristics and reinforcement learning.
+  <hr>
 
-    ---
-    **Contact**: [alice.smith@xyz.edu](mailto:alice.smith@xyz.edu)  
-    **Website**: [www.alicesmithlab.org](https://www.alicesmithlab.org)
-  </div>
+  <p><strong>Contact</strong>: <a href="mailto:alice.smith@xyz.edu">alice.smith@xyz.edu</a><br>
+     <strong>Website</strong>: <a href="https://www.alicesmithlab.org">www.alicesmithlab.org</a></p>
+</div>
 
 </div>
 
