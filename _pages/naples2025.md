@@ -305,6 +305,6 @@ We highly appreciate the support of the following sponsors.
   <img src="/assets/images/EURO.png" alt="EURO" style="max-height: 120px; object-fit: contain;">
   <img src="/assets/images/UNINA.png" alt="UNINA" style="max-height: 120px; object-fit: contain;">
   <img src="/assets/images/UNINA.jpeg" alt="UNINA" style="max-height: 120px; object-fit: contain;">
-  <img src="/assets/images/AIRO.png" alt="AIRO" style="max-height: 120px; object-fit: contain;">
-  <img src="/assets/images/ayroyoung.png" alt="AIROYoung" style="max-height: 120px; object-fit: contain;">
+  <img src="/assets/images/AIRO.png" alt="AIRO" style="max-height: 90px; object-fit: contain;">
+  <img src="/assets/images/ayroyoung.png" alt="AIROYoung" style="max-height: 90px; object-fit: contain;">
 </div>
