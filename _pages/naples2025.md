@@ -131,24 +131,32 @@ Meet our confirmed speakers!
 
   <div class="speaker-card">
     <a href="/speakers/speaker1/">
-      <img src="/assets/images/MBoccia2.jpeg" alt="Speaker 1">
+      <img src="/assets/images/MBoccia2.jpeg" alt="Maurizio Boccia">
     </a>
-    <p>[Maurizio Boccia](https://scholar.google.com/citations?hl=en&user=M9k7ePwAAAAJ) </p>
+    <p>Maurizio Boccia</p>
   </div>
 
   <div class="speaker-card">
     <a href="/speakers/speaker1/">
-      <img src="/assets/images/MBoccia2.jpeg" alt="Speaker 2">
+      <img src="/assets/images/MBoccia2.jpeg" alt="Dolores Romero Morales">
     </a>
-    <p>Prof. Bob Jones</p>
+    <p>Dolores Romero Morales</p>
   </div>
 
   <div class="speaker-card">
     <a href="/speakers/speaker1/">
-      <img src="/assets/images/MBoccia2.jpeg" alt="Speaker 3">
+      <img src="/assets/images/MBoccia2.jpeg" alt="Martin Schmidt">
     </a>
-    <p>Dr. Carla Gómez</p>
+    <p>Martin Schmidt</p>
   </div>
+
+  <div class="speaker-card">
+    <a href="/speakers/speaker1/">
+      <img src="/assets/images/MBoccia2.jpeg" alt="Maria Grazia Speranza">
+    </a>
+    <p>Maria Grazia Speranza</p>
+  </div>
+
 
   <!-- Add more speaker cards as needed -->
 
