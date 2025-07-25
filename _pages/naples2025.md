@@ -133,7 +133,7 @@ Meet our confirmed speakers!
     <a href="/speakers/speaker1/">
       <img src="/assets/images/MBoccia2.jpeg" alt="Speaker 1">
     </a>
-    <p>Dr. Alice Smith</p>
+    <p>[Maurizio Boccia](https://scholar.google.com/citations?hl=en&user=M9k7ePwAAAAJ) </p>
   </div>
 
   <div class="speaker-card">
