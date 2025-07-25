@@ -77,7 +77,7 @@ gallery4:
   <a href="#sponsors">Sponsors</a>
 </nav>
 
-# About
+<h1 id="about">About</h1>
 Join us for an exciting Workshop on Operational Research in the beautiful city of Naples, where young researchers will have the opportunity to engage with leading experts in the field. This event will feature plenary talks by top researchers, providing valuable insights into cutting-edge advancements and real-world applications. Beyond the academic sessions, enjoy networking opportunities and social activities, all set against the stunning backdrop of Naples, a city rich in history, culture, and cuisine. Don't miss this chance to expand your knowledge, connect with peers, and experience the charm of one of Italy’s most vibrant cities!
 
 # Dates 
