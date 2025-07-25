@@ -80,7 +80,7 @@ gallery4:
 <h1 id="about">About</h1>
 Join us for an exciting Workshop on Operational Research in the beautiful city of Naples, where young researchers will have the opportunity to engage with leading experts in the field. This event will feature plenary talks by top researchers, providing valuable insights into cutting-edge advancements and real-world applications. Beyond the academic sessions, enjoy networking opportunities and social activities, all set against the stunning backdrop of Naples, a city rich in history, culture, and cuisine. Don't miss this chance to expand your knowledge, connect with peers, and experience the charm of one of Italy’s most vibrant cities!
 
-# Dates 
+<h1 id="dates">Dates</h1>
 __Abstract Submission__ 10 March 2025 (10:00 AM CET time) - <strike>15 April 2025</strike> 25 April 2025. 
 
 __Registration__ 1 May 2025 - 1 June 2025 
@@ -90,7 +90,7 @@ __Workshop__ 15 October 2025 - 17 October 2025
 {% include gallery id="gallery" caption="Seaside, Mount Vesuvius" %}
 
 
-# Speakers
+<h1 id="speakers">Speakers</h1>
 
 Meet our confirmed speakers!
 
@@ -129,7 +129,7 @@ Grazia’s research is in the area of mixed integer programming and combinatoria
 Grazia is cited in the _“World’s 2% Top Scientists” ranking_. She is also recognized as one of the _Top 100 Italian Women in STEM_. She was awarded with the _Laurea honoris causa_ by the University of Freiburg, Switzerland. She is a member of the _Academy of Sciences_ of the University of Bologna and was awarded as an Italian Knowledge Leader by the Convention Bureau Italia. In 2024 she received the _EURO Gold medal_ and was nominated _INFORMS Fellow_.
 
 
-# Committees
+<h1 id="committees">Committees</h1>
 
 ## Scientific Committee
 Marta Baldomero-Naranjo (_Universidad de Cádiz, Spain_)
@@ -171,7 +171,7 @@ Eduardo Pipicelli (_University of Naples Federico II, Italy_)
 Carmine Sorgente (_University of Salerno, Italy_)
 
 
-# Programme
+<h1 id="programme">Programme</h1>
 To be added soon.
 
 ## Scientific Programme
@@ -184,7 +184,7 @@ To be added soon.
 
 
 
-# Abstracts
+<h1 id="abstracts">Abstracts</h1>
 All participants wishing to attend the workshop are required to submit an abstract __following the provided template__. 
 
 Each attendee is allowed to present one abstract at the conference.
@@ -215,7 +215,8 @@ Given that, in order to ensure your spot at the workshop __the selected particip
 
 {% include gallery id="gallery4" caption="More to discover" %}
 
-# Venue
+<h1 id="venue">Venue</h1>
+
 The workshop will take place at the __University Of Naples Federico II__.
 
 <img src="/assets/images/venue.jpeg" alt="" width="500" height="300">
@@ -263,10 +264,10 @@ Participants are, of course, free to choose any other accommodation that better 
 The hotel's website can be accessed [HERE](https://www.hotelnuvo.it/it/).
 
 
-# Contact
+<h1 id="contact">Contact</h1>
 If you have any query, write us! _euroyoung@euro-online.org_
 
-# Sponsors
+<h1 id="sponsors">Sponsors</h1>
 We highly appreciate the support of the following sponsors.
 
 <img src="/assets/images/EURO.png" alt="EURO" width="300" height="300"> <img src="/assets/images/UNINA.png" alt="UNINA" width="300" height="200">  <img src="/assets/images/UNINA.jpeg" alt="UNINA" width="200" height="100"> 
