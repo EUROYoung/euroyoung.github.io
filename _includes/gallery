@@ -1,7 +1,3 @@
-{% if include.caption %}
-  <div class="gallery-caption">{{ include.caption }}</div>
-{% endif %}
-
 {% if include.id %}
   {% assign gallery = page[include.id] %}
 {% else %}
