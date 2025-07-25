@@ -72,7 +72,7 @@ Among her recent achievements, Dolores (together with her co-authors) was awarde
 
   <hr>
 
-  <p><strong>Website</strong>: <a href="https://scholar.google.com/citations?hl=en&user=M9k7ePwAAAAJ">Google Scholar Profile</a></p>
+  <p><strong>Website</strong>: <a href="https://www.cbs.dk/en/research/departments-and-centres/department-of-economics/staff/drmeco">University Webpage</a></p>
 </div>
 
 </div>
