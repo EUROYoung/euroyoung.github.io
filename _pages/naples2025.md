@@ -69,8 +69,8 @@ gallery4:
 
 <nav style="text-align: center; font-size: 1.2em; padding: 1em; background-color: #f8f8f8;">
   <a href="#about">About</a> |
-  <a href="#dates">Important Dates</a> |
-  <a href="#speakers">Plenary Speakers</a> |
+  <a href="#dates">Dates</a> |
+  <a href="#speakers">Speakers</a> |
   <a href="#committees">Committees</a> |
   <a href="#abstracts">Abstracts</a> |
   <a href="#venue">Venue</a> |
@@ -81,7 +81,7 @@ gallery4:
 # About
 Join us for an exciting Workshop on Operational Research in the beautiful city of Naples, where young researchers will have the opportunity to engage with leading experts in the field. This event will feature plenary talks by top researchers, providing valuable insights into cutting-edge advancements and real-world applications. Beyond the academic sessions, enjoy networking opportunities and social activities, all set against the stunning backdrop of Naples, a city rich in history, culture, and cuisine. Don't miss this chance to expand your knowledge, connect with peers, and experience the charm of one of Italy’s most vibrant cities!
 
-# Important Dates 
+# Dates 
 __Abstract Submission__ 10 March 2025 (10:00 AM CET time) - <strike>15 April 2025</strike> 25 April 2025. 
 
 __Registration__ 1 May 2025 - 1 June 2025 
@@ -91,7 +91,7 @@ __Workshop__ 15 October 2025 - 17 October 2025
 {% include gallery id="gallery" caption="Seaside, Mount Vesuvius" %}
 
 
-# Plenary Speakers
+# Speakers
 
 Meet our confirmed speakers!
 
