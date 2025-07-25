@@ -79,8 +79,8 @@ gallery4:
   <a href="#dates" style="margin: 0 10px; color: #0d3b66; text-decoration: none;">Dates</a> |
   <a href="#speakers" style="margin: 0 10px; color: #0d3b66; text-decoration: none;">Speakers</a> |
   <a href="#committees" style="margin: 0 10px; color: #0d3b66; text-decoration: none;">Committees</a> |
-  <a href="#abstracts" style="margin: 0 10px; color: #0d3b66; text-decoration: none;">Abstracts</a> |
   <a href="#programme" style="margin: 0 10px; color: #0d3b66; text-decoration: none;">Programme</a> |
+  <a href="#abstracts" style="margin: 0 10px; color: #0d3b66; text-decoration: none;">Abstracts</a> |
   <a href="#venue" style="margin: 0 10px; color: #0d3b66; text-decoration: none;">Venue</a> |
   <a href="#contact" style="margin: 0 10px; color: #0d3b66; text-decoration: none;">Contact</a> |
   <a href="#sponsors" style="margin: 0 10px; color: #0d3b66; text-decoration: none;">Sponsors</a>
