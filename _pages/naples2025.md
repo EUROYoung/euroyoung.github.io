@@ -24,14 +24,6 @@ gallery:
     title: "Image 1 title caption"
 
 gallery2:
-  - url: /assets/images/colors.jpeg
-    image_path: /assets/images/colors.jpeg
-    alt: "placeholder image 5"
-    title: "colors"
-  - url: /assets/images/flags.jpeg
-    image_path: /assets/images/flags.jpeg
-    alt: "placeholder image 5"
-    title: "flags"
   - url: /assets/images/lights.jpeg
     image_path: /assets/images/lights.jpeg
     alt: "placeholder image 5"
