@@ -213,6 +213,8 @@ To be added soon.
 
 
 <h1 id="abstracts">Abstracts (CLOSED!)</h1>
+More info in: <a href="/resources/abstract/">
+
 All participants wishing to attend the workshop are required to submit an abstract __following the provided template__. 
 
 Each attendee is allowed to present one abstract at the conference.
