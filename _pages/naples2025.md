@@ -94,6 +94,65 @@ __Workshop__ 15 October 2025 - 17 October 2025
 
 Meet our confirmed speakers!
 
+<style>
+  .speaker-grid {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 2em;
+    margin: 2em 0;
+  }
+
+  .speaker-card {
+    text-align: center;
+    width: 180px;
+  }
+
+  .speaker-card img {
+    width: 100%;
+    height: auto;
+    border-radius: 12px;
+    cursor: pointer;
+    box-shadow: 0 2px 6px rgba(0,0,0,0.2);
+    transition: transform 0.2s ease;
+  }
+
+  .speaker-card img:hover {
+    transform: scale(1.05);
+  }
+
+  .speaker-card p {
+    margin-top: 0.5em;
+    font-weight: bold;
+  }
+</style>
+
+<div class="speaker-grid">
+
+  <div class="speaker-card">
+    <a href="/speakers/speaker1/">
+      <img src="/assets/images/MBoccia2.jpeg" alt="Speaker 1">
+    </a>
+    <p>Dr. Alice Smith</p>
+  </div>
+
+  <div class="speaker-card">
+    <a href="/speakers/speaker1/">
+      <img src="/assets/images/MBoccia2.jpeg" alt="Speaker 2">
+    </a>
+    <p>Prof. Bob Jones</p>
+  </div>
+
+  <div class="speaker-card">
+    <a href="/speakers/speaker1/">
+      <img src="/assets/images/MBoccia2.jpeg" alt="Speaker 3">
+    </a>
+    <p>Dr. Carla Gómez</p>
+  </div>
+
+  <!-- Add more speaker cards as needed -->
+
+</div>
 
 ## [Maurizio Boccia](https://scholar.google.com/citations?hl=en&user=M9k7ePwAAAAJ) 
 <img src="/assets/images/MBoccia2.jpeg" alt="" width="300" height="400">
