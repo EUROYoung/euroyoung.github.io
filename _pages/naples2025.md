@@ -65,16 +65,25 @@ gallery4:
   }
 </style>
 
-<nav style="text-align: center; font-size: 1.2em; padding: 1em; background-color: #f8f8f8;">
-  <a href="#about">About</a> |
-  <a href="#dates">Dates</a> |
-  <a href="#speakers">Speakers</a> |
-  <a href="#committees">Committees</a> |
-  <a href="#abstracts">Abstracts</a> |
-  <a href="#programme">Programme</a> |
-  <a href="#venue">Venue</a> |
-  <a href="#contact">Contact</a> |
-  <a href="#sponsors">Sponsors</a>
+<nav style="
+  text-align: center;
+  font-size: 1.1em;
+  padding: 1em;
+  background-color: #e8f5e9; /* light green */
+  color: #0d3b66;            /* dark blue */
+  border-radius: 10px;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+">
+  <a href="#about" style="margin: 0 10px; color: #0d3b66; text-decoration: none;">About</a> |
+  <a href="#dates" style="margin: 0 10px; color: #0d3b66; text-decoration: none;">Dates</a> |
+  <a href="#speakers" style="margin: 0 10px; color: #0d3b66; text-decoration: none;">Speakers</a> |
+  <a href="#committees" style="margin: 0 10px; color: #0d3b66; text-decoration: none;">Committees</a> |
+  <a href="#abstracts" style="margin: 0 10px; color: #0d3b66; text-decoration: none;">Abstracts</a> |
+  <a href="#programme" style="margin: 0 10px; color: #0d3b66; text-decoration: none;">Programme</a> |
+  <a href="#venue" style="margin: 0 10px; color: #0d3b66; text-decoration: none;">Venue</a> |
+  <a href="#contact" style="margin: 0 10px; color: #0d3b66; text-decoration: none;">Contact</a> |
+  <a href="#sponsors" style="margin: 0 10px; color: #0d3b66; text-decoration: none;">Sponsors</a>
 </nav>
 
 <h1 id="about">About</h1>
