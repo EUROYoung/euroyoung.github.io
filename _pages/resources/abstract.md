@@ -4,78 +4,33 @@ title: "Abstract submission"
 permalink: /resources/abstract/
 ---
 
-<style>
-.speaker-container {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 2em;
-  align-items: flex-start;
-  margin: 2em 0;
-}
+All participants wishing to attend the workshop are required to submit an abstract __following the provided template__. 
 
-.speaker-image {
-  flex: 1 1 300px;
-  max-width: 300px;
-}
+Each attendee is allowed to present one abstract at the conference.
 
-.speaker-image img {
-  width: 100%;
-  border-radius: 12px;
-  box-shadow: 0 2px 8px rgba(0,0,0,0.15);
-}
+Please submit your abstract __no later than April 15, 2025__. All submissions will be reviewed by members of the scientific committee. Notification of the decision of the referees will be sent to the corresponding author by April 25, 2025.
 
-.speaker-details {
-  flex: 2 1 500px;
-}
 
-.speaker-details h1 {
-  margin-top: 0;
-}
+__There is a limited number of places available__. If applications exceed this limit, selection will be made on a first-come, first-served basis, while also ensuring representation of researchers from different countries to foster international collaboration.
 
-.speaker-details h2 {
-  font-size: 1.2em;
-  color: #555;
-  margin-bottom: 1em;
-}
+__Priority will be given to early-career researchers affiliated with institutions within EURO.__
 
-@media (max-width: 768px) {
-  .speaker-container {
-    flex-direction: column;
-    align-items: center;
-  }
 
-  .speaker-details {
-    text-align: center;
-  }
-}
-</style>
+## Template
+You can download the <a href="/assets/pdffiles/template.zip" download="EUROYoungtemplate">LaTeX template here</a>.
+Please follow the instructions provided inside the file, i.e., __do not modify the format of the template__.
+Your abstract must fit in a single page including the references and the short bio of the speaker.
 
-<div class="speaker-container">
+## Submission Process
+All the abstracts must be submitted in PDF format using the following [form (here).](https://docs.google.com/forms/d/1g7nDFTNu0j_puacc3akc6wDTKjNOJqmhoyD243YC3KI/viewform?edit_requested=true)
+The name of the file must be your own name (e.g., surnames_names.pdf).  
 
-  <div class="speaker-image">
-    <img src="/assets/images/MBoccia2.jpeg" alt="Maurizio Boccia">
-  </div>
+__Please notice that those submissions that do not meet all the instructions provided might be discarded.__ 
 
-<div class="speaker-details">
-  <h1>Maurizio Boccia</h1>
-  <h2>University of Naples Federico II, Italy</h2>
-  
-Maurizio Boccia is a full professor of Operations Research at the University of Naples Federico II, Italy. His research interests include large-scale linear integer programming and the development of exact and heuristic methods for complex combinatorial and network optimization problems, with applications in scheduling, location, routing, and location-routing. He also focuses on truck-and-drone routing problems and has collaborated with several international institutions, including CORE (Belgium), SINTEF ICT (Norway), and the University of Quebec-Montreal. 
+## After acceptance
+The EUROYoung workshop is focused on early career researchers, consequently we try our best in order to keep the fee as low as possible.
+In return we ask to the participants to avoid bad practices such as submitting abstracts if not completely sure about attending.
+Given that, in order to ensure your spot at the workshop __the selected participant must pay the fee within 10 days after the acceptance notification__. If not, the selection will be intermediately canceled, and the spot will be re-assigned to other candidate.  
 
-He is a member of the Board of Professors of the Ph.D. program in Information Technology and Electrical Engineering (ITEE) at the University of Naples Federico II. He has been the scientific coordinator of multiple European, national, and regional research units, as well as numerous collaborations with private companies such as OptRail S.r.l., NGI SpA, ITALTEL SpA, Elasis SpA, and ITALDATA SpA.
-
-  
-  <p><strong>Talk Title</strong>: <em>"To be added"</em></p>
-
-  <p>To be added..</p>
-
-  <p>.......</p>
-
-  <hr>
-
-  <p><strong>Website</strong>: <a href="https://scholar.google.com/citations?hl=en&user=M9k7ePwAAAAJ">Google Scholar Profile</a></p>
-</div>
-
-</div>
 
 
