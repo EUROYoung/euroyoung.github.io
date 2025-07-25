@@ -292,10 +292,7 @@ The hotel's website can be accessed [HERE](https://www.hotelnuvo.it/it/).
 If you have any query, write us! _euroyoung@euro-online.org_
 
 <h1 id="sponsors">Sponsors</h1>
-
-<p style="text-align: center; font-size: 1.1em;">
-  We highly appreciate the support of the following sponsors.
-</p>
+We highly appreciate the support of the following sponsors.
 
 <div style="
   display: flex;
