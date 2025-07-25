@@ -103,6 +103,7 @@ __Workshop__ 15 October 2025 - 17 October 2025
 <h1 id="speakers">Speakers</h1>
 
 Meet our confirmed speakers!
+Click on the pictures for more details.
 
 <style>
   .speaker-grid {
