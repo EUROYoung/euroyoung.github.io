@@ -59,6 +59,12 @@ gallery4:
     title: "galleria"       
 ---
 
+<style>
+  html {
+    scroll-behavior: smooth;
+  }
+</style>
+
 <nav style="text-align: center; font-size: 1.2em; padding: 1em; background-color: #f8f8f8;">
   <a href="#about">About</a> |
   <a href="#dates">Dates</a> |
