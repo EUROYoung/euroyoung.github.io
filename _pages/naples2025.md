@@ -162,81 +162,30 @@ Meet our confirmed speakers!
 
 </div>
 
-## [Maurizio Boccia](https://scholar.google.com/citations?hl=en&user=M9k7ePwAAAAJ) 
-<img src="/assets/images/MBoccia2.jpeg" alt="" width="300" height="400">
-
-Maurizio Boccia is a full professor of Operations Research at the University of Naples Federico II, Italy. His research interests include large-scale linear integer programming and the development of exact and heuristic methods for complex combinatorial and network optimization problems, with applications in scheduling, location, routing, and location-routing. He also focuses on truck-and-drone routing problems and has collaborated with several international institutions, including CORE (Belgium), SINTEF ICT (Norway), and the University of Quebec-Montreal. 
-
-He is a member of the Board of Professors of the Ph.D. program in Information Technology and Electrical Engineering (ITEE) at the University of Naples Federico II. He has been the scientific coordinator of multiple European, national, and regional research units, as well as numerous collaborations with private companies such as OptRail S.r.l., NGI SpA, ITALTEL SpA, Elasis SpA, and ITALDATA SpA.
-
-## [Dolores Romero Morales](https://www.cbs.dk/en/research/departments-and-centres/department-of-economics/staff/drmeco) 
-<img src="/assets/images/DoloresRomeroMorales2.jpg" alt="" width="300" height="400">
-
-Dolores Romero Morales is a professor of Operations Research at Copenhagen Business School, Denmark. Her areas of expertise include explainability and fairness in data science as well as sustainable supply chain management. Dolores currently serves as the Editor-in-Chief of _TOP_ and as an associate editor of the _Journal of the Operational Research Society_ as well as the _INFORMS Journal on Data Science_. Moreover, she is an _Honorary SAS Fellow_ and a member of the _SAS Academic Advisory Board_.
-
-Among her recent achievements, Dolores (together with her co-authors) was awarded the 2024 _Spanish Society of Statistics and Operations Research — BBVA Foundation Award_ for the best contribution in statistics and operations research applied to data science and big data published in the _European Journal of Operational Research_. Beyond research, Dolores actively supports early-career researchers through initiatives such as _YoungWomen4OR_, a program within the _EURO WISDOM Forum_ that aims at increasing the visibility of young female researchers in operations research across _EURO_.
-
-
-## [Martin Schmidt](https://martinschmidt.squarespace.com/) 
-<img src="/assets/images/MartinSchmidt2.jpg" alt="" width="300" height="400">
-
-Martin Schmidt is a professor of Nonlinear Optimization at Trier University, Germany. His research interests include bilevel optimization, optimization under uncertainty, equilibrium models, and applications in energy markets. He is the speaker of the research training group _Algorithmic Optimization_ at Trier University, a fellow of the _Energy Campus Nuremberg_, and a member of the _International Scientific Committee_ of the Instituto Universitario de Investigación de Matemáticas y Aplicaciones of Universidad de Zaragoza. 
-
-Martin currently serves on the editorial board of _Optimization Letters_ and he is an associate editor of the _Journal of Optimization Theory and Applications_, _OR Spectrum_, and the _EURO Journal on Computational Optimization_, as well as a technical editor of _Mathematical Programming Computation_.
-
-Among his recent achievements, Martin (together with his co-authors) was awarded the _Optimization Letters Best Paper Award_, the _Marguerite Frank Award_ for the best _EURO Journal on Computational Optimization_ paper, and the _Mathematical Methods of Operations Research Best Paper Award_, all in 2021.
-
-## [Maria Grazia Speranza](https://scholar.google.com/citations?hl=en&user=48zUfJ4AAAAJ) 
-<img src="/assets/images/MGrazia2.jpg" alt="" width="300" height="400">
-
-M. Grazia Speranza is full professor of Operations Research at the University of Brescia. She was President of the _International Federation of Operational Research Societies (IFORS)_, of the association of _European Operational Research Societies (EURO)_ and of the _Transportation Science and Logistics (TSL)_ society of _INFORMS_.
-
-Grazia’s research is in the area of mixed integer programming and combinatorial optimization, with a focus on applications to transportation and logistics. She is author of more than 200 papers. She is currently a member of the advisory board of editors for _Transportation Science_, editor of the series _EURO Advanced Tutorials in Operational Research_, and a member of the editorial boards of the _EURO Journal on Transportation and Logistics_, _International Transactions in Operational Research_, and _4OR_.  
-
-Grazia is cited in the _“World’s 2% Top Scientists” ranking_. She is also recognized as one of the _Top 100 Italian Women in STEM_. She was awarded with the _Laurea honoris causa_ by the University of Freiburg, Switzerland. She is a member of the _Academy of Sciences_ of the University of Bologna and was awarded as an Italian Knowledge Leader by the Convention Bureau Italia. In 2024 she received the _EURO Gold medal_ and was nominated _INFORMS Fellow_.
-
 
 <h1 id="committees">Committees</h1>
 
-## Scientific Committee
+## Co-Chaits
 Marta Baldomero-Naranjo (_Universidad de Cádiz, Spain_)
-
-Yasmine Beck (_ESSEC Business School, France_)
-
-Martina Cerulli (_University of Salerno, Italy_)
-
-Laura Davila-Pena (_University of Kent, UK_)
-
-Antonio Diglio (_University of Naples Federico II, Italy_)
 
 Andrea Mancuso (_University of Naples Federico II, Italy_)
 
-Adriano Masone (_University of Naples Federico II, Italy_)
-
-Alan Osorio-Mora (_RPTU Kaiserslautern, Germany_) 
-
-Carmela Piccolo (_University of Naples Federico II, Italy_)
-
-Claudio Sterle (_University of Naples Federico II, Italy_)
-
-
-## Organizing Committee
-Danilo Amitrano (_University of Naples Federico II, Italy_)
- 
-Marta Baldomero-Naranjo (_Universidad de Cádiz, Spain_)
-
-Martina Doneda (_University of Bergamo, Italy_)
-
-Mario Lepore (_University of Salerno, Italy_)
-
-Andrea Mancuso (_University of Naples Federico II, Italy_)
-
-Adriano Masone (_University of Naples Federico II, Italy_)
-
-Eduardo Pipicelli (_University of Naples Federico II, Italy_)
-
-Carmine Sorgente (_University of Salerno, Italy_)
-
+## Other member
+Yasmine Beck (_ESSEC Business School, France_),
+Martina Cerulli (_University of Salerno, Italy_),
+Laura Davila-Pena (_University of Kent, UK_), 
+Antonio Diglio (_University of Naples Federico II, Italy_),
+Adriano Masone (_University of Naples Federico II, Italy_),
+Alan Osorio-Mora (_RPTU Kaiserslautern, Germany_),
+Carmela Piccolo (_University of Naples Federico II, Italy_),
+Claudio Sterle (_University of Naples Federico II, Italy_),
+Danilo Amitrano (_University of Naples Federico II, Italy_),
+Martina Doneda (_University of Bergamo, Italy_),
+Mario Lepore (_University of Salerno, Italy_),
+Andrea Mancuso (_University of Naples Federico II, Italy_),
+Adriano Masone (_University of Naples Federico II, Italy_),
+Eduardo Pipicelli (_University of Naples Federico II, Italy_),
+Carmine Sorgente (_University of Salerno, Italy_),
 
 <h1 id="programme">Programme</h1>
 To be added soon.
