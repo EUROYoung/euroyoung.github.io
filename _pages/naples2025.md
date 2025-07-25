@@ -166,11 +166,11 @@ Meet our confirmed speakers!
 <h1 id="committees">Committees</h1>
 
 ## Co-Chairs
-Marta Baldomero-Naranjo (_Universidad de Cádiz, Spain_)
+Marta Baldomero-Naranjo (<em>Universidad de Cádiz, Spain</em>)<br>
 
-Andrea Mancuso (_University of Naples Federico II, Italy_)
+Andrea Mancuso (<em>University of Naples Federico II, Italy</em>)<br>
 
-## Other member
+## Other members
 Yasmine Beck (<em>ESSEC Business School, France</em>)<br>
 Martina Cerulli (<em>University of Salerno, Italy</em>)<br>
 Laura Davila-Pena (<em>University of Kent, UK</em>)<br>
