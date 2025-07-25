@@ -73,7 +73,7 @@ He is a member of the Board of Professors of the Ph.D. program in Information Te
 
   <hr>
 
-  <p><strong>Website</strong>: <a href="Maurizio Boccia Google Scholar Profile">https://scholar.google.com/citations?hl=en&user=M9k7ePwAAAAJ</a></p>
+  <p><strong>Website</strong>: <a href="https://scholar.google.com/citations?hl=en&user=M9k7ePwAAAAJ">Maurizio Boccia Google Scholar Profile</a></p>
 </div>
 
 </div>
