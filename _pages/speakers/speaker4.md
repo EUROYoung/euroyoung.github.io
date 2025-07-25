@@ -60,11 +60,13 @@ permalink: /speakers/speaker4/
   <h1>M. Grazia Speranza</h1>
   <h2>University of Brescia, Italy</h2>
   
-M. Grazia Speranza is full professor of Operations Research at the University of Brescia. She was President of the _International Federation of Operational Research Societies (IFORS)_, of the association of _European Operational Research Societies (EURO)_ and of the _Transportation Science and Logistics (TSL)_ society of _INFORMS_.
+M. Grazia Speranza is full professor of Operations Research at the University of Brescia. She was President of the <em>International Federation of Operational Research Societies (IFORS)</em>, of the association of <em>European Operational Research Societies (EURO)</em> and of the <em>Transportation Science and Logistics (TSL)</em> society of <em>INFORMS</em>.
 
-Grazia’s research is in the area of mixed integer programming and combinatorial optimization, with a focus on applications to transportation and logistics. She is author of more than 200 papers. She is currently a member of the advisory board of editors for _Transportation Science_, editor of the series _EURO Advanced Tutorials in Operational Research_, and a member of the editorial boards of the _EURO Journal on Transportation and Logistics_, _International Transactions in Operational Research_, and _4OR_.  
+Grazia’s research is in the area of mixed integer programming and combinatorial optimization, with a focus on applications to transportation and logistics. She is author of more than 200 papers. She is currently a member of the advisory board of editors for <em>Transportation Science</em>, editor of the series <em>EURO Advanced Tutorials in Operational Research</em>, and a member of the editorial boards of the <em>EURO Journal on Transportation and Logistics</em>, <em>International Transactions in Operational Research</em>, and <em>4OR</em>.  
 
-Grazia is cited in the _“World’s 2% Top Scientists” ranking_. She is also recognized as one of the _Top 100 Italian Women in STEM_. She was awarded with the _Laurea honoris causa_ by the University of Freiburg, Switzerland. She is a member of the _Academy of Sciences_ of the University of Bologna and was awarded as an Italian Knowledge Leader by the Convention Bureau Italia. In 2024 she received the _EURO Gold medal_ and was nominated _INFORMS Fellow_.  <p><strong>Talk Title</strong>: <em>"To be added"</em></p>
+Grazia is cited in the <em>“World’s 2% Top Scientists” ranking</em>. She is also recognized as one of the <em>Top 100 Italian Women in STEM</em>. She was awarded with the <em>Laurea honoris causa</em> by the University of Freiburg, Switzerland. She is a member of the <em>Academy of Sciences</em> of the University of Bologna and was awarded as an Italian Knowledge Leader by the Convention Bureau Italia. In 2024 she received the <em>EURO Gold medal</em> and was nominated <em>INFORMS Fellow</em>. 
+
+<p><strong>Talk Title</strong>: <em>"To be added"</em></p>
 
   <p>To be added..</p>
 
