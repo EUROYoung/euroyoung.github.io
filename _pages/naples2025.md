@@ -292,8 +292,22 @@ The hotel's website can be accessed [HERE](https://www.hotelnuvo.it/it/).
 If you have any query, write us! _euroyoung@euro-online.org_
 
 <h1 id="sponsors">Sponsors</h1>
-We highly appreciate the support of the following sponsors.
 
-<img src="/assets/images/EURO.png" alt="EURO" width="300" height="300"> <img src="/assets/images/UNINA.png" alt="UNINA" width="300" height="200">  <img src="/assets/images/UNINA.jpeg" alt="UNINA" width="200" height="100"> 
+<p style="text-align: center; font-size: 1.1em;">
+  We highly appreciate the support of the following sponsors.
+</p>
 
-<img src="/assets/images/AIRO.png" alt="AIRO" width="200" height="200">  <img src="/assets/images/ayroyoung.png" alt="AIROYoung" width="150" height="150">
+<div style="
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  gap: 30px;
+  padding: 20px;
+">
+  <img src="/assets/images/EURO.png" alt="EURO" style="max-height: 120px; object-fit: contain;">
+  <img src="/assets/images/UNINA.png" alt="UNINA" style="max-height: 120px; object-fit: contain;">
+  <img src="/assets/images/UNINA.jpeg" alt="UNINA" style="max-height: 120px; object-fit: contain;">
+  <img src="/assets/images/AIRO.png" alt="AIRO" style="max-height: 120px; object-fit: contain;">
+  <img src="/assets/images/ayroyoung.png" alt="AIROYoung" style="max-height: 120px; object-fit: contain;">
+</div>
