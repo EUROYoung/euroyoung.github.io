@@ -175,26 +175,24 @@ Meet our confirmed speakers!
 
 <h1 id="committees">Committees</h1>
 
-## Organizing committee
-### Co-Chairs
-Marta Baldomero-Naranjo (<em>Universidad de Cádiz, Spain</em>)<br>
-Andrea Mancuso (<em>University of Naples Federico II, Italy</em>)<br>
-
-### Other members
+## Scientific committee
+Marta Baldomero-Naranjo (<em>Universidad de Cádiz, Spain</em>), co-chair<br>
 Yasmine Beck (<em>ESSEC Business School, France</em>)<br>
 Martina Cerulli (<em>University of Salerno, Italy</em>)<br>
 Laura Davila-Pena (<em>University of Kent, UK</em>)<br>
 Antonio Diglio (<em>University of Naples Federico II, Italy</em>)<br>
+Andrea Mancuso (<em>University of Naples Federico II, Italy</em>), co-chair<br>
 Adriano Masone (<em>University of Naples Federico II, Italy</em>)<br>
 Alan Osorio-Mora (<em>RPTU Kaiserslautern, Germany</em>)<br>
 Carmela Piccolo (<em>University of Naples Federico II, Italy</em>)<br>
 Claudio Sterle (<em>University of Naples Federico II, Italy</em>)<br>
 
-## Scientific committee
+## Organizing committee
 Danilo Amitrano (<em>University of Naples Federico II, Italy</em>)<br>
+Marta Baldomero-Naranjo (<em>Universidad de Cádiz, Spain</em>), co-chair<br>
 Martina Doneda (<em>University of Bergamo, Italy</em>)<br>
 Mario Lepore (<em>University of Salerno, Italy</em>)<br>
-Andrea Mancuso (<em>University of Naples Federico II, Italy</em>)<br>
+Andrea Mancuso (<em>University of Naples Federico II, Italy</em>), co-chair<br>
 Adriano Masone (<em>University of Naples Federico II, Italy</em>)<br>
 Eduardo Pipicelli (<em>University of Naples Federico II, Italy</em>)<br>
 Carmine Sorgente (<em>University of Salerno, Italy</em>)
@@ -213,7 +211,7 @@ To be added soon.
 
 
 <h1 id="abstracts">Abstracts (CLOSED!)</h1>
-More info in: <a href="/resources/abstract/">
+More info  <a href="/resources/abstract/">here</a>.
 
 All participants wishing to attend the workshop are required to submit an abstract __following the provided template__. 
 
