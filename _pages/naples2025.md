@@ -206,9 +206,6 @@ To be added soon.
 ## Social Programme
 To be added soon.
 
-{% include gallery id="gallery3" caption="Quartieri Spagnoli (Spanish Barracks)" %}
-
-
 
 <h1 id="abstracts">Abstracts (CLOSED!)</h1>
 More info  <a href="/resources/abstract/">here</a>.
