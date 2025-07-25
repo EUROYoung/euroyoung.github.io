@@ -206,7 +206,7 @@ To be added soon.
 ## Social Programme
 To be added soon.
 
-{% include gallery id="gallery2" caption="Quartieri Spagnoli (Spanish Barracks)" %}
+{% include gallery id="gallery3" caption="Quartieri Spagnoli (Spanish Barracks)" %}
 
 
 
