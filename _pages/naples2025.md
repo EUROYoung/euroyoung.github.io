@@ -167,7 +167,6 @@ Meet our confirmed speakers!
 
 ## Co-Chairs
 Marta Baldomero-Naranjo (<em>Universidad de Cádiz, Spain</em>)<br>
-
 Andrea Mancuso (<em>University of Naples Federico II, Italy</em>)<br>
 
 ## Other members
