@@ -70,7 +70,7 @@ gallery4:
 <nav style="text-align: center; font-size: 1.2em; padding: 1em; background-color: #f8f8f8;">
   <a href="#about">About</a> |
   <a href="#dates">Important Dates</a> |
-  <a href="#speakers">Speakers</a> |
+  <a href="#speakers">Plenary Speakers</a> |
   <a href="#committees">Committees</a> |
   <a href="#abstracts">Abstracts</a> |
   <a href="#venue">Venue</a> |
@@ -213,7 +213,7 @@ Given that, in order to ensure your spot at the workshop __the selected particip
 
 {% include gallery id="gallery4" caption="More to discover" %}
 
-# Venue and fee
+# Venue
 The workshop will take place at the __University Of Naples Federico II__.
 
 <img src="/assets/images/venue.jpeg" alt="" width="500" height="300">
