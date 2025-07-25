@@ -3,7 +3,8 @@ layout: default
 title: "Abstract submission"
 permalink: /resources/abstract/
 ---
-
+<div style="max-width: 900px; margin: 0 auto; padding: 1rem 2rem;">
+  
 # Abstract submission process (Closed)
 All participants wishing to attend the workshop are required to submit an abstract __following the provided template__. 
 
