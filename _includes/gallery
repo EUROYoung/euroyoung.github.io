@@ -1,13 +1,3 @@
-<div class="gallery">
-  {% for image in site.data.galleries[include.id] %}
-    <div class="gallery-item">
-      <a href="{{ image.url }}" target="_blank">
-        <img src="{{ image.image_path }}" alt="{{ image.alt }}" title="{{ image.title }}">
-      </a>
-    </div>
-  {% endfor %}
-</div>
-
 {% if include.caption %}
   <div class="gallery-caption">{{ include.caption }}</div>
 {% endif %}
