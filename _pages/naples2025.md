@@ -202,7 +202,109 @@ Carmine Sorgente (<em>University of Salerno, Italy</em>)
 To be added soon.
 
 ## Scientific Programme
-To be added soon.
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Conference Program</title>
+<script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-gray-50 text-gray-800 font-sans">
+<div class="max-w-5xl mx-auto p-6">
+<h1 class="text-3xl font-bold text-center mb-8">Conference Program</h1>
+
+
+<!-- Day Template -->
+<div class="space-y-6">
+
+
+<!-- Wednesday -->
+<div class="bg-white rounded-2xl shadow p-6">
+<h2 class="text-2xl font-semibold mb-4">Wednesday, October 15</h2>
+<ul class="space-y-2">
+<li><b>12:20 – 12:40</b> · Registration</li>
+<li><b>12:40 – 13:10</b> · Opening</li>
+<li class="mt-2 font-medium">Session: Uncertain Optimization</li>
+<li><b>13:10 – 13:30</b> · Federica Donnini — <i>On K-adaptability for two-stage stochastic programs</i></li>
+<li><b>13:30 – 13:50</b> · Hossein Babazadeh — <i>Power Swaps: A Coordination Mechanism...</i></li>
+<li><b>13:50 – 14:10</b> · Simon Stevens — <i>A Branch-and-Cut Approach...</i></li>
+<li><b>14:10 – 14:30</b> · Xuan Truong Dinh — <i>Enhancing Multi-Period, Multi-Commodity...</i></li>
+<li><b>14:30 – 14:50</b> · Bárbara Rodrigues — <i>Combined Scenario Reduction...</i></li>
+<li class="mt-2"><b>14:50 – 15:20</b> · ☕ Coffee Break</li>
+<li class="mt-2 font-medium">Plenary</li>
+<li><b>15:20 – 16:20</b> · Martin Schmidt — <i>A Gentle and Incomplete Introduction to Bilevel Optimization</i></li>
+<li><b>16:20 – 16:30</b> · Short Break</li>
+<li class="mt-2 font-medium">Session: Location</li>
+<li><b>16:30 – 16:50</b> · Isabel Wiemer — <i>Enhancing Fairness in Emergency Medical Service...</i></li>
+<li><b>16:50 – 17:10</b> · Felix Rauh — <i>Dynamic Programming and Block-Cut Tree Decompositions...</i></li>
+<li><b>17:10 – 17:30</b> · Ricardo Gázquez — <i>Incorporation of Regional Preferences in Facility Location...</i></li>
+<li class="mt-2 font-medium">Session: Routing</li>
+<li><b>17:30 – 17:50</b> · Chiara Maragò — <i>Optimizing Cruise Ship Itineraries...</i></li>
+<li><b>17:50 – 18:10</b> · Vid Tomljenovic — <i>Solving a Multi-Depot Multi-Vehicle Inventory Routing Problem...</i></li>
+<li><b>18:10 – 18:30</b> · Valentina Bonomi — <i>Dynamic management of requests in a Multi-Period Home Healthcare Problem...</i></li>
+</ul>
+</div>
+
+
+<!-- Thursday -->
+<div class="bg-white rounded-2xl shadow p-6">
+<h2 class="text-2xl font-semibold mb-4">Thursday, October 16</h2>
+<ul class="space-y-2">
+<li class="font-medium">Session: Machine Learning I</li>
+<li><b>08:30 – 08:50</b> · Daan Otto — <i>Coherent Local Explanations...</i></li>
+<li><b>08:50 – 09:10</b> · Marica Magagnini — <i>Multiple Disperse (generalized) Linear Models</i></li>
+<li><b>09:10 – 09:30</b> · Sebastian Merten — <i>Interpretable Surrogates for Optimization</i></li>
+<li class="font-medium mt-2">Session: Machine Learning II</li>
+<li><b>09:30 – 09:50</b> · Lorenzo Saccucci — <i>The Potential of Large Language Models...</i></li>
+<li><b>09:50 – 10:10</b> · Ilaria Ciocci — <i>Margin Optimal Regression Trees</i></li>
+<li><b>10:10 – 10:30</b> · Paula Segura Martínez — <i>New mathematical optimization models...</i></li>
+<li><b>10:30 – 11:00</b> · ☕ Coffee Break</li>
+<li class="font-medium mt-2">Plenary</li>
+<li><b>11:00 – 12:00</b> · Maria Grazia Speranza — <i>Optimization in transportation and logistics</i></li>
+<li><b>12:00 – 12:10</b> · Short Break</li>
+<li class="font-medium mt-2">Session: Bilevel Optimization</li>
+<li><b>12:10 – 12:30</b> · Alberto Torrejon — <i>The Measure of Everything...</i></li>
+<li><b>12:30 – 12:50</b> · Riccardo Tomassini — <i>Equilibrium selection in oligopolistic market</i></li>
+<li><b>12:50 – 13:10</b> · Martina Gherardi — <i>A bilevel revenue adequate generation expansion problem...</i></li>
+<li><b>13:10 – 13:30</b> · Francisco Temprano García — <i>A fresh view on the Security Games Problem</i></li>
+<li><b>13:30 – 14:30</b> · 🍴 Lunch Break</li>
+<li class="font-medium mt-2">Plenary</li>
+<li><b>14:30 – 15:30</b> · Dolores Romero Morales — <i>Local Explainability in Machine Learning...</i></li>
+</ul>
+</div>
+
+
+<!-- Friday -->
+<div class="bg-white rounded-2xl shadow p-6">
+<h2 class="text-2xl font-semibold mb-4">Friday, October 17</h2>
+<ul class="space-y-2">
+<li class="font-medium">Session: Advanced Optimization Techniques</li>
+<li><b>08:30 – 08:50</b> · Farzaneh Safari — <i>Inverse Cauchy problem...</i></li>
+<li><b>08:50 – 09:10</b> · Ties Schalij — <i>Structure-Aware Heuristic Improvement...</i></li>
+<li><b>09:10 – 09:30</b> · Nandan Kumar Singh — <i>Optimal Investment in Resiliency...</i></li>
+<li class="font-medium mt-2">Session: Industrial Applications 1</li>
+<li><b>09:30 – 09:50</b> · Çiya Aydoğan — <i>Tail Assignment Problem...</i></li>
+<li><b>09:50 – 10:10</b> · Sayeh Fooladi Mahani — <i>Optimizing electric carsharing systems...</i></li>
+<li><b>10:10 – 10:30</b> · Christian Truden — <i>Service Network Design with Fleet...</i></li>
+<li><b>10:30 – 11:00</b> · ☕ Coffee Break</li>
+<li class="font-medium mt-2">Plenary</li>
+<li><b>11:00 – 12:00</b> · Maurizio Boccia — <i>Exact and ML-guided Matheuristic approaches...</i></li>
+<li><b>12:00 – 12:10</b> · Short Break</li>
+<li class="font-medium mt-2">Session: Game Theory and Combinatorial Optimization</li>
+<li><b>12:10 – 12:30</b> · Alejandro Bernárdez Ferradás — <i>Dirichlet Values for Balanced Games</i></li>
+<li><b>12:30 – 12:50</b> · Mariagrazia Cairo — <i>Bi-Objective Minimum Spanning Tree Problem...</i></li>
+<li><b>12:50 – 13:10</b> · Alberto Boggio Tomasaz — <i>On the Construction of Resilient Samples...</i></li>
+<li><b>13:10 – 13:30</b> · Carmine Sorgente — <i>Branch-and-cut algorithms for colorful components problems</i></li>
+<li><b>13:30 – 14:30</b> · 🍴 Lunch Break</li>
+<li class="font-medium mt-2">Panel Session</li>
+<li><b>14:30 – 15:30</b> · Challenges and Decisions that Shape Academic Careers</li>
+<li class="font-medium mt-2">Session: Industrial Applications 2</li>
+<li><b>15:30 – 15:50</b> · Victoria Crotti — <i>Multiprotexion</i></li>
+<li><b>15:50 – 16:10</b> · Paula Terán Viadero — <i>Exact and Heuristic Approaches for the 2D Cutting Stock Problem...</i></li>
+<li><b>16:10 – 16:30</b> · Matteo Cosmi — <i>The profitability-sustainability trade-off...</i></li>
+<li><b>16:30 – 17:00</b> · ☕ Coffee Break</li>
+<li class="font-medium mt-2">Session: Scheduling Problems</li>
 
 ## Social Programme
 To be added soon.
