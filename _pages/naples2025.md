@@ -204,6 +204,122 @@ To be added soon.
 ## Scientific Programme
 
 <div class="max-w-4xl mx-auto p-6">
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Conference Program</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+  <script>
+    function toggleSession(id, arrowId) {
+      const content = document.getElementById(id);
+      const arrow = document.getElementById(arrowId);
+      content.classList.toggle('hidden');
+      arrow.classList.toggle('rotate-180');
+    }
+  </script>
+</head>
+<body class="bg-gray-50 text-gray-800 font-sans">
+  <div class="max-w-5xl mx-auto p-6">
+    <h1 class="text-3xl font-bold text-center mb-8">Conference Program</h1>
+
+    <div class="space-y-6">
+
+      <!-- Wednesday -->
+      <div class="bg-white rounded-2xl shadow p-6">
+        <button onclick="toggleSession('wed','arrow-wed')" class="w-full text-left text-2xl font-semibold mb-4 flex justify-between items-center">
+          Wednesday October 15th <span id="arrow-wed" class="transition-transform">▼</span>
+        </button>
+        <pre id="wed" class="whitespace-pre-wrap">12:20 – 12:40: 	Registration
+12:40 – 13:10: 	Opening 
+13:10 – 14:50: 	Session: Uncertain Optimization	
+13:10 – 13:30	Federica Donnini “On K-adaptability for two-stage stochastic programs”	
+13:30 – 13:50	Hossein Babazadeh “Power Swaps: A Coordination Mechanism for Operation of  Jointly
+		Owned Hydropower Reservoirs”	
+13:50 – 14:10	Simon	Stevens “A Branch-and-Cut Approach for Decision-Dependent Robust  Optimization Problems”	
+14:10 – 14:30 	Xuan Truong Dinh “Enhancing Multi-Period, Multi-Commodity, Multi-Modal Network Flow Optimization in the Mekong Delta”	
+14:30 – 14:50	Bárbara Rodrigues “Combined Scenario Reduction and Discretization for Time Serie    		Data”
+14:50 – 15:20: 	Coffee Break
+15:20 – 16:20:	Plenary: Martin Schmidt “A Gentle and Incomplete Introduction to Bilevel 
+		Optimization”
+16:20 – 16:30: 	Short Break
+16:30 – 17:30: 	Session: Location	
+16:30 – 16:50	Isabel Wiemer “Enhancing Fairness in Emergency Medical Service: Single- and Bi-Objective Model Formulations”
+16:50 – 17:10 	Felix Rauh “Dynamic Programming and Block-Cut Tree Decompositions for a Maximum Covering Location-Network Design Problem”
+17:10 – 17:30 	Ricardo Gázquez “Incorporation of Regional Preferences in Facility Location: Insights into Efficiency and Satisfaction Trade-offs”
+17:30 – 18:30: 	Session: Routing
+17:30 – 17:50 	Chiara Maragò	“Optimizing Cruise Ship Itineraries: A Sustainable Perspective”
+17:50 – 18:10 Vid Tomljenovic “Solving a Multi-Depot Multi-Vehicle Inventory Routing Problem using  
+		Column Generation and Branch-and-Price”
+18:10 – 18:30 	Valentina Bonomi “Dynamic management of requests in a Multi-Period Home Healthcare Problem with Uncertainty and Consistency Constraints”</pre>
+      </div>
+
+      <!-- Thursday -->
+      <div class="bg-white rounded-2xl shadow p-6">
+        <button onclick="toggleSession('thu','arrow-thu')" class="w-full text-left text-2xl font-semibold mb-4 flex justify-between items-center">
+          Thursday October 16th <span id="arrow-thu" class="transition-transform">▼</span>
+        </button>
+        <pre id="thu" class="whitespace-pre-wrap hidden">08:30 – 09:30: 	Session: Machine Learning I
+08:30 – 08:50 : 	Daan Otto “Coherent Local Explanations for Mathematical Optimization”
+08:50 – 09:10:  	Marica Magagnini “Multiple Disperse (generalized) Linear Models”
+09:10 – 09:30:  	Sebastian Merten “Interpretable Surrogates for Optimization”
+09:30 – 10:30: 	Session: Machine Learning II
+09:30 – 09:50:	Lorenzo Saccucci “The Potential of Large Language Models in Solving Optimization Problems: An Empirical Study”
+09:50 – 10:10:	Ilaria Ciocci “Margin Optimal Regression Trees”
+10:10 – 10:30:	Paula Segura Martínez “New mathematical optimization models for clusters interpretability”
+10:30 – 11:00: 	Coffee Break
+11:00 – 12:00:	Plenary: Maria Grazia Speranza “Optimization in transportation and logistics”
+12:00 – 12:10: 	Short Break
+12:10 – 13:30: 	Session: Bilevel Optimization
+12:10 – 12:30: 	Alberto Torrejon “The Measure of Everything, a flexible modeling framework for combinatorial problems”
+12:30 – 12:50:  Riccardo Tomassini “Equilibrium selection in oligopolistic market”
+12:50 – 13:10: 	Martina Gherardi “A bilevel revenue adequate generation expansion problem with hybrid complementarity condition”
+13:10 – 13:30: 	Francisco Temprano García “A fresh view on the Security Games Problem”
+13:30 – 14:30: 	Lunch Break
+14:30 – 15:30:	Plenary: Dolores Romero Morales “Local Explainability in Machine Learning: A collective framework”</pre>
+      </div>
+
+      <!-- Friday -->
+      <div class="bg-white rounded-2xl shadow p-6">
+        <button onclick="toggleSession('fri','arrow-fri')" class="w-full text-left text-2xl font-semibold mb-4 flex justify-between items-center">
+          Friday October 17th <span id="arrow-fri" class="transition-transform">▼</span>
+        </button>
+        <pre id="fri" class="whitespace-pre-wrap hidden">08:30 – 09:30: 	Session: Advanced Optimization Techniques for Complex Systems
+08:30 – 08:50: 	Farzaneh Safari “Inverse Cauchy problem in the framework of an RBF-based meshless technique and trigonometric basis functions”
+08:50 – 09:10: 	Ties Schalij “Structure-Aware Heuristic Improvement via Policy Iteration”
+09:10 – 09:30:	 Nandan Kumar Singh “Optimal Investment in Resiliency in Presence of Spot Market Demand: A Generalized Distribution Approach”
+09:30 – 10:30: 	Session: Industrial Applications 1
+09:30 – 09:50: 	Çiya Aydoğan “Tail Assignment Problem with Hour-to-Cycle Ratio Constraints: A Branch and Price Algorithm”
+09:50 – 10:10: 	Sayeh Fooladi Mahani	“Optimizing electric carsharing systems for sustainable mobility and grid load management”
+10:10 – 10:30:	Christian Truden “Service Network Design with Fleet and Emissions Management at Scale”
+10:30 – 11:00: 	Coffee Break
+11:00 – 12:00:	Plenary: Maurizio Boccia “Exact and ML-guided Matheuristic approaches for a Truck-and-Drone delivery problem”
+12:00 – 12:10: 	Short Break
+12:10 – 13:30: 	Session: Game Theory and Combinatorial Optimization
+12:10 – 12:30: 	Alejandro Bernárdez Ferradás	“Dirichlet Values for Balanced Games”
+12:30 – 12:50: 	Mariagrazia Cairo “Bi-Objective Minimum Spanning Tree Problem: a comparison between a distributed and a parallel approach”
+12:50 – 13:10:  	Alberto	Boggio Tomasaz “On the Construction of Resilient Samples for Binary Interdiction”
+13:10 – 13:30: 	Carmine Sorgente “Branch-and-cut algorithms for colorful components problems”
+13:30 – 14:30: 	Lunch Break
+14:30 – 15:30:	Panel Session: Challenges and Decisions that Shape Academic Careers in Operational Research
+15:30 – 16:30:	Session: Industrial Applications 2
+15:30 – 15:50:	Victoria Crotti	“Multiprotexion”
+15:50 – 16:10: 	Paula Terán Viadero “Exact and Heuristic Approaches for the 2D Cutting Stock Problem with variable-sized stock”
+16:10 – 16:30:	Matteo	Cosmi	“The profitability-sustainability trade-off in complex chemical  value chains under product-specific carbon footprint constraints”
+16:30 – 17:00: 	Coffee Break
+17:00 – 18:20:	Session: Scheduling Problems
+17:00 – 17:20: 	Alex Barrales-Araneda “A Heuristic Algorithm for Sequential Timetabling and Electric Vehicle Scheduling in Public Transport”
+17:20 – 18:40: 	Martina Doneda “A data-driven tool for operating rooms advance scheduling”
+17:40 – 18:00:	Miguel	Chastre “Joint Optimization for the Scheduled Joint Replenishment Problem”
+18:00 – 18:20:	Roberto Maria Rosati	“Multi-Neighborhood Search for the AGV Scheduling Problem with Battery Constraints”
+18:20 – 18:40:	Closing</pre>
+      </div>
+
+    </div>
+  </div>
+</body>
+</html>
 
 </div>
 
