@@ -204,7 +204,6 @@ To be added soon.
 ## Scientific Programme
 
 <div class="max-w-4xl mx-auto p-6">
-<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
