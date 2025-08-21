@@ -202,109 +202,114 @@ Carmine Sorgente (<em>University of Salerno, Italy</em>)
 To be added soon.
 
 ## Scientific Programme
+
+<div class="max-w-4xl mx-auto p-6">
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Conference Program</title>
-<script src="https://cdn.tailwindcss.com"></script>
+  <meta charset="UTF-8">
+  <title>Conference Program</title>
+  <script src="https://cdn.tailwindcss.com"></script>
 </head>
-<body class="bg-gray-50 text-gray-800 font-sans">
-<div class="max-w-5xl mx-auto p-6">
-<h1 class="text-3xl font-bold text-center mb-8">Conference Program</h1>
+<body class="bg-gray-100 text-gray-800">
+  <div class="max-w-4xl mx-auto p-6">
+    <h1 class="text-3xl font-bold mb-6 text-center">Conference Program</h1>
 
+    <!-- Day Component -->
+    <div class="space-y-4">
 
-<!-- Day Template -->
-<div class="space-y-6">
+      <!-- Example Day -->
+      <div class="bg-white rounded-2xl shadow p-4">
+        <button onclick="toggleSection('day1')" class="w-full flex justify-between items-center text-xl font-semibold">
+          Wednesday October 15th
+          <span id="arrow-day1">▼</span>
+        </button>
+        <div id="day1" class="mt-2 space-y-2">
 
+          <p>12:20 – 12:40: Registration</p>
+          <p>12:40 – 13:10: Opening</p>
 
-<!-- Wednesday -->
-<div class="bg-white rounded-2xl shadow p-6">
-<h2 class="text-2xl font-semibold mb-4">Wednesday, October 15</h2>
-<ul class="space-y-2">
-<li><b>12:20 – 12:40</b> · Registration</li>
-<li><b>12:40 – 13:10</b> · Opening</li>
-<li class="mt-2 font-medium">Session: Uncertain Optimization</li>
-<li><b>13:10 – 13:30</b> · Federica Donnini — <i>On K-adaptability for two-stage stochastic programs</i></li>
-<li><b>13:30 – 13:50</b> · Hossein Babazadeh — <i>Power Swaps: A Coordination Mechanism...</i></li>
-<li><b>13:50 – 14:10</b> · Simon Stevens — <i>A Branch-and-Cut Approach...</i></li>
-<li><b>14:10 – 14:30</b> · Xuan Truong Dinh — <i>Enhancing Multi-Period, Multi-Commodity...</i></li>
-<li><b>14:30 – 14:50</b> · Bárbara Rodrigues — <i>Combined Scenario Reduction...</i></li>
-<li class="mt-2"><b>14:50 – 15:20</b> · ☕ Coffee Break</li>
-<li class="mt-2 font-medium">Plenary</li>
-<li><b>15:20 – 16:20</b> · Martin Schmidt — <i>A Gentle and Incomplete Introduction to Bilevel Optimization</i></li>
-<li><b>16:20 – 16:30</b> · Short Break</li>
-<li class="mt-2 font-medium">Session: Location</li>
-<li><b>16:30 – 16:50</b> · Isabel Wiemer — <i>Enhancing Fairness in Emergency Medical Service...</i></li>
-<li><b>16:50 – 17:10</b> · Felix Rauh — <i>Dynamic Programming and Block-Cut Tree Decompositions...</i></li>
-<li><b>17:10 – 17:30</b> · Ricardo Gázquez — <i>Incorporation of Regional Preferences in Facility Location...</i></li>
-<li class="mt-2 font-medium">Session: Routing</li>
-<li><b>17:30 – 17:50</b> · Chiara Maragò — <i>Optimizing Cruise Ship Itineraries...</i></li>
-<li><b>17:50 – 18:10</b> · Vid Tomljenovic — <i>Solving a Multi-Depot Multi-Vehicle Inventory Routing Problem...</i></li>
-<li><b>18:10 – 18:30</b> · Valentina Bonomi — <i>Dynamic management of requests in a Multi-Period Home Healthcare Problem...</i></li>
-</ul>
+          <!-- Collapsible session -->
+          <div class="border rounded-lg p-2">
+            <button onclick="toggleSection('uncertain')" class="w-full flex justify-between font-semibold">
+              Session: Uncertain Optimization
+              <span id="arrow-uncertain">▼</span>
+            </button>
+            <div id="uncertain" class="mt-2 pl-4 space-y-1">
+              <p>13:10 – 13:30 Federica Donnini “On K-adaptability for two-stage stochastic programs”</p>
+              <p>13:30 – 13:50 Hossein Babazadeh “Power Swaps: A Coordination Mechanism for Operation of Jointly Owned Hydropower Reservoirs”</p>
+              <p>13:50 – 14:10 Simon Stevens “A Branch-and-Cut Approach for Decision-Dependent Robust Optimization Problems”</p>
+              <p>14:10 – 14:30 Xuan Truong Dinh “Enhancing Multi-Period, Multi-Commodity, Multi-Modal Network Flow Optimization in the Mekong Delta”</p>
+              <p>14:30 – 14:50 Bárbara Rodrigues “Combined Scenario Reduction and Discretization for Time Serie Data”</p>
+            </div>
+          </div>
+
+          <p>14:50 – 15:20: ☕ Coffee Break</p>
+          <p><strong>15:20 – 16:20: Plenary: Martin Schmidt “A Gentle and Incomplete Introduction to Bilevel Optimization”</strong></p>
+          <p>16:20 – 16:30: Short Break</p>
+
+          <!-- Another session -->
+          <div class="border rounded-lg p-2">
+            <button onclick="toggleSection('location')" class="w-full flex justify-between font-semibold">
+              Session: Location
+              <span id="arrow-location">▼</span>
+            </button>
+            <div id="location" class="mt-2 pl-4 space-y-1">
+              <p>16:30 – 16:50 Isabel Wiemer “Enhancing Fairness in Emergency Medical Service: Single- and Bi-Objective Model Formulations”</p>
+              <p>16:50 – 17:10 Felix Rauh “Dynamic Programming and Block-Cut Tree Decompositions for a Maximum Covering Location-Network Design Problem”</p>
+              <p>17:10 – 17:30 Ricardo Gázquez “Incorporation of Regional Preferences in Facility Location: Insights into Efficiency and Satisfaction Trade-offs”</p>
+            </div>
+          </div>
+
+          <div class="border rounded-lg p-2">
+            <button onclick="toggleSection('routing')" class="w-full flex justify-between font-semibold">
+              Session: Routing
+              <span id="arrow-routing">▼</span>
+            </button>
+            <div id="routing" class="mt-2 pl-4 space-y-1">
+              <p>17:30 – 17:50 Chiara Maragò “Optimizing Cruise Ship Itineraries: A Sustainable Perspective”</p>
+              <p>17:50 – 18:10 Vid Tomljenovic “Solving a Multi-Depot Multi-Vehicle Inventory Routing Problem using Column Generation and Branch-and-Price”</p>
+              <p>18:10 – 18:30 Valentina Bonomi “Dynamic management of requests in a Multi-Period Home Healthcare Problem with Uncertainty and Consistency Constraints”</p>
+            </div>
+          </div>
+
+        </div>
+      </div>
+
+      <!-- Repeat the same structure for Thursday and Friday -->
+      <!-- Use ☕ Coffee Break, 🍴 Lunch Break, <strong>Plenary...</strong>, and <strong>Panel Session...</strong> -->
+
+    </div>
+  </div>
+
+  <script>
+    function toggleSection(id) {
+      const section = document.getElementById(id);
+      const arrow = document.getElementById("arrow-" + id);
+      if (section.style.display === "none") {
+        section.style.display = "block";
+        arrow.textContent = "▼";
+      } else {
+        section.style.display = "none";
+        arrow.textContent = "▲";
+      }
+    }
+
+    // Initialize all inner sessions collapsed
+    document.addEventListener("DOMContentLoaded", () => {
+      document.querySelectorAll("[id^='arrow-']").forEach(arrow => {
+        const id = arrow.id.replace("arrow-", "");
+        if (id !== "day1") {
+          document.getElementById(id).style.display = "none";
+          arrow.textContent = "▲";
+        }
+      });
+    });
+  </script>
+</body>
+</html>
+
 </div>
-
-
-<!-- Thursday -->
-<div class="bg-white rounded-2xl shadow p-6">
-<h2 class="text-2xl font-semibold mb-4">Thursday, October 16</h2>
-<ul class="space-y-2">
-<li class="font-medium">Session: Machine Learning I</li>
-<li><b>08:30 – 08:50</b> · Daan Otto — <i>Coherent Local Explanations...</i></li>
-<li><b>08:50 – 09:10</b> · Marica Magagnini — <i>Multiple Disperse (generalized) Linear Models</i></li>
-<li><b>09:10 – 09:30</b> · Sebastian Merten — <i>Interpretable Surrogates for Optimization</i></li>
-<li class="font-medium mt-2">Session: Machine Learning II</li>
-<li><b>09:30 – 09:50</b> · Lorenzo Saccucci — <i>The Potential of Large Language Models...</i></li>
-<li><b>09:50 – 10:10</b> · Ilaria Ciocci — <i>Margin Optimal Regression Trees</i></li>
-<li><b>10:10 – 10:30</b> · Paula Segura Martínez — <i>New mathematical optimization models...</i></li>
-<li><b>10:30 – 11:00</b> · ☕ Coffee Break</li>
-<li class="font-medium mt-2">Plenary</li>
-<li><b>11:00 – 12:00</b> · Maria Grazia Speranza — <i>Optimization in transportation and logistics</i></li>
-<li><b>12:00 – 12:10</b> · Short Break</li>
-<li class="font-medium mt-2">Session: Bilevel Optimization</li>
-<li><b>12:10 – 12:30</b> · Alberto Torrejon — <i>The Measure of Everything...</i></li>
-<li><b>12:30 – 12:50</b> · Riccardo Tomassini — <i>Equilibrium selection in oligopolistic market</i></li>
-<li><b>12:50 – 13:10</b> · Martina Gherardi — <i>A bilevel revenue adequate generation expansion problem...</i></li>
-<li><b>13:10 – 13:30</b> · Francisco Temprano García — <i>A fresh view on the Security Games Problem</i></li>
-<li><b>13:30 – 14:30</b> · 🍴 Lunch Break</li>
-<li class="font-medium mt-2">Plenary</li>
-<li><b>14:30 – 15:30</b> · Dolores Romero Morales — <i>Local Explainability in Machine Learning...</i></li>
-</ul>
-</div>
-
-
-<!-- Friday -->
-<div class="bg-white rounded-2xl shadow p-6">
-<h2 class="text-2xl font-semibold mb-4">Friday, October 17</h2>
-<ul class="space-y-2">
-<li class="font-medium">Session: Advanced Optimization Techniques</li>
-<li><b>08:30 – 08:50</b> · Farzaneh Safari — <i>Inverse Cauchy problem...</i></li>
-<li><b>08:50 – 09:10</b> · Ties Schalij — <i>Structure-Aware Heuristic Improvement...</i></li>
-<li><b>09:10 – 09:30</b> · Nandan Kumar Singh — <i>Optimal Investment in Resiliency...</i></li>
-<li class="font-medium mt-2">Session: Industrial Applications 1</li>
-<li><b>09:30 – 09:50</b> · Çiya Aydoğan — <i>Tail Assignment Problem...</i></li>
-<li><b>09:50 – 10:10</b> · Sayeh Fooladi Mahani — <i>Optimizing electric carsharing systems...</i></li>
-<li><b>10:10 – 10:30</b> · Christian Truden — <i>Service Network Design with Fleet...</i></li>
-<li><b>10:30 – 11:00</b> · ☕ Coffee Break</li>
-<li class="font-medium mt-2">Plenary</li>
-<li><b>11:00 – 12:00</b> · Maurizio Boccia — <i>Exact and ML-guided Matheuristic approaches...</i></li>
-<li><b>12:00 – 12:10</b> · Short Break</li>
-<li class="font-medium mt-2">Session: Game Theory and Combinatorial Optimization</li>
-<li><b>12:10 – 12:30</b> · Alejandro Bernárdez Ferradás — <i>Dirichlet Values for Balanced Games</i></li>
-<li><b>12:30 – 12:50</b> · Mariagrazia Cairo — <i>Bi-Objective Minimum Spanning Tree Problem...</i></li>
-<li><b>12:50 – 13:10</b> · Alberto Boggio Tomasaz — <i>On the Construction of Resilient Samples...</i></li>
-<li><b>13:10 – 13:30</b> · Carmine Sorgente — <i>Branch-and-cut algorithms for colorful components problems</i></li>
-<li><b>13:30 – 14:30</b> · 🍴 Lunch Break</li>
-<li class="font-medium mt-2">Panel Session</li>
-<li><b>14:30 – 15:30</b> · Challenges and Decisions that Shape Academic Careers</li>
-<li class="font-medium mt-2">Session: Industrial Applications 2</li>
-<li><b>15:30 – 15:50</b> · Victoria Crotti — <i>Multiprotexion</i></li>
-<li><b>15:50 – 16:10</b> · Paula Terán Viadero — <i>Exact and Heuristic Approaches for the 2D Cutting Stock Problem...</i></li>
-<li><b>16:10 – 16:30</b> · Matteo Cosmi — <i>The profitability-sustainability trade-off...</i></li>
-<li><b>16:30 – 17:00</b> · ☕ Coffee Break</li>
-<li class="font-medium mt-2">Session: Scheduling Problems</li>
 
 ## Social Programme
 To be added soon.
