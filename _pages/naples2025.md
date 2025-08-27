@@ -203,6 +203,33 @@ To be added soon.
 
 ## Scientific Programme
 
+<style>
+.schedule {
+  display: grid;
+  grid-template-columns: 140px 1fr;
+  gap: 0.5rem 1rem;
+  margin-bottom: 2rem;
+}
+.schedule h3 {
+  grid-column: 1 / -1;
+  margin-top: 1.5rem;
+  font-size: 1.2rem;
+  color: #004080;
+  border-bottom: 1px solid #ccc;
+  padding-bottom: 0.25rem;
+}
+.slot {
+  display: contents;
+}
+.time {
+  font-weight: bold;
+  color: #333;
+}
+.event {
+  color: #222;
+}
+</style>
+
 ## Wednesday, October 15th
 
 <div class="schedule">
