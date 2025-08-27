@@ -247,7 +247,7 @@ To be added soon.
 <div class="slot"><span class="time">14:50 – 15:20</span><span class="event">Coffee Break  ☕  </span></div>
 
 <h3>Plenary (15:20 – 16:20)  ⭐ 📢 </h3>
-<div class="slot"><span class="time">15:20 – 16:20</span><span class="event">__Martin Schmidt__ — <em>A Gentle and Incomplete Introduction to Bilevel Optimization</em></span></div>
+<div class="slot"><span class="time">15:20 – 16:20</span><span class="event"> Martin Schmidt — <em>A Gentle and Incomplete Introduction to Bilevel Optimization</em></span></div>
 
 <div class="slot"><span class="time">16:20 – 16:30</span><span class="event">Short Break ⌛</span></div>
 
