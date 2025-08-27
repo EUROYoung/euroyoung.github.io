@@ -246,7 +246,7 @@ To be added soon.
 
 <div class="slot"><span class="time">14:50 – 15:20</span><span class="event">Coffee Break</span></div>
 
-<h3>Plenary (15:20 – 16:20)  :star: </h3>
+<h3>Plenary (15:20 – 16:20)  :star: :loudspeaker: </h3>
 <div class="slot"><span class="time">15:20 – 16:20</span><span class="event">Martin Schmidt — <em>A Gentle and Incomplete Introduction to Bilevel Optimization</em></span></div>
 
 <div class="slot"><span class="time">16:20 – 16:30</span><span class="event">Short Break</span></div>
@@ -281,7 +281,7 @@ To be added soon.
 
 <div class="slot"><span class="time">10:30 – 11:00</span><span class="event">Coffee Break</span></div>
 
-<h3>Plenary (11:00 – 12:00)</h3>
+<h3>Plenary (11:00 – 12:00)  :star: :loudspeaker:  </h3>
 <div class="slot"><span class="time">11:00 – 12:00</span><span class="event">Maria Grazia Speranza — <em>Optimization in transportation and logistics</em></span></div>
 
 <div class="slot"><span class="time">12:00 – 12:10</span><span class="event">Short Break</span></div>
@@ -294,7 +294,7 @@ To be added soon.
 
 <div class="slot"><span class="time">13:30 – 14:30</span><span class="event">Lunch Break</span></div>
 
-<h3>Plenary (14:30 – 15:30)</h3>
+<h3>Plenary (14:30 – 15:30)  :star: :loudspeaker:  </h3>
 <div class="slot"><span class="time">14:30 – 15:30</span><span class="event">Dolores Romero Morales — <em>Local Explainability in Machine Learning: A collective framework</em></span></div>
 
 </div>
@@ -317,7 +317,7 @@ To be added soon.
 
 <div class="slot"><span class="time">10:30 – 11:00</span><span class="event">Coffee Break</span></div>
 
-<h3>Plenary (11:00 – 12:00)</h3>
+<h3>Plenary (11:00 – 12:00)  :star: :loudspeaker:  </h3>
 <div class="slot"><span class="time">11:00 – 12:00</span><span class="event">Maurizio Boccia — <em>Exact and ML-guided Matheuristic approaches for a Truck-and-Drone delivery problem</em></span></div>
 
 <div class="slot"><span class="time">12:00 – 12:10</span><span class="event">Short Break</span></div>
