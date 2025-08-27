@@ -199,9 +199,6 @@ Eduardo Pipicelli (<em>University of Naples Federico II, Italy</em>)<br>
 Carmine Sorgente (<em>University of Salerno, Italy</em>)
 
 <h1 id="programme">Programme</h1>
-To be added soon.
-
-## Scientific Programme
 
 <style>
 .schedule {
@@ -348,9 +345,6 @@ To be added soon.
 <div class="slot"><span class="time">18:20 – 18:40</span><span class="event">Closing</span></div>
 
 </div>
-
-## Social Programme
-To be added soon.
 
 
 <h1 id="abstracts">Abstracts (CLOSED!)</h1>
