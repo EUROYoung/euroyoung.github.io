@@ -203,6 +203,31 @@ To be added soon.
 
 ## Scientific Programme
 
+## Wednesday, October 15th
+
+<div class="schedule">
+  <div class="slot">
+    <span class="time">12:20 – 12:40</span>
+    <span class="event">Registration</span>
+  </div>
+  <div class="slot">
+    <span class="time">12:40 – 13:10</span>
+    <span class="event">Opening</span>
+  </div>
+
+  <h3>Session: Uncertain Optimization (13:10 – 14:50)</h3>
+  <div class="slot">
+    <span class="time">13:10 – 13:30</span>
+    <span class="event">Federica Donnini — <em>On K-adaptability for two-stage stochastic programs</em></span>
+  </div>
+  <div class="slot">
+    <span class="time">13:30 – 13:50</span>
+    <span class="event">Hossein Babazadeh — <em>Power Swaps: A Coordination Mechanism for Operation of Jointly Owned Hydropower Reservoirs</em></span>
+  </div>
+  <!-- continue like this for all talks -->
+</div>
+
+---
 
 ## Social Programme
 To be added soon.
