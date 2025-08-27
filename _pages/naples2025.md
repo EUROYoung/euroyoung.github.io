@@ -230,7 +230,7 @@ To be added soon.
 }
 </style>
 
-## Wednesday, October 15th
+## Wednesday, October 15th 📆
 
 <div class="schedule">
 
@@ -265,7 +265,7 @@ To be added soon.
 
 ---
 
-## Thursday, October 16th
+## Thursday, October 16th 📆
 
 <div class="schedule">
 
@@ -301,7 +301,7 @@ To be added soon.
 
 ---
 
-## Friday, October 17th
+## Friday, October 17th 📆
 
 <div class="schedule">
 
