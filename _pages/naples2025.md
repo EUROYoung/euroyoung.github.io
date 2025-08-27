@@ -249,7 +249,7 @@ To be added soon.
 <h3>Plenary (15:20 – 16:20)  ⭐ 📢 </h3>
 <div class="slot"><span class="time">15:20 – 16:20</span><span class="event">Martin Schmidt — <em>A Gentle and Incomplete Introduction to Bilevel Optimization</em></span></div>
 
-<div class="slot"><span class="time">16:20 – 16:30</span><span class="event">Short Break</span></div>
+<div class="slot"><span class="time">16:20 – 16:30</span><span class="event">Short Break ⌛</span></div>
 
 <h3>Session: Location (16:30 – 17:30)</h3>
 <div class="slot"><span class="time">16:30 – 16:50</span><span class="event">Isabel Wiemer — <em>Enhancing Fairness in Emergency Medical Service: Single- and Bi-Objective Model Formulations</em></span></div>
@@ -284,7 +284,7 @@ To be added soon.
 <h3>Plenary (11:00 – 12:00)  ⭐ 📢  </h3>
 <div class="slot"><span class="time">11:00 – 12:00</span><span class="event">Maria Grazia Speranza — <em>Optimization in transportation and logistics</em></span></div>
 
-<div class="slot"><span class="time">12:00 – 12:10</span><span class="event">Short Break</span></div>
+<div class="slot"><span class="time">12:00 – 12:10</span><span class="event">Short Break ⌛</span></div>
 
 <h3>Session: Bilevel Optimization (12:10 – 13:30)</h3>
 <div class="slot"><span class="time">12:10 – 12:30</span><span class="event">Alberto Torrejon — <em>The Measure of Everything, a flexible modeling framework for combinatorial problems</em></span></div>
@@ -320,7 +320,7 @@ To be added soon.
 <h3>Plenary (11:00 – 12:00)  ⭐ 📢  </h3>
 <div class="slot"><span class="time">11:00 – 12:00</span><span class="event">Maurizio Boccia — <em>Exact and ML-guided Matheuristic approaches for a Truck-and-Drone delivery problem</em></span></div>
 
-<div class="slot"><span class="time">12:00 – 12:10</span><span class="event">Short Break</span></div>
+<div class="slot"><span class="time">12:00 – 12:10</span><span class="event">Short Break ⌛</span></div>
 
 <h3>Session: Game Theory and Combinatorial Optimization (12:10 – 13:30)</h3>
 <div class="slot"><span class="time">12:10 – 12:30</span><span class="event">Alejandro Bernárdez Ferradás — <em>Dirichlet Values for Balanced Games</em></span></div>
