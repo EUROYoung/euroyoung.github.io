@@ -241,7 +241,7 @@ Carmine Sorgente (<em>University of Salerno, Italy</em>)
 <div class="slot"><span class="time">14:10 – 14:30</span><span class="event">Xuan Truong Dinh — <em>Enhancing Multi-Period, Multi-Commodity, Multi-Modal Network Flow Optimization in the Mekong Delta</em></span></div>
 <div class="slot"><span class="time">14:30 – 14:50</span><span class="event">Bárbara Rodrigues — <em>Combined Scenario Reduction and Discretization for Time Series Data</em></span></div>
 
-<div class="slot"><span class="time">14:50 – 15:20</span><span class="event">Coffee Break  ☕  </span></div>
+<h3>Coffee Break  ☕  (14:50 – 15:20) ☕  </h3>
 
 <h3>Plenary (15:20 – 16:20)  ⭐ 📢 </h3>
 <div class="slot"><span class="time">15:20 – 16:20</span><span class="event"> Martin Schmidt — <em>A Gentle and Incomplete Introduction to Bilevel Optimization</em></span></div>
@@ -276,7 +276,9 @@ Carmine Sorgente (<em>University of Salerno, Italy</em>)
 <div class="slot"><span class="time">09:50 – 10:10</span><span class="event">Ilaria Ciocci — <em>Margin Optimal Regression Trees</em></span></div>
 <div class="slot"><span class="time">10:10 – 10:30</span><span class="event">Paula Segura Martínez — <em>New mathematical optimization models for clusters interpretability</em></span></div>
 
-<div class="slot"><span class="time">10:30 – 11:00</span><span class="event">Coffee Break  ☕  </span></div>
+
+<h3>Coffee Break  ☕  (10:30 – 11:00) ☕  </h3>
+
 
 <h3>Plenary (11:00 – 12:00)  ⭐ 📢  </h3>
 <div class="slot"><span class="time">11:00 – 12:00</span><span class="event">Maria Grazia Speranza — <em>Optimization in transportation and logistics</em></span></div>
@@ -289,7 +291,7 @@ Carmine Sorgente (<em>University of Salerno, Italy</em>)
 <div class="slot"><span class="time">12:50 – 13:10</span><span class="event">Martina Gherardi — <em>A bilevel revenue adequate generation expansion problem with hybrid complementarity condition</em></span></div>
 <div class="slot"><span class="time">13:10 – 13:30</span><span class="event">Francisco Temprano García — <em>A fresh view on the Security Games Problem</em></span></div>
 
-<h3>Lunch Break  🍕🍝  (13:30 – 14:30)  ⭐ 📢  </h3>
+<h3>Lunch Break  🍕🍝  (13:30 – 14:30)   </h3>
 
 
 <h3>Plenary (14:30 – 15:30)  ⭐ 📢  </h3>
@@ -313,7 +315,8 @@ Carmine Sorgente (<em>University of Salerno, Italy</em>)
 <div class="slot"><span class="time">09:50 – 10:10</span><span class="event">Sayeh Fooladi Mahani — <em>Optimizing electric carsharing systems for sustainable mobility and grid load management</em></span></div>
 <div class="slot"><span class="time">10:10 – 10:30</span><span class="event">Christian Truden — <em>Service Network Design with Fleet and Emissions Management at Scale</em></span></div>
 
-<div class="slot"><span class="time">10:30 – 11:00</span><span class="event">Coffee Break  ☕  </span></div>
+
+<h3>Coffee Break  ☕  (10:30 – 11:00) ☕  </h3>
 
 <h3>Plenary (11:00 – 12:00)  ⭐ 📢  </h3>
 <div class="slot"><span class="time">11:00 – 12:00</span><span class="event">Maurizio Boccia — <em>Exact and ML-guided Matheuristic approaches for a Truck-and-Drone delivery problem</em></span></div>
@@ -326,7 +329,8 @@ Carmine Sorgente (<em>University of Salerno, Italy</em>)
 <div class="slot"><span class="time">12:50 – 13:10</span><span class="event">Alberto Boggio Tomasaz — <em>On the Construction of Resilient Samples for Binary Interdiction</em></span></div>
 <div class="slot"><span class="time">13:10 – 13:30</span><span class="event">Carmine Sorgente — <em>Branch-and-cut algorithms for colorful components problems</em></span></div>
 
-<div class="slot"><span class="time">13:30 – 14:30</span><span class="event">Lunch Break  🍕🍝  </span></div>
+<h3>Lunch Break  🍕🍝  (13:30 – 14:30)   </h3>
+
 
 <h3>Panel Session (14:30 – 15:30)</h3>
 <div class="slot"><span class="time">14:30 – 15:30</span><span class="event">Challenges and Decisions that Shape Academic Careers in Operational Research</span></div>
@@ -336,7 +340,7 @@ Carmine Sorgente (<em>University of Salerno, Italy</em>)
 <div class="slot"><span class="time">15:50 – 16:10</span><span class="event">Paula Terán Viadero — <em>Exact and Heuristic Approaches for the 2D Cutting Stock Problem with variable-sized stock</em></span></div>
 <div class="slot"><span class="time">16:10 – 16:30</span><span class="event">Matteo Cosmi — <em>The profitability-sustainability trade-off in complex chemical value chains under product-specific carbon footprint constraints</em></span></div>
 
-<div class="slot"><span class="time">16:30 – 17:00</span><span class="event">Coffee Break  ☕  </span></div>
+<h3>Coffee Break  ☕  (16:30 – 17:00) ☕  </h3>
 
 <h3>Session: Scheduling Problems (17:00 – 18:40)</h3>
 <div class="slot"><span class="time">17:00 – 17:20</span><span class="event">Alex Barrales-Araneda — <em>A Heuristic Algorithm for Sequential Timetabling and Electric Vehicle Scheduling in Public Transport</em></span></div>
