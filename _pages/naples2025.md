@@ -367,16 +367,53 @@ You can take a look of the surroundings of the _Dipartimento di Ingegneria Elett
 
 ## How to get to Naples
 
-Arriving in Naples from other European countries is quite convenient, thanks to its well-connected transportation network. 
-The best way to get there is clearly by air ✈️ to Naples International Airport (NAP).
+# Getting to Naples and the University
 
-Naples International Airport (Aeroporto di Napoli-Capodichino, NAP) is the main airport serving the city.
-It has direct flights from major European cities, including London, Paris, Madrid, Berlin, Amsterdam, Zurich, Vienna, and Barcelona.
-Budget airlines like Ryanair, easyJet, and Wizz Air offer affordable flights.
-From the airport, you can reach the city center in 15-20 minutes via:
-Alibus shuttle (€5) to Naples Central Station and the port.
-Taxi (fixed fare of around €25).
-Notice that __rideshare apps like Uber are not legal in Italy__!
+Arriving in Naples from other European countries is quite convenient, thanks to its well-connected transportation network. The best way to get there is clearly by air ✈️ to Naples International Airport (NAP).
+
+**Naples International Airport (Aeroporto di Napoli-Capodichino, NAP)** is the main airport serving the city. It has direct flights from major European cities, including London, Paris, Madrid, Berlin, Amsterdam, Zurich, Vienna, and Barcelona. Budget airlines like Ryanair, easyJet, and Wizz Air offer affordable flights. From the airport, you can reach the city center in 15-20 minutes via:
+
+- **Alibus shuttle (€5):** a direct shuttle bus to Naples Central Station (Piazza Garibaldi) and the port.  
+- **Taxi:** a taxi from the airport to the city center has a fixed fare of around €25. Note that rideshare apps like Uber are not legal in Italy!
+
+---
+
+## How to Reach the University (Piazzale Tecchio 80)
+
+**From Naples International Airport (NAP):**  
+- **By Bus and Metro:** Take the Alibus shuttle to Naples Central Station (Piazza Garibaldi). From there, take Metro Line 2 towards Pozzuoli and get off at the *Campi Flegrei* stop. The university is a 5-minute walk from the station. The total travel time is approximately 40–60 minutes, depending on traffic and connections.  
+- **By Taxi:** A taxi from the airport to Piazzale Tecchio will cost approximately €30–€40 and the ride will take about 20–30 minutes, depending on traffic.  
+
+**From Naples Central Station (Piazza Garibaldi):**  
+- **By Metro:** The most convenient way is to take Metro Line 2 towards Pozzuoli and alight at the *Campi Flegrei* stop. The journey takes about 15–20 minutes. From the station, the university is a short walk of around 5 minutes.  
+
+---
+
+## Getting to Your Hotel
+
+**Hotel Nuvò** is located at *Via Nuova Agnano, 5, 80125 Napoli NA.*  
+
+**From Naples International Airport (NAP):**  
+- **By Bus and Metro:** Take the Alibus shuttle to Naples Central Station. From there, take Metro Line 2 towards Pozzuoli and get off at the *Bagnoli-Agnano Terme* stop. From the station, it's about a 15-minute walk to the hotel. Total travel time is around 60–75 minutes.  
+- **By Taxi:** A taxi ride from the airport to the hotel will take about 25–35 minutes and cost approximately €30–€40.  
+
+**From Naples Central Station (Piazza Garibaldi):**  
+- **By Metro:** Take Metro Line 2 towards Pozzuoli and get off at the *Bagnoli-Agnano Terme* stop. The journey takes about 20 minutes. The hotel is a 15-minute walk from the station.  
+
+---
+
+## How to Get from Your Hotel to the University
+
+Your hotel, **Hotel Nuvò**, is located at *Via Nuova Agnano, 5*, which is relatively close to the university campus at *Piazzale Tecchio 80*.  
+
+- **On Foot:** Walking is a viable option. The walk is approximately 2 kilometers and will take around 25 minutes. It's a straightforward route that provides a nice walk through the local area.  
+- **By Public Transport:** The fastest way to reach the university is by using the local **Cumana train line**. The journey is quick.  
+  - Walk to the **Agnano Cumana station** (approximately 2 minutes).  
+  - Take the Cumana train for two stops, getting off at the **Mostra–Stadio Maradona** station. The ride itself is only a few minutes.  
+  - From the station, the university is just a short 2–3 minute walk away.  
+
+The entire trip, including walking, takes approximately **10 minutes**.
+
 
 
 {% include gallery id="gallery3" caption="Monuments (castles, cathedral)" %}
