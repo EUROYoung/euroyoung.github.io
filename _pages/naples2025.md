@@ -289,7 +289,8 @@ Carmine Sorgente (<em>University of Salerno, Italy</em>)
 <div class="slot"><span class="time">12:50 – 13:10</span><span class="event">Martina Gherardi — <em>A bilevel revenue adequate generation expansion problem with hybrid complementarity condition</em></span></div>
 <div class="slot"><span class="time">13:10 – 13:30</span><span class="event">Francisco Temprano García — <em>A fresh view on the Security Games Problem</em></span></div>
 
-<div class="slot"><span class="time">13:30 – 14:30</span><span class="event">Lunch Break  🍕🍝 </span></div>
+<h3>Lunch Break  🍕🍝  (13:30 – 14:30)  ⭐ 📢  </h3>
+
 
 <h3>Plenary (14:30 – 15:30)  ⭐ 📢  </h3>
 <div class="slot"><span class="time">14:30 – 15:30</span><span class="event">Dolores Romero Morales — <em>Local Explainability in Machine Learning: A collective framework</em></span></div>
