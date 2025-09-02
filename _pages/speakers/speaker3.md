@@ -78,14 +78,13 @@ scientific interest in computational bilevel optimization increased a
 lot over the last decade and is still growing - in particular due to
 many applications.
 
-In this tutorial, we discuss the most important aspects that render
+  <p>In this tutorial, we discuss the most important aspects that render
 bilevel problems more challenging than single-level optimization
 problems and present the basic structural theory for linear bilevel
 models as well as the basic techniques for solving them.
 After these basics, we will also discuss some exemplary recent
 contribution in the field.</p>
-
-  <p>.......</p>
+</p>
 
   <hr>
 
