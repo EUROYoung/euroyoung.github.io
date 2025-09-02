@@ -66,11 +66,11 @@ Grazia’s research is in the area of mixed integer programming and combinatoria
 
 Grazia is cited in the <em>“World’s 2% Top Scientists” ranking</em>. She is also recognized as one of the <em>Top 100 Italian Women in STEM</em>. She was awarded with the <em>Laurea honoris causa</em> by the University of Freiburg, Switzerland. She is a member of the <em>Academy of Sciences</em> of the University of Bologna and was awarded as an Italian Knowledge Leader by the Convention Bureau Italia. In 2024 she received the <em>EURO Gold medal</em> and was nominated <em>INFORMS Fellow</em>. 
 
-<p><strong>Talk Title</strong>: <em>"To be added"</em></p>
+<p><strong>Talk Title</strong>: <em>"Optimization in transportation and logistics"</em></p>
 
-  <p>To be added..</p>
+  <p>Technological advancements over the past few decades have significantly transformed the way people travel and how goods are transported. Today, a systemic approach to problem-solving and the use of advanced analytical methods are more essential than ever.</p>
 
-  <p>.......</p>
+  <p>In this talk, we will explore key trends in the application of optimization models and algorithms within transportation and logistics, along with some recent developments in the field.</p>
 
   <hr>
 
