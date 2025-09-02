@@ -66,9 +66,24 @@ Martin currently serves on the editorial board of <em>Optimization Letters</em> 
 
 Among his recent achievements, Martin (together with his co-authors) was awarded the <em>Optimization Letters Best Paper Award</em>, the <em>Marguerite Frank Award</em> for the best <em>EURO Journal on Computational Optimization</em> paper, and the <em>Mathematical Methods of Operations Research Best Paper Award</em>, all in 2021.
 
-  <p><strong>Talk Title</strong>: <em>"To be added"</em></p>
+  <p><strong>Talk Title</strong>: <em>"A Gentle and Incomplete Introduction to Bilevel Optimization"</em></p>
 
-  <p>To be added..</p>
+  <p>Bilevel optimization is a field of mathematical programming in which
+some variables are constrained to be the solution of another
+optimization problem. As a consequence, bilevel optimization is able
+to model hierarchical decision making processes. This is appealing for
+modeling real-world problems, but it also makes the resulting
+optimization models hard to solve in theory and practice. The
+scientific interest in computational bilevel optimization increased a
+lot over the last decade and is still growing - in particular due to
+many applications.
+
+In this tutorial, we discuss the most important aspects that render
+bilevel problems more challenging than single-level optimization
+problems and present the basic structural theory for linear bilevel
+models as well as the basic techniques for solving them.
+After these basics, we will also discuss some exemplary recent
+contribution in the field.</p>
 
   <p>.......</p>
 
