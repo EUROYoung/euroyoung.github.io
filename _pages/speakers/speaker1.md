@@ -65,11 +65,12 @@ Maurizio Boccia is a full professor of Operations Research at the University of 
 He is a member of the Board of Professors of the Ph.D. program in Information Technology and Electrical Engineering (ITEE) at the University of Naples Federico II. He has been the scientific coordinator of multiple European, national, and regional research units, as well as numerous collaborations with private companies such as OptRail S.r.l., NGI SpA, ITALTEL SpA, Elasis SpA, and ITALDATA SpA.
 
   
-  <p><strong>Talk Title</strong>: <em>"To be added"</em></p>
+  <p><strong>Talk Title</strong>: <em>"Exact and ML-guided Matheuristic approaches for a Truck-and-Drone delivery problem"</em></p>
 
-  <p>To be added..</p>
+  <p>The growth of e-commerce has increased the demand for fast deliveries, encouraging the use of drones in logistics. Despite benefits such as speed and lower costs, drones have limited range and capacity. To address this, hybrid truck-and-drone systems have been proposed, in which the truck also acts as a drone base. In particular, the Flying Sidekick Traveling Salesman Problem (FS-TSP) is a foundational model aimed at minimizing delivery time through coordinated use of both vehicles.
+</p>
 
-  <p>.......</p>
+  <p>In this talk, we will explore different formulations proposed in literature for this problem and present a comparison between branch-and-cut and branch-and-price approaches to solve the FS-TSP. Finally, we investigate the development of novel matheuristic approaches that, for each instance, address a reduced-complexity version of the original problem, obtained through the application of data science and machine learning methods.</p>
 
   <hr>
 
