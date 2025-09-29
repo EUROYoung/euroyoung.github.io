@@ -247,15 +247,17 @@ Carmine Sorgente (<em>University of Salerno, Italy</em>)
 
 <div class="slot"><span class="time">16:20 – 16:30</span><span class="event">Short Break ⌛</span></div>
 
-<h3>Session: Location (16:30 – 17:30)</h3>
+<h3>Session: Location (16:30 – 17:50)</h3>
 <div class="slot"><span class="time">16:30 – 16:50</span><span class="event">Isabel Wiemer — <em>Enhancing Fairness in Emergency Medical Service: Single- and Bi-Objective Model Formulations</em></span></div>
 <div class="slot"><span class="time">16:50 – 17:10</span><span class="event">Felix Rauh — <em>Dynamic Programming and Block-Cut Tree Decompositions for a Maximum Covering Location-Network Design Problem</em></span></div>
 <div class="slot"><span class="time">17:10 – 17:30</span><span class="event">Ricardo Gázquez — <em>Incorporation of Regional Preferences in Facility Location: Insights into Efficiency and Satisfaction Trade-offs</em></span></div>
+<div class="slot"><span class="time">17:30 – 17:50</span><span class="event">Thomas Byrne — <em>Conditional Facility Location Problems with Continuous
+Demand and a Rapid Transit Line</em></span></div>
 
-<h3>Session: Routing (17:30 – 18:30)</h3>
-<div class="slot"><span class="time">17:30 – 17:50</span><span class="event">Julien Darlay (Hexaly) — <em>Computing dual bounds of set-based models using column elimination in Hexaly</em></span></div>
-<div class="slot"><span class="time">17:50 – 18:10</span><span class="event">Chiara Maragò — <em>Optimizing Cruise Ship Itineraries: A Sustainable Perspective</em></span></div>
-<div class="slot"><span class="time">18:10 – 18:30</span><span class="event">Vid Tomljenovic — <em>Solving a Multi-Depot Multi-Vehicle Inventory Routing Problem using Column Generation and Branch-and-Price</em></span></div>
+<h3>Session: Routing (17:50 – 18:50)</h3>
+<div class="slot"><span class="time">17:50 – 18:10</span><span class="event">Julien Darlay (Hexaly) — <em>Computing dual bounds of set-based models using column elimination in Hexaly</em></span></div>
+<div class="slot"><span class="time">18:10 – 18:30</span><span class="event">Chiara Maragò — <em>Optimizing Cruise Ship Itineraries: A Sustainable Perspective</em></span></div>
+<div class="slot"><span class="time">18:30 – 18:50</span><span class="event">Vid Tomljenovic — <em>Solving a Multi-Depot Multi-Vehicle Inventory Routing Problem using Column Generation and Branch-and-Price</em></span></div>
 
 
 
