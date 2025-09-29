@@ -192,7 +192,7 @@ Claudio Sterle (<em>University of Naples Federico II, Italy</em>)<br>
 Danilo Amitrano (<em>University of Naples Federico II, Italy</em>)<br>
 Marta Baldomero-Naranjo (<em>Universidad de Cádiz, Spain</em>), co-chair<br>
 Martina Doneda (<em>University of Bergamo, Italy</em>)<br>
-Mario Lepore (<em>University of Salerno, Italy</em>)<br>
+Gabriele Murano (<em>University of Salerno, Italy</em>)<br>
 Andrea Mancuso (<em>University of Naples Federico II, Italy</em>), co-chair<br>
 Adriano Masone (<em>University of Naples Federico II, Italy</em>)<br>
 Eduardo Pipicelli (<em>University of Naples Federico II, Italy</em>)<br>
@@ -239,7 +239,6 @@ Carmine Sorgente (<em>University of Salerno, Italy</em>)
 <div class="slot"><span class="time">13:30 – 13:50</span><span class="event">Hossein Babazadeh — <em>Power Swaps: A Coordination Mechanism for Operation of Jointly Owned Hydropower Reservoirs</em></span></div>
 <div class="slot"><span class="time">13:50 – 14:10</span><span class="event">Simon Stevens — <em>A Branch-and-Cut Approach for Decision-Dependent Robust Optimization Problems</em></span></div>
 <div class="slot"><span class="time">14:10 – 14:30</span><span class="event">Xuan Truong Dinh — <em>Enhancing Multi-Period, Multi-Commodity, Multi-Modal Network Flow Optimization in the Mekong Delta</em></span></div>
-<div class="slot"><span class="time">14:30 – 14:50</span><span class="event">Bárbara Rodrigues — <em>Combined Scenario Reduction and Discretization for Time Series Data</em></span></div>
 
 <h3>Coffee Break  ☕  (14:50 – 15:20) ☕  </h3>
 
@@ -254,9 +253,11 @@ Carmine Sorgente (<em>University of Salerno, Italy</em>)
 <div class="slot"><span class="time">17:10 – 17:30</span><span class="event">Ricardo Gázquez — <em>Incorporation of Regional Preferences in Facility Location: Insights into Efficiency and Satisfaction Trade-offs</em></span></div>
 
 <h3>Session: Routing (17:30 – 18:30)</h3>
-<div class="slot"><span class="time">17:30 – 17:50</span><span class="event">Chiara Maragò — <em>Optimizing Cruise Ship Itineraries: A Sustainable Perspective</em></span></div>
-<div class="slot"><span class="time">17:50 – 18:10</span><span class="event">Vid Tomljenovic — <em>Solving a Multi-Depot Multi-Vehicle Inventory Routing Problem using Column Generation and Branch-and-Price</em></span></div>
-<div class="slot"><span class="time">18:10 – 18:30</span><span class="event">Valentina Bonomi — <em>Dynamic management of requests in a Multi-Period Home Healthcare Problem with Uncertainty and Consistency Constraints</em></span></div>
+<div class="slot"><span class="time">17:30 – 17:50</span><span class="event">Julien Darlay (Hexaly) — <em>Computing dual bounds of set-based models using column elimination in Hexaly</em></span></div>
+<div class="slot"><span class="time">17:50 – 18:10</span><span class="event">Chiara Maragò — <em>Optimizing Cruise Ship Itineraries: A Sustainable Perspective</em></span></div>
+<div class="slot"><span class="time">18:10 – 18:30</span><span class="event">Vid Tomljenovic — <em>Solving a Multi-Depot Multi-Vehicle Inventory Routing Problem using Column Generation and Branch-and-Price</em></span></div>
+
+
 
 </div>
 
@@ -308,7 +309,8 @@ Carmine Sorgente (<em>University of Salerno, Italy</em>)
 <h3>Session: Advanced Optimization Techniques for Complex Systems (08:30 – 09:30)</h3>
 <div class="slot"><span class="time">08:30 – 08:50</span><span class="event">Farzaneh Safari — <em>Inverse Cauchy problem in the framework of an RBF-based meshless technique and trigonometric basis functions</em></span></div>
 <div class="slot"><span class="time">08:50 – 09:10</span><span class="event">Ties Schalij — <em>Structure-Aware Heuristic Improvement via Policy Iteration</em></span></div>
-<div class="slot"><span class="time">09:10 – 09:30</span><span class="event">Nandan Kumar Singh — <em>Optimal Investment in Resiliency in Presence of Spot Market Demand: A Generalized Distribution Approach</em></span></div>
+<div class="slot"><span class="time">09:10 – 09:30</span><span class="event">Bárbara Rodrigues — <em>Combined Scenario Reduction and Discretization for Time Series Data</em></span></div>
+
 
 <h3>Session: Industrial Applications I (09:30 – 10:30)</h3>
 <div class="slot"><span class="time">09:30 – 09:50</span><span class="event">Çiya Aydoğan — <em>Tail Assignment Problem with Hour-to-Cycle Ratio Constraints: A Branch and Price Algorithm</em></span></div>
@@ -339,6 +341,7 @@ Carmine Sorgente (<em>University of Salerno, Italy</em>)
 <div class="slot"><span class="time">15:30 – 15:50</span><span class="event">  Sayeh Fooladi Mahani — <em>Optimizing electric carsharing systems for sustainable mobility and grid load management</em></span></div>
 <div class="slot"><span class="time">15:50 – 16:10</span><span class="event">Paula Terán Viadero — <em>Exact and Heuristic Approaches for the 2D Cutting Stock Problem with variable-sized stock</em></span></div>
 <div class="slot"><span class="time">16:10 – 16:30</span><span class="event">Matteo Cosmi — <em>The profitability-sustainability trade-off in complex chemical value chains under product-specific carbon footprint constraints</em></span></div>
+<div class="slot"><span class="time">16:30 – 16:50</span><span class="event">Nandan Kumar Singh — <em>Optimal Investment in Resiliency in Presence of Spot Market Demand: A Generalized Distribution Approach</em></span></div>
 
 <h3>Coffee Break  ☕  (16:30 – 17:00) ☕  </h3>
 
