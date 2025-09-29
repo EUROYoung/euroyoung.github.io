@@ -316,7 +316,7 @@ Demand and a Rapid Transit Line</em></span></div>
 
 <h3>Session: Industrial Applications I (09:30 – 10:30)</h3>
 <div class="slot"><span class="time">09:30 – 09:50</span><span class="event">Çiya Aydoğan — <em>Tail Assignment Problem with Hour-to-Cycle Ratio Constraints: A Branch and Price Algorithm</em></span></div>
-<div class="slot"><span class="time">09:50 – 10:10</span><span class="event">Victoria Crotti — <em>Multiprotexion</em></span></div>
+<div class="slot"><span class="time">09:50 – 10:10</span><span class="event">Vittoria Crotti — <em>OR and ML techniques supporting security service companies</em></span></div>
 <div class="slot"><span class="time">10:10 – 10:30</span><span class="event">Christian Truden — <em>Service Network Design with Fleet and Emissions Management at Scale</em></span></div>
 
 
