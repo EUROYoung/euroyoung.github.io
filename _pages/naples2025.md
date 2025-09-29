@@ -240,24 +240,24 @@ Carmine Sorgente (<em>University of Salerno, Italy</em>)
 <div class="slot"><span class="time">13:50 – 14:10</span><span class="event">Simon Stevens — <em>A Branch-and-Cut Approach for Decision-Dependent Robust Optimization Problems</em></span></div>
 <div class="slot"><span class="time">14:10 – 14:30</span><span class="event">Xuan Truong Dinh — <em>Enhancing Multi-Period, Multi-Commodity, Multi-Modal Network Flow Optimization in the Mekong Delta</em></span></div>
 
-<h3>Coffee Break  ☕  (14:50 – 15:20) ☕  </h3>
+<h3>Coffee Break  ☕  (14:30 – 15:00) ☕  </h3>
 
-<h3>Plenary (15:20 – 16:20)  ⭐ 📢 </h3>
-<div class="slot"><span class="time">15:20 – 16:20</span><span class="event"> Martin Schmidt — <em>A Gentle and Incomplete Introduction to Bilevel Optimization</em></span></div>
+<h3>Plenary (15:00 – 16:00)  ⭐ 📢 </h3>
+<div class="slot"><span class="time">15:00 – 16:00</span><span class="event"> Martin Schmidt — <em>A Gentle and Incomplete Introduction to Bilevel Optimization</em></span></div>
 
-<div class="slot"><span class="time">16:20 – 16:30</span><span class="event">Short Break ⌛</span></div>
+<div class="slot"><span class="time">16:00 – 16:10</span><span class="event">Short Break ⌛</span></div>
 
-<h3>Session: Location (16:30 – 17:50)</h3>
-<div class="slot"><span class="time">16:30 – 16:50</span><span class="event">Isabel Wiemer — <em>Enhancing Fairness in Emergency Medical Service: Single- and Bi-Objective Model Formulations</em></span></div>
-<div class="slot"><span class="time">16:50 – 17:10</span><span class="event">Felix Rauh — <em>Dynamic Programming and Block-Cut Tree Decompositions for a Maximum Covering Location-Network Design Problem</em></span></div>
-<div class="slot"><span class="time">17:10 – 17:30</span><span class="event">Ricardo Gázquez — <em>Incorporation of Regional Preferences in Facility Location: Insights into Efficiency and Satisfaction Trade-offs</em></span></div>
-<div class="slot"><span class="time">17:30 – 17:50</span><span class="event">Thomas Byrne — <em>Conditional Facility Location Problems with Continuous
+<h3>Session: Location (16:10 – 17:30)</h3>
+<div class="slot"><span class="time">16:10 – 16:30</span><span class="event">Isabel Wiemer — <em>Enhancing Fairness in Emergency Medical Service: Single- and Bi-Objective Model Formulations</em></span></div>
+<div class="slot"><span class="time">16:30 – 16:50</span><span class="event">Felix Rauh — <em>Dynamic Programming and Block-Cut Tree Decompositions for a Maximum Covering Location-Network Design Problem</em></span></div>
+<div class="slot"><span class="time">16:50 – 17:10</span><span class="event">Ricardo Gázquez — <em>Incorporation of Regional Preferences in Facility Location: Insights into Efficiency and Satisfaction Trade-offs</em></span></div>
+<div class="slot"><span class="time">17:10 – 17:30</span><span class="event">Thomas Byrne — <em>Conditional Facility Location Problems with Continuous
 Demand and a Rapid Transit Line</em></span></div>
 
-<h3>Session: Routing (17:50 – 18:50)</h3>
-<div class="slot"><span class="time">17:50 – 18:10</span><span class="event">Julien Darlay (Hexaly) — <em>Computing dual bounds of set-based models using column elimination in Hexaly</em></span></div>
-<div class="slot"><span class="time">18:10 – 18:30</span><span class="event">Chiara Maragò — <em>Optimizing Cruise Ship Itineraries: A Sustainable Perspective</em></span></div>
-<div class="slot"><span class="time">18:30 – 18:50</span><span class="event">Vid Tomljenovic — <em>Solving a Multi-Depot Multi-Vehicle Inventory Routing Problem using Column Generation and Branch-and-Price</em></span></div>
+<h3>Session: Routing (17:30 – 18:30)</h3>
+<div class="slot"><span class="time">17:30 – 17:50</span><span class="event">Julien Darlay (Hexaly) — <em>Computing dual bounds of set-based models using column elimination in Hexaly</em></span></div>
+<div class="slot"><span class="time">17:50 – 18:10</span><span class="event">Chiara Maragò — <em>Optimizing Cruise Ship Itineraries: A Sustainable Perspective</em></span></div>
+<div class="slot"><span class="time">18:10 – 18:30</span><span class="event">Vid Tomljenovic — <em>Solving a Multi-Depot Multi-Vehicle Inventory Routing Problem using Column Generation and Branch-and-Price</em></span></div>
 
 
 
@@ -345,14 +345,14 @@ Demand and a Rapid Transit Line</em></span></div>
 <div class="slot"><span class="time">16:10 – 16:30</span><span class="event">Matteo Cosmi — <em>The profitability-sustainability trade-off in complex chemical value chains under product-specific carbon footprint constraints</em></span></div>
 <div class="slot"><span class="time">16:30 – 16:50</span><span class="event">Nandan Kumar Singh — <em>Optimal Investment in Resiliency in Presence of Spot Market Demand: A Generalized Distribution Approach</em></span></div>
 
-<h3>Coffee Break  ☕  (16:30 – 17:00) ☕  </h3>
+<h3>Coffee Break  ☕  (16:50 – 17:20) ☕  </h3>
 
-<h3>Session: Scheduling Problems (17:00 – 18:40)</h3>
-<div class="slot"><span class="time">17:00 – 17:20</span><span class="event">Alex Barrales-Araneda — <em>A Heuristic Algorithm for Sequential Timetabling and Electric Vehicle Scheduling in Public Transport</em></span></div>
-<div class="slot"><span class="time">17:20 – 17:40</span><span class="event">Martina Doneda — <em>A data-driven tool for operating rooms advance scheduling</em></span></div>
-<div class="slot"><span class="time">17:40 – 18:00</span><span class="event">Miguel Chastre — <em>Joint Optimization for the Scheduled Joint Replenishment Problem</em></span></div>
-<div class="slot"><span class="time">18:00 – 18:20</span><span class="event">Roberto Maria Rosati — <em>Multi-Neighborhood Search for the AGV Scheduling Problem with Battery Constraints</em></span></div>
-<div class="slot"><span class="time">18:20 – 18:40</span><span class="event">Closing</span></div>
+<h3>Session: Scheduling Problems (17:20 – 19:00)</h3>
+<div class="slot"><span class="time">17:20 – 17:40</span><span class="event">Alex Barrales-Araneda — <em>A Heuristic Algorithm for Sequential Timetabling and Electric Vehicle Scheduling in Public Transport</em></span></div>
+<div class="slot"><span class="time">17:40 – 18:00</span><span class="event">Martina Doneda — <em>A data-driven tool for operating rooms advance scheduling</em></span></div>
+<div class="slot"><span class="time">18:00 – 18:20</span><span class="event">Miguel Chastre — <em>Joint Optimization for the Scheduled Joint Replenishment Problem</em></span></div>
+<div class="slot"><span class="time">18:20 – 18:40</span><span class="event">Roberto Maria Rosati — <em>Multi-Neighborhood Search for the AGV Scheduling Problem with Battery Constraints</em></span></div>
+<div class="slot"><span class="time">18:40 – 19:00</span><span class="event">Closing</span></div>
 
 </div>
 
