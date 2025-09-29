@@ -234,7 +234,7 @@ Carmine Sorgente (<em>University of Salerno, Italy</em>)
 <div class="slot"><span class="time">12:20 – 12:40</span><span class="event">Registration</span></div>
 <div class="slot"><span class="time">12:40 – 13:10</span><span class="event">Opening</span></div>
 
-<h3>Session: Uncertain Optimization (13:10 – 14:50)</h3>
+<h3>Session: Uncertain Optimization (13:10 – 14:30)</h3>
 <div class="slot"><span class="time">13:10 – 13:30</span><span class="event">Federica Donnini — <em>On K-adaptability for two-stage stochastic programs</em></span></div>
 <div class="slot"><span class="time">13:30 – 13:50</span><span class="event">Hossein Babazadeh — <em>Power Swaps: A Coordination Mechanism for Operation of Jointly Owned Hydropower Reservoirs</em></span></div>
 <div class="slot"><span class="time">13:50 – 14:10</span><span class="event">Simon Stevens — <em>A Branch-and-Cut Approach for Decision-Dependent Robust Optimization Problems</em></span></div>
@@ -339,7 +339,7 @@ Demand and a Rapid Transit Line</em></span></div>
 <h3>Panel Session (14:30 – 15:30)</h3>
 <div class="slot"><span class="time">14:30 – 15:30</span><span class="event">Challenges and Decisions that Shape Academic Careers in Operational Research</span></div>
 
-<h3>Session: Industrial Applications II (15:30 – 16:30)</h3>
+<h3>Session: Industrial Applications II (15:30 – 16:50)</h3>
 <div class="slot"><span class="time">15:30 – 15:50</span><span class="event">  Sayeh Fooladi Mahani — <em>Optimizing electric carsharing systems for sustainable mobility and grid load management</em></span></div>
 <div class="slot"><span class="time">15:50 – 16:10</span><span class="event">Paula Terán Viadero — <em>Exact and Heuristic Approaches for the 2D Cutting Stock Problem with variable-sized stock</em></span></div>
 <div class="slot"><span class="time">16:10 – 16:30</span><span class="event">Matteo Cosmi — <em>The profitability-sustainability trade-off in complex chemical value chains under product-specific carbon footprint constraints</em></span></div>
