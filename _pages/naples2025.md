@@ -235,6 +235,8 @@ Carmine Sorgente (<em>University of Salerno, Italy</em>)
 <div class="slot"><span class="time">12:40 – 13:10</span><span class="event">Opening</span></div>
 
 <h3>Session: Uncertain Optimization (13:10 – 14:30)</h3>
+<h4>Chair: Xuan Truong Dinh</h4>
+
 <div class="slot"><span class="time">13:10 – 13:30</span><span class="event">Federica Donnini — <em>On K-adaptability for two-stage stochastic programs</em></span></div>
 <div class="slot"><span class="time">13:30 – 13:50</span><span class="event">Hossein Babazadeh — <em>Power Swaps: A Coordination Mechanism for Operation of Jointly Owned Hydropower Reservoirs</em></span></div>
 <div class="slot"><span class="time">13:50 – 14:10</span><span class="event">Simon Stevens — <em>A Branch-and-Cut Approach for Decision-Dependent Robust Optimization Problems</em></span></div>
@@ -248,6 +250,8 @@ Carmine Sorgente (<em>University of Salerno, Italy</em>)
 <div class="slot"><span class="time">16:00 – 16:10</span><span class="event">Short Break ⌛</span></div>
 
 <h3>Session: Location (16:10 – 17:30)</h3>
+<h4>Chair: Thomas Byrne </h4>
+
 <div class="slot"><span class="time">16:10 – 16:30</span><span class="event">Isabel Wiemer — <em>Enhancing Fairness in Emergency Medical Service: Single- and Bi-Objective Model Formulations</em></span></div>
 <div class="slot"><span class="time">16:30 – 16:50</span><span class="event">Felix Rauh — <em>Dynamic Programming and Block-Cut Tree Decompositions for a Maximum Covering Location-Network Design Problem</em></span></div>
 <div class="slot"><span class="time">16:50 – 17:10</span><span class="event">Ricardo Gázquez — <em>Incorporation of Regional Preferences in Facility Location: Insights into Efficiency and Satisfaction Trade-offs</em></span></div>
