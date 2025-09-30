@@ -342,16 +342,17 @@ Demand and a Rapid Transit Line</em></span></div>
 <h3>Session: Industrial Applications II (15:30 – 16:50)</h3>
 <div class="slot"><span class="time">15:30 – 15:50</span><span class="event">  Sayeh Fooladi Mahani — <em>Optimizing electric carsharing systems for sustainable mobility and grid load management</em></span></div>
 <div class="slot"><span class="time">15:50 – 16:10</span><span class="event">Paula Terán Viadero — <em>Exact and Heuristic Approaches for the 2D Cutting Stock Problem with variable-sized stock</em></span></div>
-<div class="slot"><span class="time">16:10 – 16:30</span><span class="event">Matteo Cosmi — <em>The profitability-sustainability trade-off in complex chemical value chains under product-specific carbon footprint constraints</em></span></div>
-<div class="slot"><span class="time">16:30 – 16:50</span><span class="event">Nandan Kumar Singh — <em>Optimal Investment in Resiliency in Presence of Spot Market Demand: A Generalized Distribution Approach</em></span></div>
+<div class="slot"><span class="time">16:10 – 16:30</span><span class="event">Nandan Kumar Singh — <em>Optimal Investment in Resiliency in Presence of Spot Market Demand: A Generalized Distribution Approach</em></span></div>
+<div class="slot"><span class="time">16:30 – 16:50</span><span class="event">Matteo Cosmi — <em>The profitability-sustainability trade-off in complex chemical value chains under product-specific carbon footprint constraints</em></span></div>
+
 
 <h3>Coffee Break  ☕  (16:50 – 17:20) ☕  </h3>
 
 <h3>Session: Scheduling Problems (17:20 – 19:00)</h3>
 <div class="slot"><span class="time">17:20 – 17:40</span><span class="event">Alex Barrales-Araneda — <em>A Heuristic Algorithm for Sequential Timetabling and Electric Vehicle Scheduling in Public Transport</em></span></div>
-<div class="slot"><span class="time">17:40 – 18:00</span><span class="event">Martina Doneda — <em>A data-driven tool for operating rooms advance scheduling</em></span></div>
+<div class="slot"><span class="time">17:40 – 18:00</span><span class="event">Roberto Maria Rosati — <em>Multi-Neighborhood Search for the AGV Scheduling Problem with Battery Constraints</em></span></div>
 <div class="slot"><span class="time">18:00 – 18:20</span><span class="event">Miguel Chastre — <em>Joint Optimization for the Scheduled Joint Replenishment Problem</em></span></div>
-<div class="slot"><span class="time">18:20 – 18:40</span><span class="event">Roberto Maria Rosati — <em>Multi-Neighborhood Search for the AGV Scheduling Problem with Battery Constraints</em></span></div>
+<div class="slot"><span class="time">18:20 – 18:40</span><span class="event">Martina Doneda — <em>A data-driven tool for operating rooms advance scheduling</em></span></div>
 <div class="slot"><span class="time">18:40 – 19:00</span><span class="event">Closing</span></div>
 
 </div>
