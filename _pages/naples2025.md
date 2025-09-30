@@ -235,7 +235,7 @@ Carmine Sorgente (<em>University of Salerno, Italy</em>)
 <div class="slot"><span class="time">12:40 – 13:10</span><span class="event">Opening</span></div>
 
 <h3>Session: Uncertain Optimization (13:10 – 14:30)</h3>
-<div>Chair: Xuan Truong Dinh</div>
+<div class="slot"><span class="time">Chair: </span><span class="event"><em>Alan Osorio-Mora</em></span></div>
 
 <div class="slot"><span class="time">13:10 – 13:30</span><span class="event">Federica Donnini — <em>On K-adaptability for two-stage stochastic programs</em></span></div>
 <div class="slot"><span class="time">13:30 – 13:50</span><span class="event">Hossein Babazadeh — <em>Power Swaps: A Coordination Mechanism for Operation of Jointly Owned Hydropower Reservoirs</em></span></div>
