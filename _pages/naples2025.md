@@ -250,7 +250,7 @@ Carmine Sorgente (<em>University of Salerno, Italy</em>)
 <div class="slot"><span class="time">16:00 – 16:10</span><span class="event">Short Break ⌛</span></div>
 
 <h3>Session: Location (16:10 – 17:30)</h3>
-<div>Chair: Thomas Byrne </div>
+<div class="slot"><span class="time">Chair:</span><span class="event"><em>Thomas Byrne</em></span></div>
 
 <div class="slot"><span class="time">16:10 – 16:30</span><span class="event">Isabel Wiemer — <em>Enhancing Fairness in Emergency Medical Service: Single- and Bi-Objective Model Formulations</em></span></div>
 <div class="slot"><span class="time">16:30 – 16:50</span><span class="event">Felix Rauh — <em>Dynamic Programming and Block-Cut Tree Decompositions for a Maximum Covering Location-Network Design Problem</em></span></div>
@@ -259,7 +259,8 @@ Carmine Sorgente (<em>University of Salerno, Italy</em>)
 Demand and a Rapid Transit Line</em></span></div>
 
 <h3>Session: Routing (17:30 – 18:30)</h3>
-<div>Chair: EUROYoung </div>
+<div class="slot"><span class="time">Chair:</span><span class="event"><em>Alan Osorio-Mora</em></span></div>
+
 <div class="slot"><span class="time">17:30 – 17:50</span><span class="event">Julien Darlay (Hexaly) — <em>Computing dual bounds of set-based models using column elimination in Hexaly</em></span></div>
 <div class="slot"><span class="time">17:50 – 18:10</span><span class="event">Chiara Maragò — <em>Optimizing Cruise Ship Itineraries: A Sustainable Perspective</em></span></div>
 <div class="slot"><span class="time">18:10 – 18:30</span><span class="event">Vid Tomljenovic — <em>Solving a Multi-Depot Multi-Vehicle Inventory Routing Problem using Column Generation and Branch-and-Price</em></span></div>
@@ -275,14 +276,14 @@ Demand and a Rapid Transit Line</em></span></div>
 <div class="schedule">
 
 <h3>Session: Machine Learning I (08:30 – 09:30)</h3>
-<div>Chair: Sebastian Merten </div>
+<div class="slot"><span class="time">Chair:</span><span class="event"><em>Sebastian Merten</em></span></div>
 
 <div class="slot"><span class="time">08:30 – 08:50</span><span class="event">Daan Otto — <em>Coherent Local Explanations for Mathematical Optimization</em></span></div>
 <div class="slot"><span class="time">08:50 – 09:10</span><span class="event">Marica Magagnini — <em>Multiple Disperse (generalized) Linear Models</em></span></div>
 <div class="slot"><span class="time">09:10 – 09:30</span><span class="event">Sebastian Merten — <em>Interpretable Surrogates for Optimization</em></span></div>
 
 <h3>Session: Machine Learning II (09:30 – 10:30)</h3>
-<div>Chair: Paula Segura Martínez </div>
+<div class="slot"><span class="time">Chair:</span><span class="event"><em>Paula Segura Martínez</em></span></div>
 
 <div class="slot"><span class="time">09:30 – 09:50</span><span class="event">Lorenzo Saccucci — <em>The Potential of Large Language Models in Solving Optimization Problems: An Empirical Study</em></span></div>
 <div class="slot"><span class="time">09:50 – 10:10</span><span class="event">Ilaria Ciocci — <em>Margin Optimal Regression Trees</em></span></div>
@@ -298,7 +299,7 @@ Demand and a Rapid Transit Line</em></span></div>
 <div class="slot"><span class="time">12:00 – 12:10</span><span class="event">Short Break ⌛</span></div>
 
 <h3>Session: Bilevel Optimization (12:10 – 13:30)</h3>
-<div>Chair: Francisco Temprano García </div>
+<div class="slot"><span class="time">Chair:</span><span class="event"><em>Francisco Temprano García</em></span></div>
 
 <div class="slot"><span class="time">12:10 – 12:30</span><span class="event">Alberto Torrejon — <em>The Measure of Everything, a flexible modeling framework for combinatorial problems</em></span></div>
 <div class="slot"><span class="time">12:30 – 12:50</span><span class="event">Riccardo Tomassini — <em>Equilibrium selection in oligopolistic market</em></span></div>
@@ -320,7 +321,7 @@ Demand and a Rapid Transit Line</em></span></div>
 <div class="schedule">
 
 <h3>Session: Advanced Optimization Techniques for Complex Systems (08:30 – 09:30)</h3>
-<div>Chair: Bárbara Rodrigues </div>
+<div class="slot"><span class="time">Chair:</span><span class="event"><em>Bárbara Rodrigues</em></span></div>
 
 <div class="slot"><span class="time">08:30 – 08:50</span><span class="event">Farzaneh Safari — <em>Inverse Cauchy problem in the framework of an RBF-based meshless technique and trigonometric basis functions</em></span></div>
 <div class="slot"><span class="time">08:50 – 09:10</span><span class="event">Ties Schalij — <em>Structure-Aware Heuristic Improvement via Policy Iteration</em></span></div>
@@ -328,7 +329,7 @@ Demand and a Rapid Transit Line</em></span></div>
 
 
 <h3>Session: Industrial Applications I (09:30 – 10:30)</h3>
-<div>Chair: Christian Truden </div>
+<div class="slot"><span class="time">Chair:</span><span class="event"><em>Christian Truden</em></span></div>
 
 <div class="slot"><span class="time">09:30 – 09:50</span><span class="event">Çiya Aydoğan — <em>Tail Assignment Problem with Hour-to-Cycle Ratio Constraints: A Branch and Price Algorithm</em></span></div>
 <div class="slot"><span class="time">09:50 – 10:10</span><span class="event">Vittoria Crotti — <em>OR and ML techniques supporting security service companies</em></span></div>
@@ -343,7 +344,7 @@ Demand and a Rapid Transit Line</em></span></div>
 <div class="slot"><span class="time">12:00 – 12:10</span><span class="event">Short Break ⌛</span></div>
 
 <h3>Session: Game Theory and Combinatorial Optimization (12:10 – 13:30)</h3>
-<div>Chair: Carmine Sorgente </div>
+<div class="slot"><span class="time">Chair:</span><span class="event"><em>Carmine Sorgente</em></span></div>
 
 <div class="slot"><span class="time">12:10 – 12:30</span><span class="event">Alejandro Bernárdez Ferradás — <em>Dirichlet Values for Balanced Games</em></span></div>
 <div class="slot"><span class="time">12:30 – 12:50</span><span class="event">Mariagrazia Cairo — <em>Bi-Objective Minimum Spanning Tree Problem: a comparison between a distributed and a parallel approach</em></span></div>
@@ -357,7 +358,7 @@ Demand and a Rapid Transit Line</em></span></div>
 <div class="slot"><span class="time">14:30 – 15:30</span><span class="event">Challenges and Decisions that Shape Academic Careers in Operational Research</span></div>
 
 <h3>Session: Industrial Applications II (15:30 – 16:50)</h3>
-<div>Chair: Matteo Cosmi </div>
+<div class="slot"><span class="time">Chair:</span><span class="event"><em>Matteo Cosmi</em></span></div>
 
 <div class="slot"><span class="time">15:30 – 15:50</span><span class="event">  Sayeh Fooladi Mahani — <em>Optimizing electric carsharing systems for sustainable mobility and grid load management</em></span></div>
 <div class="slot"><span class="time">15:50 – 16:10</span><span class="event">Paula Terán Viadero — <em>Exact and Heuristic Approaches for the 2D Cutting Stock Problem with variable-sized stock</em></span></div>
@@ -368,7 +369,7 @@ Demand and a Rapid Transit Line</em></span></div>
 <h3>Coffee Break  ☕  (16:50 – 17:20) ☕  </h3>
 
 <h3>Session: Scheduling Problems (17:20 – 19:00)</h3>
-<div>Chair: Martina Doneda </div>
+<div class="slot"><span class="time">Chair:</span><span class="event"><em>Martina Doneda</em></span></div>
 
 <div class="slot"><span class="time">17:20 – 17:40</span><span class="event">Alex Barrales-Araneda — <em>A Heuristic Algorithm for Sequential Timetabling and Electric Vehicle Scheduling in Public Transport</em></span></div>
 <div class="slot"><span class="time">17:40 – 18:00</span><span class="event">Roberto Maria Rosati — <em>Multi-Neighborhood Search for the AGV Scheduling Problem with Battery Constraints</em></span></div>
