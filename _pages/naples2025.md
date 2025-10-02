@@ -259,7 +259,7 @@ Carmine Sorgente (<em>University of Salerno, Italy</em>)
 Demand and a Rapid Transit Line</em></span></div>
 
 <h3>Session: Routing (17:30 – 18:30)</h3>
-<div class="slot"><span class="time">Chair:</span><span class="event"><em>Alan Osorio-Mora</em></span></div>
+<div class="slot"><span class="time">Chair:</span><span class="event"><em>Maurizio Boccia</em></span></div>
 
 <div class="slot"><span class="time">17:30 – 17:50</span><span class="event">Julien Darlay (Hexaly) — <em>Computing dual bounds of set-based models using column elimination in Hexaly</em></span></div>
 <div class="slot"><span class="time">17:50 – 18:10</span><span class="event">Chiara Maragò — <em>Optimizing Cruise Ship Itineraries: A Sustainable Perspective</em></span></div>
