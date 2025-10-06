@@ -200,6 +200,9 @@ Carmine Sorgente (<em>University of Salerno, Italy</em>)
 
 <h1 id="programme">Programme</h1>
 
+You can download the PDF version <a href="/assets/pdffiles/Programma_EUROYoung.pdf/">here</a>.
+
+
 <style>
 .schedule {
   display: grid;
