@@ -184,7 +184,7 @@ Laura Davila-Pena (<em>University of Kent, UK</em>)<br>
 Antonio Diglio (<em>University of Naples Federico II, Italy</em>)<br>
 Andrea Mancuso (<em>University of Naples Federico II, Italy</em>), co-chair<br>
 Adriano Masone (<em>University of Naples Federico II, Italy</em>)<br>
-Alan Osorio-Mora (<em>RPTU Kaiserslautern, Germany</em>)<br>
+ Osorio-Mora (<em>RPTU Kaiserslautern, Germany</em>)<br>
 Carmela Piccolo (<em>University of Naples Federico II, Italy</em>)<br>
 Claudio Sterle (<em>University of Naples Federico II, Italy</em>)<br>
 
@@ -235,7 +235,7 @@ Carmine Sorgente (<em>University of Salerno, Italy</em>)
 <div class="slot"><span class="time">12:40 – 13:10</span><span class="event">Opening</span></div>
 
 <h3>Session: Uncertain Optimization (13:10 – 14:30)</h3>
-<div class="slot"><span class="time">Chair:</span><span class="event"><em>Alan Osorio-Mora</em></span></div>
+<div class="slot"><span class="time">Chair:</span><span class="event"><em>Antonio Diglio</em></span></div>
 
 <div class="slot"><span class="time">13:10 – 13:30</span><span class="event">Federica Donnini — <em>On K-adaptability for two-stage stochastic programs</em></span></div>
 <div class="slot"><span class="time">13:30 – 13:50</span><span class="event">Hossein Babazadeh — <em>Power Swaps: A Coordination Mechanism for Operation of Jointly Owned Hydropower Reservoirs</em></span></div>
@@ -245,6 +245,7 @@ Carmine Sorgente (<em>University of Salerno, Italy</em>)
 <h3>Coffee Break  ☕  (14:30 – 15:00) ☕  </h3>
 
 <h3>Plenary (15:00 – 16:00)  ⭐ 📢 </h3>
+<div class="slot"><span class="time">Chair:</span><span class="event"><em>Marta Baldomero Naranjo</em></span></div>
 <div class="slot"><span class="time">15:00 – 16:00</span><span class="event"> Martin Schmidt — <em>A Gentle and Incomplete Introduction to Bilevel Optimization</em></span></div>
 
 <div class="slot"><span class="time">16:00 – 16:10</span><span class="event">Short Break ⌛</span></div>
@@ -259,7 +260,7 @@ Carmine Sorgente (<em>University of Salerno, Italy</em>)
 Demand and a Rapid Transit Line</em></span></div>
 
 <h3>Session: Routing (17:30 – 18:30)</h3>
-<div class="slot"><span class="time">Chair:</span><span class="event"><em>Maurizio Boccia</em></span></div>
+<div class="slot"><span class="time">Chair:</span><span class="event"><em>Eduardo Pipicelli</em></span></div>
 
 <div class="slot"><span class="time">17:30 – 17:50</span><span class="event">Julien Darlay (Hexaly) — <em>Computing dual bounds of set-based models using column elimination in Hexaly</em></span></div>
 <div class="slot"><span class="time">17:50 – 18:10</span><span class="event">Chiara Maragò — <em>Optimizing Cruise Ship Itineraries: A Sustainable Perspective</em></span></div>
@@ -294,6 +295,7 @@ Demand and a Rapid Transit Line</em></span></div>
 
 
 <h3>Plenary (11:00 – 12:00)  ⭐ 📢  </h3>
+<div class="slot"><span class="time">Chair:</span><span class="event"><em>Andrea Mancuso</em></span></div>
 <div class="slot"><span class="time">11:00 – 12:00</span><span class="event">Maria Grazia Speranza — <em>Optimization in transportation and logistics</em></span></div>
 
 <div class="slot"><span class="time">12:00 – 12:10</span><span class="event">Short Break ⌛</span></div>
@@ -310,6 +312,7 @@ Demand and a Rapid Transit Line</em></span></div>
 
 
 <h3>Plenary (14:30 – 15:30)  ⭐ 📢  </h3>
+<div class="slot"><span class="time">Chair:</span><span class="event"><em>Adriano Masone</em></span></div>
 <div class="slot"><span class="time">14:30 – 15:30</span><span class="event">Dolores Romero Morales — <em>Local Explainability in Machine Learning: A collective framework</em></span></div>
 
 </div>
@@ -339,6 +342,7 @@ Demand and a Rapid Transit Line</em></span></div>
 <h3>Coffee Break  ☕  (10:30 – 11:00) ☕  </h3>
 
 <h3>Plenary (11:00 – 12:00)  ⭐ 📢  </h3>
+<div class="slot"><span class="time">Chair:</span><span class="event"><em>Alan Osorio-Mora</em></span></div>
 <div class="slot"><span class="time">11:00 – 12:00</span><span class="event">Maurizio Boccia — <em>Exact and ML-guided Matheuristic approaches for a Truck-and-Drone delivery problem</em></span></div>
 
 <div class="slot"><span class="time">12:00 – 12:10</span><span class="event">Short Break ⌛</span></div>
@@ -355,6 +359,7 @@ Demand and a Rapid Transit Line</em></span></div>
 
 
 <h3>Panel Session (14:30 – 15:30)</h3>
+<div class="slot"><span class="time">Chair:</span><span class="event"><em>Laura Davila Pena</em></span></div>
 <div class="slot"><span class="time">14:30 – 15:30</span><span class="event">Challenges and Decisions that Shape Academic Careers in Operational Research</span></div>
 
 <h3>Session: Industrial Applications II (15:30 – 16:50)</h3>
