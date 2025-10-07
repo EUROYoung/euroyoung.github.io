@@ -336,8 +336,7 @@ Demand and a Rapid Transit Line</em></span></div>
 
 <h3>Session: Industrial Applications I (09:30 – 10:30)</h3>
 <div class="slot"><span class="time">Chair:</span><span class="event"><em>Christian Truden</em></span></div>
-
-<div class="slot"><span class="time">09:30 – 09:50</span><span class="event">Çiya Aydoğan — <em>Tail Assignment Problem with Hour-to-Cycle Ratio Constraints: A Branch and Price Algorithm</em></span></div>
+<div class="slot"><span class="time">09:30 – 09:50</span><span class="event">Nandan Kumar Singh — <em>Optimal Investment in Resiliency in Presence of Spot Market Demand: A Generalized Distribution Approach</em></span></div>
 <div class="slot"><span class="time">09:50 – 10:10</span><span class="event">Vittoria Crotti — <em>OR and ML techniques supporting security service companies</em></span></div>
 <div class="slot"><span class="time">10:10 – 10:30</span><span class="event">Christian Truden — <em>Service Network Design with Fleet and Emissions Management at Scale</em></span></div>
 
@@ -370,7 +369,7 @@ Demand and a Rapid Transit Line</em></span></div>
 
 <div class="slot"><span class="time">15:30 – 15:50</span><span class="event">  Sayeh Fooladi Mahani — <em>Optimizing electric carsharing systems for sustainable mobility and grid load management</em></span></div>
 <div class="slot"><span class="time">15:50 – 16:10</span><span class="event">Paula Terán Viadero — <em>Exact and Heuristic Approaches for the 2D Cutting Stock Problem with variable-sized stock</em></span></div>
-<div class="slot"><span class="time">16:10 – 16:30</span><span class="event">Nandan Kumar Singh — <em>Optimal Investment in Resiliency in Presence of Spot Market Demand: A Generalized Distribution Approach</em></span></div>
+<div class="slot"><span class="time">16:10 – 16:30</span><span class="event">Çiya Aydoğan — <em>Tail Assignment Problem with Hour-to-Cycle Ratio Constraints: A Branch and Price Algorithm</em></span></div>
 <div class="slot"><span class="time">16:30 – 16:50</span><span class="event">Matteo Cosmi — <em>The profitability-sustainability trade-off in complex chemical value chains under product-specific carbon footprint constraints</em></span></div>
 
 
