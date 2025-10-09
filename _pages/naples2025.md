@@ -180,7 +180,7 @@ Click on the pictures for more details.
 Marta Baldomero-Naranjo (<em>Universidad de Cádiz, Spain</em>), co-chair<br>
 Yasmine Beck (<em>ESSEC Business School, France</em>)<br>
 Martina Cerulli (<em>University of Salerno, Italy</em>)<br>
-Laura Davila-Pena (<em>University of Kent, UK</em>)<br>
+Laura Davila-Pena (<em>Universidade de Santiago de Compostela, Spain</em>)<br>
 Antonio Diglio (<em>University of Naples Federico II, Italy</em>)<br>
 Andrea Mancuso (<em>University of Naples Federico II, Italy</em>), co-chair<br>
 Adriano Masone (<em>University of Naples Federico II, Italy</em>)<br>
