@@ -495,8 +495,8 @@ We highly appreciate the support of the following sponsors.
   gap: 30px;
   padding: 20px;
 ">
-  <img src="/assets/images/OPS.jpeg" alt="OPS" style="max-height: 100px; object-fit: contain;">
-  <img src="/assets/images/politecnico_.jpeg" alt="politecnico" style="max-height: 90px; object-fit: contain;">
+  <img src="/assets/images/OPSLab.png" alt="OPS" style="max-height: 100px; object-fit: contain;">
+  <img src="/assets/images/logo_scuola.png" alt="politecnico" style="max-height: 90px; object-fit: contain;">
   <img src="/assets/images/EURO.png" alt="EURO" style="max-height: 120px; object-fit: contain;">
   <img src="/assets/images/otherlogo.png" alt="other" style="max-height: 120px; object-fit: contain;">
   <img src="/assets/images/UNINA.jpeg" alt="UNINA" style="max-height: 120px; object-fit: contain;">
