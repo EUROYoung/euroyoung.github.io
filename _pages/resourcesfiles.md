@@ -50,28 +50,28 @@ Here you can find files associated to the presentation of plenary speakers (aong
 <div class="speaker-grid">
 
   <div class="speaker-card">
-    <a href="/speakers/speaker1/">
+    <a href="/assets/pdffiles/MaurizioBoccia.pdf">  
       <img src="/assets/images/MBoccia2.jpeg" alt="Maurizio Boccia">
     </a>
     <p>Maurizio Boccia</p>
   </div>
 
   <div class="speaker-card">
-    <a href="/speakers/speaker2/">
+    <a href="/assets/pdffiles/DoloresRomero.pdf">  
       <img src="/assets/images/DoloresRomeroMorales2.jpg" alt="Dolores Romero Morales">
     </a>
     <p>Dolores Romero Morales</p>
   </div>
 
   <div class="speaker-card">
-    <a href="/speakers/speaker3/">
+      <a href="/assets/pdffiles/MartinSchmidt.pdf">  
       <img src="/assets/images/MartinSchmidt2.jpg" alt="Martin Schmidt">
     </a>
     <p>Martin Schmidt</p>
   </div>
 
   <div class="speaker-card">
-    <a href="/speakers/speaker4/">
+      <a href="/assets/pdffiles/GraziaSperanza.pdf">  
       <img src="/assets/images/MGrazia2.jpg" alt="Maria Grazia Speranza">
     </a>
     <p>Maria Grazia Speranza</p>
