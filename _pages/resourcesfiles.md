@@ -8,9 +8,6 @@ author_profile: false
 permalink: /resourcesfiles/
 ---
 
-
-
-<h1 id="about">About</h1>
 Here you can find files associated to the presentation of plenary speakers (aong other documents).
 
 <h1 id="2025">EUROYoung 2025-Naples, IT.</h1>
