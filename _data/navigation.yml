@@ -18,3 +18,5 @@ main:
     url: /board/
   - title: "Opportunities"
     url: /opportunities/
+    - title: "Resources"
+    url: /resources/
