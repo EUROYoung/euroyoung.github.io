@@ -184,7 +184,7 @@ Laura Davila-Pena (<em>Universidade de Santiago de Compostela, Spain</em>)<br>
 Antonio Diglio (<em>University of Naples Federico II, Italy</em>)<br>
 Andrea Mancuso (<em>University of Naples Federico II, Italy</em>), co-chair<br>
 Adriano Masone (<em>University of Naples Federico II, Italy</em>)<br>
-Alan Osorio-Mora (<em>RPTU Kaiserslautern, Germany</em>)<br>
+Alan Osorio-Mora (<em>RPTU Kaiserslautern-Landau, Germany</em>)<br>
 Carmela Piccolo (<em>University of Naples Federico II, Italy</em>)<br>
 Claudio Sterle (<em>University of Naples Federico II, Italy</em>)<br>
 
