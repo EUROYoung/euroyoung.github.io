@@ -10,6 +10,8 @@ permalink: /resourcesfiles/
 
 Here you can find files associated to the presentation of plenary speakers, among other documents.
 
+Press the photo of the speaker to download the file.
+
 <h1 id="2025">EUROYoung 2025-Naples, IT.</h1>
 
 
