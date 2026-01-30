@@ -83,7 +83,7 @@ classes: wide
         Yasmine Beck
       </a>
     </div>
-    <div class="board-affiliation">ESSEC Business School, France</div>
+    <div class="board-affiliation">Eindhoven University of Technology, The Netherlands</div>
   </div>
 
   <div class="board-card">
