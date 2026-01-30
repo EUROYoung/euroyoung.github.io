@@ -103,7 +103,7 @@ classes: wide
         Alan Osorio Mora
       </a>
     </div>
-    <div class="board-affiliation">RPTU Kaiserslautern, Germany</div>
+    <div class="board-affiliation">RPTU Kaiserslautern-Landau, Germany</div>
   </div>
 
 </div>
