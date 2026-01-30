@@ -49,26 +49,70 @@ header:
 
 /* ===== SECTIONS ===== */
 .section {
-  margin-bottom: 3rem;
+  margin-bottom: 4rem;
 }
 
 .section h2 {
-  font-size: 1.8rem;
-  margin-bottom: 1rem;
+  font-size: 1.9rem;
+  margin-bottom: 1.5rem;
   border-bottom: 2px solid #eee;
   padding-bottom: 0.4rem;
 }
 
-.section p,
-.section li {
+.section p {
   font-size: 0.95rem;
   line-height: 1.7;
 }
 
-.section ul {
-  padding-left: 1.2rem;
+/* ===== OBJECTIVES ===== */
+.objectives-list {
+  list-style: none;
+  padding-left: 0;
 }
 
+.objectives-list li {
+  display: flex;
+  align-items: flex-start;
+  gap: 1rem;
+  margin-bottom: 1.2rem;
+  font-size: 0.95rem;
+  line-height: 1.6;
+}
+
+.objectives-icon {
+  font-size: 1.4rem;
+  line-height: 1;
+}
+
+/* ===== STATS ===== */
+.stats {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(160px, 1fr));
+  gap: 2rem;
+  margin-top: 2rem;
+}
+
+.stat-card {
+  text-align: center;
+  background: #f9fafc;
+  padding: 2rem 1.5rem;
+  border-radius: 18px;
+  box-shadow: 0 6px 16px rgba(0,0,0,0.05);
+}
+
+.stat-number {
+  font-size: 2.2rem;
+  font-weight: 800;
+  color: #1f3c88;
+}
+
+.stat-label {
+  font-size: 0.9rem;
+  color: #555;
+  margin-top: 0.4rem;
+}
+
+/* ===== HIGHLIGHT BOX ===== */
 .highlight-box {
   background: #f9fafc;
   padding: 2rem;
@@ -99,7 +143,7 @@ header:
   <h2>Who we are</h2>
   <p>
     EUROYoung is a Forum of
-    <a href="https://www.euro-online.org/" title="EURO">EURO</a>,
+    <a href="https://www.euro-online.org/">EURO</a>,
     the European Association of Operational Research Societies.
     We provide training, dissemination, and networking opportunities to
     young Operational Researchers.
@@ -109,17 +153,52 @@ header:
 <!-- ===== OBJECTIVES ===== -->
 <section class="section">
   <h2>Objectives</h2>
-  <ul>
-    <li>Fostering <strong>collaboration</strong> among students and early-career researchers in OR.</li>
-    <li>Providing young OR scholars and practitioners with tools to advance their careers, mainly through <strong>training</strong>.</li>
-    <li>Creating <strong>networks</strong> among young researchers and with senior leaders in OR.</li>
-    <li>Connecting demand and offer in the <strong>OR job market</strong>, in academia and industry.</li>
+  <ul class="objectives-list">
+    <li>
+      <span class="objectives-icon">🤝</span>
+      <span>Fostering <strong>collaboration</strong> among students and early-career researchers in OR.</span>
+    </li>
+    <li>
+      <span class="objectives-icon">🎓</span>
+      <span>Providing young OR scholars and practitioners with tools to advance their careers, mainly through <strong>training</strong>.</span>
+    </li>
+    <li>
+      <span class="objectives-icon">🌍</span>
+      <span>Creating <strong>networks</strong> among young researchers and with senior leaders in OR.</span>
+    </li>
+    <li>
+      <span class="objectives-icon">💼</span>
+      <span>Connecting demand and offer in the <strong>OR job market</strong>, in academia and industry.</span>
+    </li>
   </ul>
+</section>
+
+<!-- ===== STATS ===== -->
+<section class="section">
+  <h2>EUROYoung at a glance</h2>
+  <div class="stats">
+    <div class="stat-card">
+      <div class="stat-number">500+</div>
+      <div class="stat-label">Members</div>
+    </div>
+    <div class="stat-card">
+      <div class="stat-number">30+</div>
+      <div class="stat-label">Countries</div>
+    </div>
+    <div class="stat-card">
+      <div class="stat-number">20+</div>
+      <div class="stat-label">Events & Workshops</div>
+    </div>
+    <div class="stat-card">
+      <div class="stat-number">10+</div>
+      <div class="stat-label">Years of Activity</div>
+    </div>
+  </div>
 </section>
 
 <p>
   We endorse the
-  <a href="https://www.euro-online.org/web/pages/1654/wisdom/" title="EURO WISDOM Forum">
+  <a href="https://www.euro-online.org/web/pages/1654/wisdom/">
     EURO WISDOM Forum
   </a>
   objectives to support, empower, and encourage the participation of all genders in OR.
