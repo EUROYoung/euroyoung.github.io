@@ -2,43 +2,131 @@
 layout: home
 author_profile: true
 title: Welcome!
-class: wide
+classes: wide
 
 header:
   image: /assets/images/EUROYoung.png
-
-
-
 ---
 
-<body>
+<style>
+/* ===== HERO CTA ===== */
+.hero-cta {
+  background: linear-gradient(135deg, #1f3c88, #3f72af);
+  color: white;
+  padding: 4rem 2rem;
+  border-radius: 20px;
+  text-align: center;
+  margin: 2rem 0 4rem 0;
+}
 
- <header>
-        <h1>Who we are?</h1>
-  
-  <p style="font-size: 0.8em;"> EUROYoung is a Forum of  <a href="https://www.euro-online.org/" title="EURO">EURO</a>, the European Association of Operational Research Societies.
-  We provide training, dissemination and networking opportunities to young Operational Researchers.</p>
+.hero-cta h1 {
+  font-size: 2.6rem;
+  margin-bottom: 1rem;
+}
 
-  </header>
-  
+.hero-cta p {
+  font-size: 1.1rem;
+  max-width: 700px;
+  margin: 0 auto 2rem auto;
+  opacity: 0.95;
+}
 
- <header>
-       <h1>Objectives</h1>
-    <p style="flex: 0.7; font-size: 0.8em; margin-right: 5px;">
-      <ul style="padding-left: 0;">
-        <li style="margin-left: 20px; font-size: 0.8em;">Fostering <b>collaboration</b> among students and early-career researchers in OR.</li>
-        <li style="margin-left: 20px; font-size: 0.8em;">Providing young OR scholars and practitioners with tools to advance their careers, mainly through <b>training</b>. </li>
-        <li style="margin-left: 20px; font-size: 0.8em;">Creating <b>networks</b> both among young researchers and with more senior leaders in the field of OR.</li>
-        <li style="margin-left: 20px; font-size: 0.8em;">Connecting demand and offer in the <b>OR job market</b>, both in academia and the industry.</li>
-      </ul>
+.hero-cta a.cta-button {
+  display: inline-block;
+  background: #ffffff;
+  color: #1f3c88;
+  padding: 0.9rem 2rem;
+  border-radius: 999px;
+  font-weight: 700;
+  text-decoration: none;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.hero-cta a.cta-button:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 10px 25px rgba(0,0,0,0.25);
+}
+
+/* ===== SECTIONS ===== */
+.section {
+  margin-bottom: 3rem;
+}
+
+.section h2 {
+  font-size: 1.8rem;
+  margin-bottom: 1rem;
+  border-bottom: 2px solid #eee;
+  padding-bottom: 0.4rem;
+}
+
+.section p,
+.section li {
+  font-size: 0.95rem;
+  line-height: 1.7;
+}
+
+.section ul {
+  padding-left: 1.2rem;
+}
+
+.highlight-box {
+  background: #f9fafc;
+  padding: 2rem;
+  border-radius: 16px;
+  box-shadow: 0 6px 16px rgba(0,0,0,0.05);
+}
+</style>
+
+<!-- ===== HERO / MEMBERSHIP CTA ===== -->
+<div class="hero-cta">
+  <h1>Become a member now!</h1>
+  <p>
+    Join EUROYoung and connect with young Operational Researchers across Europe
+    through training, networking, and collaborative initiatives.
+  </p>
+  <a
+    class="cta-button"
+    href="https://docs.google.com/forms/d/e/1FAIpQLSdfX8dBw0CrVnZg8kyRvNMzjN0hYId4LpmzkQluK_OkCWvm4g/viewform?pli=1"
+    target="_blank"
+    rel="noopener"
+  >
+    Join EUROYoung →
+  </a>
+</div>
+
+<!-- ===== WHO WE ARE ===== -->
+<section class="section">
+  <h2>Who we are</h2>
+  <p>
+    EUROYoung is a Forum of
+    <a href="https://www.euro-online.org/" title="EURO">EURO</a>,
+    the European Association of Operational Research Societies.
+    We provide training, dissemination, and networking opportunities to
+    young Operational Researchers.
+  </p>
+</section>
+
+<!-- ===== OBJECTIVES ===== -->
+<section class="section">
+  <h2>Objectives</h2>
+  <ul>
+    <li>Fostering <strong>collaboration</strong> among students and early-career researchers in OR.</li>
+    <li>Providing young OR scholars and practitioners with tools to advance their careers, mainly through <strong>training</strong>.</li>
+    <li>Creating <strong>networks</strong> among young researchers and with senior leaders in OR.</li>
+    <li>Connecting demand and offer in the <strong>OR job market</strong>, in academia and industry.</li>
+  </ul>
+</section>
+
+<p>
+  We endorse the
+  <a href="https://www.euro-online.org/web/pages/1654/wisdom/" title="EURO WISDOM Forum">
+    EURO WISDOM Forum
+  </a>
+  objectives to support, empower, and encourage the participation of all genders in OR.
 </p>
-    </header>
-  
-<p> We endorse the <a href="https://www.euro-online.org/web/pages/1654/wisdom/" title="EURO WISDOM Forum">EURO WISDOM Forum</a> objectives to support, empower, and encourage the participation of all genders in OR. </p> 
- 
-  <header>
-        <h1>Highlights: 1st EUROYoung (Mini) PhD School</h1>
- {% include video id="t2--hX3yhmE" provider="youtube" %}
-     </header>
 
-</body>
+<!-- ===== HIGHLIGHTS ===== -->
+<section class="section highlight-box">
+  <h2>Highlights: 1st EUROYoung (Mini) PhD School</h2>
+  {% include video id="t2--hX3yhmE" provider="youtube" %}
+</section>
