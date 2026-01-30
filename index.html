@@ -12,22 +12,44 @@ header:
   /* ===== PHOTO GALLERIES ===== */
   .gallery {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(130px, 1fr));
-  gap: 0.6rem;
-  margin-top: 1rem;
+  grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+  gap: 1rem;
+  margin-top: 1.5rem;
+}
+
+.gallery a {
+  display: block;
+  border-radius: 14px;
+  overflow: hidden;
+  box-shadow: 0 6px 14px rgba(0,0,0,0.08);
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.gallery a:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 10px 22px rgba(0,0,0,0.15);
 }
 
 .gallery img {
   width: 100%;
-  height: 110px;
+  height: 180px;
   object-fit: cover;
   display: block;
 }
 
-.gallery a {
-  border-radius: 10px;
-  overflow: hidden;
-  box-shadow: 0 4px 10px rgba(0,0,0,0.08);
+  .gallery-details summary {
+  cursor: pointer;
+  font-weight: 600;
+  margin-top: 1rem;
+  color: #1f3c88;
+}
+
+.gallery-details summary::marker {
+  font-size: 1.1rem;
+}
+
+.gallery-details[open] summary {
+  margin-bottom: 1rem;
 }
 
 
@@ -243,49 +265,54 @@ header:
 <section class="section highlight-box">
   <h2>Photo Gallery: EUROYoung Workshop 2025</h2>
 
-  <div class="gallery">
-    <a href="/assets/images/WS_2025/WS_2025_1.jpeg"><img src="/assets/images/WS_2025/WS_2025_1.jpeg" alt="WS 2025"></a>
-    <a href="/assets/images/WS_2025/WS_2025_2.jpeg"><img src="/assets/images/WS_2025/WS_2025_2.jpeg" alt="WS 2025"></a>
-    <a href="/assets/images/WS_2025/WS_2025_3.jpeg"><img src="/assets/images/WS_2025/WS_2025_3.jpeg" alt="WS 2025"></a>
-    <a href="/assets/images/WS_2025/WS_2025_4.jpeg"><img src="/assets/images/WS_2025/WS_2025_4.jpeg" alt="WS 2025"></a>
-    <a href="/assets/images/WS_2025/WS_2025_5.jpeg"><img src="/assets/images/WS_2025/WS_2025_5.jpeg" alt="WS 2025"></a>
-    <a href="/assets/images/WS_2025/WS_2025_6.jpeg"><img src="/assets/images/WS_2025/WS_2025_6.jpeg" alt="WS 2025"></a>
-    <a href="/assets/images/WS_2025/WS_2025_7.jpeg"><img src="/assets/images/WS_2025/WS_2025_7.jpeg" alt="WS 2025"></a>
-    <a href="/assets/images/WS_2025/WS_2025_8.jpeg"><img src="/assets/images/WS_2025/WS_2025_8.jpeg" alt="WS 2025"></a>
-    <a href="/assets/images/WS_2025/WS_2025_9.jpeg"><img src="/assets/images/WS_2025/WS_2025_9.jpeg" alt="WS 2025"></a>
-    <a href="/assets/images/WS_2025/WS_2025_10.jpeg"><img src="/assets/images/WS_2025/WS_2025_10.jpeg" alt="WS 2025"></a>
-    <a href="/assets/images/WS_2025/WS_2025_11.jpeg"><img src="/assets/images/WS_2025/WS_2025_11.jpeg" alt="WS 2025"></a>
-    <a href="/assets/images/WS_2025/WS_2025_12.jpeg"><img src="/assets/images/WS_2025/WS_2025_12.jpeg" alt="WS 2025"></a>
-    <a href="/assets/images/WS_2025/WS_2025_13.jpeg"><img src="/assets/images/WS_2025/WS_2025_13.jpeg" alt="WS 2025"></a>
-    <a href="/assets/images/WS_2025/WS_2025_14.jpeg"><img src="/assets/images/WS_2025/WS_2025_14.jpeg" alt="WS 2025"></a>
-    <a href="/assets/images/WS_2025/WS_2025_15.jpeg"><img src="/assets/images/WS_2025/WS_2025_15.jpeg" alt="WS 2025"></a>
-    <a href="/assets/images/WS_2025/WS_2025_16.jpeg"><img src="/assets/images/WS_2025/WS_2025_16.jpeg" alt="WS 2025"></a>
-    <a href="/assets/images/WS_2025/WS_2025_17.jpeg"><img src="/assets/images/WS_2025/WS_2025_17.jpeg" alt="WS 2025"></a>
-    <a href="/assets/images/WS_2025/WS_2025_18.jpeg"><img src="/assets/images/WS_2025/WS_2025_18.jpeg" alt="WS 2025"></a>
-    <a href="/assets/images/WS_2025/WS_2025_19.jpeg"><img src="/assets/images/WS_2025/WS_2025_19.jpeg" alt="WS 2025"></a>
-    <a href="/assets/images/WS_2025/WS_2025_20.jpeg"><img src="/assets/images/WS_2025/WS_2025_20.jpeg" alt="WS 2025"></a>
-    <a href="/assets/images/WS_2025/WS_2025_21.jpeg"><img src="/assets/images/WS_2025/WS_2025_21.jpeg" alt="WS 2025"></a>
-  </div>
+  <details class="gallery-details">
+    <summary>View photos (21)</summary>
+
+    <div class="gallery">
+      <a href="/assets/images/WS_2025/WS_2025_1.jpeg"><img src="/assets/images/WS_2025/WS_2025_1.jpeg" alt="WS 2025"></a>
+      <a href="/assets/images/WS_2025/WS_2025_2.jpeg"><img src="/assets/images/WS_2025/WS_2025_2.jpeg" alt="WS 2025"></a>
+      <a href="/assets/images/WS_2025/WS_2025_3.jpeg"><img src="/assets/images/WS_2025/WS_2025_3.jpeg" alt="WS 2025"></a>
+      <a href="/assets/images/WS_2025/WS_2025_4.jpeg"><img src="/assets/images/WS_2025/WS_2025_4.jpeg" alt="WS 2025"></a>
+      <a href="/assets/images/WS_2025/WS_2025_5.jpeg"><img src="/assets/images/WS_2025/WS_2025_5.jpeg" alt="WS 2025"></a>
+      <a href="/assets/images/WS_2025/WS_2025_6.jpeg"><img src="/assets/images/WS_2025/WS_2025_6.jpeg" alt="WS 2025"></a>
+      <a href="/assets/images/WS_2025/WS_2025_7.jpeg"><img src="/assets/images/WS_2025/WS_2025_7.jpeg" alt="WS 2025"></a>
+      <a href="/assets/images/WS_2025/WS_2025_8.jpeg"><img src="/assets/images/WS_2025/WS_2025_8.jpeg" alt="WS 2025"></a>
+      <a href="/assets/images/WS_2025/WS_2025_9.jpeg"><img src="/assets/images/WS_2025/WS_2025_9.jpeg" alt="WS 2025"></a>
+      <a href="/assets/images/WS_2025/WS_2025_10.jpeg"><img src="/assets/images/WS_2025/WS_2025_10.jpeg" alt="WS 2025"></a>
+      <a href="/assets/images/WS_2025/WS_2025_11.jpeg"><img src="/assets/images/WS_2025/WS_2025_11.jpeg" alt="WS 2025"></a>
+      <a href="/assets/images/WS_2025/WS_2025_12.jpeg"><img src="/assets/images/WS_2025/WS_2025_12.jpeg" alt="WS 2025"></a>
+      <a href="/assets/images/WS_2025/WS_2025_13.jpeg"><img src="/assets/images/WS_2025/WS_2025_13.jpeg" alt="WS 2025"></a>
+      <a href="/assets/images/WS_2025/WS_2025_14.jpeg"><img src="/assets/images/WS_2025/WS_2025_14.jpeg" alt="WS 2025"></a>
+      <a href="/assets/images/WS_2025/WS_2025_15.jpeg"><img src="/assets/images/WS_2025/WS_2025_15.jpeg" alt="WS 2025"></a>
+      <a href="/assets/images/WS_2025/WS_2025_16.jpeg"><img src="/assets/images/WS_2025/WS_2025_16.jpeg" alt="WS 2025"></a>
+      <a href="/assets/images/WS_2025/WS_2025_17.jpeg"><img src="/assets/images/WS_2025/WS_2025_17.jpeg" alt="WS 2025"></a>
+      <a href="/assets/images/WS_2025/WS_2025_18.jpeg"><img src="/assets/images/WS_2025/WS_2025_18.jpeg" alt="WS 2025"></a>
+      <a href="/assets/images/WS_2025/WS_2025_19.jpeg"><img src="/assets/images/WS_2025/WS_2025_19.jpeg" alt="WS 2025"></a>
+      <a href="/assets/images/WS_2025/WS_2025_20.jpeg"><img src="/assets/images/WS_2025/WS_2025_20.jpeg" alt="WS 2025"></a>
+      <a href="/assets/images/WS_2025/WS_2025_21.jpeg"><img src="/assets/images/WS_2025/WS_2025_21.jpeg" alt="WS 2025"></a>
+    </div>
+  </details>
 </section>
-
-<!-- ===== NEW HIGHLIGHT: EURO 2025 GALLERY ===== -->
-
 <section class="section highlight-box">
   <h2>Photo Gallery: EURO Conference 2025</h2>
 
-  <div class="gallery">
-    <a href="/assets/images/EURO2025/EURO_2025_1.jpeg"><img src="/assets/images/EURO2025/EURO_2025_1.jpeg" alt="EURO 2025"></a>
-    <a href="/assets/images/EURO2025/EURO_2025_2.jpeg"><img src="/assets/images/EURO2025/EURO_2025_2.jpeg" alt="EURO 2025"></a>
-    <a href="/assets/images/EURO2025/EURO_2025_3.jpeg"><img src="/assets/images/EURO2025/EURO_2025_3.jpeg" alt="EURO 2025"></a>
-    <a href="/assets/images/EURO2025/EURO_2025_4.jpeg"><img src="/assets/images/EURO2025/EURO_2025_4.jpeg" alt="EURO 2025"></a>
-    <a href="/assets/images/EURO2025/EURO_2025_5.jpeg"><img src="/assets/images/EURO2025/EURO_2025_5.jpeg" alt="EURO 2025"></a>
-    <a href="/assets/images/EURO2025/EURO_2025_6.jpeg"><img src="/assets/images/EURO2025/EURO_2025_6.jpeg" alt="EURO 2025"></a>
-    <a href="/assets/images/EURO2025/EURO_2025_7.jpeg"><img src="/assets/images/EURO2025/EURO_2025_7.jpeg" alt="EURO 2025"></a>
-    <a href="/assets/images/EURO2025/EURO_2025_8.jpeg"><img src="/assets/images/EURO2025/EURO_2025_8.jpeg" alt="EURO 2025"></a>
-    <a href="/assets/images/EURO2025/EURO_2025_9.jpeg"><img src="/assets/images/EURO2025/EURO_2025_9.jpeg" alt="EURO 2025"></a>
-    <a href="/assets/images/EURO2025/EURO_2025_10.jpeg"><img src="/assets/images/EURO2025/EURO_2025_10.jpeg" alt="EURO 2025"></a>
-    <a href="/assets/images/EURO2025/EURO_2025_11.jpeg"><img src="/assets/images/EURO2025/EURO_2025_11.jpeg" alt="EURO 2025"></a>
-    <a href="/assets/images/EURO2025/EURO_2025_12.jpeg"><img src="/assets/images/EURO2025/EURO_2025_12.jpeg" alt="EURO 2025"></a>
-    <a href="/assets/images/EURO2025/EURO_2025_13.jpeg"><img src="/assets/images/EURO2025/EURO_2025_13.jpeg" alt="EURO 2025"></a>
-  </div>
+  <details class="gallery-details">
+    <summary>View photos (13)</summary>
+
+    <div class="gallery">
+      <a href="/assets/images/EURO2025/EURO_2025_1.jpeg"><img src="/assets/images/EURO2025/EURO_2025_1.jpeg" alt="EURO 2025"></a>
+      <a href="/assets/images/EURO2025/EURO_2025_2.jpeg"><img src="/assets/images/EURO2025/EURO_2025_2.jpeg" alt="EURO 2025"></a>
+      <a href="/assets/images/EURO2025/EURO_2025_3.jpeg"><img src="/assets/images/EURO2025/EURO_2025_3.jpeg" alt="EURO 2025"></a>
+      <a href="/assets/images/EURO2025/EURO_2025_4.jpeg"><img src="/assets/images/EURO2025/EURO_2025_4.jpeg" alt="EURO 2025"></a>
+      <a href="/assets/images/EURO2025/EURO_2025_5.jpeg"><img src="/assets/images/EURO2025/EURO_2025_5.jpeg" alt="EURO 2025"></a>
+      <a href="/assets/images/EURO2025/EURO_2025_6.jpeg"><img src="/assets/images/EURO2025/EURO_2025_6.jpeg" alt="EURO 2025"></a>
+      <a href="/assets/images/EURO2025/EURO_2025_7.jpeg"><img src="/assets/images/EURO2025/EURO_2025_7.jpeg" alt="EURO 2025"></a>
+      <a href="/assets/images/EURO2025/EURO_2025_8.jpeg"><img src="/assets/images/EURO2025/EURO_2025_8.jpeg" alt="EURO 2025"></a>
+      <a href="/assets/images/EURO2025/EURO_2025_9.jpeg"><img src="/assets/images/EURO2025/EURO_2025_9.jpeg" alt="EURO 2025"></a>
+      <a href="/assets/images/EURO2025/EURO_2025_10.jpeg"><img src="/assets/images/EURO2025/EURO_2025_10.jpeg" alt="EURO 2025"></a>
+      <a href="/assets/images/EURO2025/EURO_2025_11.jpeg"><img src="/assets/images/EURO2025/EURO_2025_11.jpeg" alt="EURO 2025"></a>
+      <a href="/assets/images/EURO2025/EURO_2025_12.jpeg"><img src="/assets/images/EURO2025/EURO_2025_12.jpeg" alt="EURO 2025"></a>
+      <a href="/assets/images/EURO2025/EURO_2025_13.jpeg"><img src="/assets/images/EURO2025/EURO_2025_13.jpeg" alt="EURO 2025"></a>
+    </div>
+  </details>
 </section>
