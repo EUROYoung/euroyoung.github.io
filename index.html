@@ -44,8 +44,17 @@ header:
   color: #1f3c88;
 }
 
-.gallery-details summary::marker {
-  font-size: 1.1rem;
+/* Preview spacing */
+.gallery-preview {
+  margin-top: 1rem;
+}
+
+/* Expandable section */
+.gallery-details summary {
+  cursor: pointer;
+  font-weight: 600;
+  margin: 0.8rem 0 1rem 0;
+  color: #1f3c88;
 }
 
 .gallery-details[open] summary {
@@ -265,14 +274,19 @@ header:
 <section class="section highlight-box">
   <h2>Photo Gallery: EUROYoung Workshop 2025</h2>
 
+  <!-- Preview (first 4 images) -->
+  <div class="gallery gallery-preview">
+    <a href="/assets/images/WS_2025/WS_2025_1.jpeg"><img src="/assets/images/WS_2025/WS_2025_1.jpeg" alt="WS 2025"></a>
+    <a href="/assets/images/WS_2025/WS_2025_2.jpeg"><img src="/assets/images/WS_2025/WS_2025_2.jpeg" alt="WS 2025"></a>
+    <a href="/assets/images/WS_2025/WS_2025_3.jpeg"><img src="/assets/images/WS_2025/WS_2025_3.jpeg" alt="WS 2025"></a>
+    <a href="/assets/images/WS_2025/WS_2025_4.jpeg"><img src="/assets/images/WS_2025/WS_2025_4.jpeg" alt="WS 2025"></a>
+  </div>
+
+  <!-- Expandable -->
   <details class="gallery-details">
-    <summary>View photos (21)</summary>
+    <summary>View all photos (21)</summary>
 
     <div class="gallery">
-      <a href="/assets/images/WS_2025/WS_2025_1.jpeg"><img src="/assets/images/WS_2025/WS_2025_1.jpeg" alt="WS 2025"></a>
-      <a href="/assets/images/WS_2025/WS_2025_2.jpeg"><img src="/assets/images/WS_2025/WS_2025_2.jpeg" alt="WS 2025"></a>
-      <a href="/assets/images/WS_2025/WS_2025_3.jpeg"><img src="/assets/images/WS_2025/WS_2025_3.jpeg" alt="WS 2025"></a>
-      <a href="/assets/images/WS_2025/WS_2025_4.jpeg"><img src="/assets/images/WS_2025/WS_2025_4.jpeg" alt="WS 2025"></a>
       <a href="/assets/images/WS_2025/WS_2025_5.jpeg"><img src="/assets/images/WS_2025/WS_2025_5.jpeg" alt="WS 2025"></a>
       <a href="/assets/images/WS_2025/WS_2025_6.jpeg"><img src="/assets/images/WS_2025/WS_2025_6.jpeg" alt="WS 2025"></a>
       <a href="/assets/images/WS_2025/WS_2025_7.jpeg"><img src="/assets/images/WS_2025/WS_2025_7.jpeg" alt="WS 2025"></a>
@@ -293,17 +307,22 @@ header:
     </div>
   </details>
 </section>
+
 <section class="section highlight-box">
   <h2>Photo Gallery: EURO Conference 2025</h2>
 
+  <!-- Preview -->
+  <div class="gallery gallery-preview">
+    <a href="/assets/images/EURO2025/EURO_2025_1.jpeg"><img src="/assets/images/EURO2025/EURO_2025_1.jpeg" alt="EURO 2025"></a>
+    <a href="/assets/images/EURO2025/EURO_2025_2.jpeg"><img src="/assets/images/EURO2025/EURO_2025_2.jpeg" alt="EURO 2025"></a>
+    <a href="/assets/images/EURO2025/EURO_2025_3.jpeg"><img src="/assets/images/EURO2025/EURO_2025_3.jpeg" alt="EURO 2025"></a>
+    <a href="/assets/images/EURO2025/EURO_2025_4.jpeg"><img src="/assets/images/EURO2025/EURO_2025_4.jpeg" alt="EURO 2025"></a>
+  </div>
+
   <details class="gallery-details">
-    <summary>View photos (13)</summary>
+    <summary>View all photos (13)</summary>
 
     <div class="gallery">
-      <a href="/assets/images/EURO2025/EURO_2025_1.jpeg"><img src="/assets/images/EURO2025/EURO_2025_1.jpeg" alt="EURO 2025"></a>
-      <a href="/assets/images/EURO2025/EURO_2025_2.jpeg"><img src="/assets/images/EURO2025/EURO_2025_2.jpeg" alt="EURO 2025"></a>
-      <a href="/assets/images/EURO2025/EURO_2025_3.jpeg"><img src="/assets/images/EURO2025/EURO_2025_3.jpeg" alt="EURO 2025"></a>
-      <a href="/assets/images/EURO2025/EURO_2025_4.jpeg"><img src="/assets/images/EURO2025/EURO_2025_4.jpeg" alt="EURO 2025"></a>
       <a href="/assets/images/EURO2025/EURO_2025_5.jpeg"><img src="/assets/images/EURO2025/EURO_2025_5.jpeg" alt="EURO 2025"></a>
       <a href="/assets/images/EURO2025/EURO_2025_6.jpeg"><img src="/assets/images/EURO2025/EURO_2025_6.jpeg" alt="EURO 2025"></a>
       <a href="/assets/images/EURO2025/EURO_2025_7.jpeg"><img src="/assets/images/EURO2025/EURO_2025_7.jpeg" alt="EURO 2025"></a>
@@ -316,3 +335,4 @@ header:
     </div>
   </details>
 </section>
+
