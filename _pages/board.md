@@ -108,11 +108,15 @@ classes: wide
 
 </div>
 
-## Previous Board Members
+## Founder of the forum
+  <div class="board-card">
+    <img src="/assets/images/albertosantini.webp" alt="Alan Osorio Mora">
+    <div class="board-name">
+      <a href="https://santini.in/">
+        Alberto Santini
+      </a>
+    </div>
+    <div class="board-affiliation">Universitat Pompeu Fabra, Spain</div>
+  </div>
+  
 
-<ul>
-  <li>
-    <a href="https://santini.in/"><strong>Alberto Santini</strong></a>,
-    Universitat Pompeu Fabra, Spain
-  </li>
-</ul>
