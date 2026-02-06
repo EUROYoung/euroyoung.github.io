@@ -144,68 +144,40 @@ The first draft of the program will be avaible in June, and all the details in J
 <h1 id="abstracts">Abstracts</h1>
 The template for the abstracts and other information regarding the submissions will be available soon!
 
-{% include gallery id="gallery4" caption="More to discover" %}
-
 <h1 id="venue">Venue</h1>
 
 The workshop will take place at the __Università della Svizzera Italiana and Scuola Universitaria Superiore della Svizzera Italiana__.
 
 <img src="assets/images/lugano26/1_campus_est.jpg" alt="" width="500" height="300">
 
-You can take a look of the surroundings of the _Dipartimento di Ingegneria Elettrica e Tecnologie dell'Informazione_ in the following map.
+You can use Google Maps, just go <a href="https://maps.app.goo.gl/FwYrpEWTz2rPZkHQ8"> here </a>.
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3019.1470152756697!2d14.19197287646634!3d40.82473437137678!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x133b0934a2dc956d%3A0x7a6e276b1d971f2f!2sUniversit%C3%A0%20degli%20Studi%20di%20Napoli%20Federico%20II%20-%20%22Scuola%20Politecnica%20e%20delle%20Scienze%20di%20Base%22!5e0!3m2!1sit!2sit!4v1740389147217!5m2!1sit!2sit" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+## Getting to Lugano
 
-# Getting to Naples and the University
+Arriving in Lugano from other European countries is straightforward thanks to Switzerland’s well-connected transport network. 
+The most convenient way is typically by air ✈️ to Milan or Zurich Airport, depending on your departure city.
 
-Arriving in Naples from other European countries is quite convenient, thanks to its well-connected transportation network. The best way to get there is clearly by air ✈️ to Naples International Airport (NAP).
+### From Milan
+In Milan, there are three different airports, all of which are 
+connected to the Milano Centrale train station:
+<li><strong>Linate:</strong> You can use metro line M4 (blue) 
+to reach S. Ambrogio station. There, you can take metro line M2 (green) to Milano Centrale.
+Additionally, there are bus options available, which you can check here: <a href="https://www.milanolinate-airport.com/it/da-per/in-bus" target="_blank">Linate Bus Options</a>.</li>
+<li><strong>Malpensa:</strong> We suggest taking the "Malpensa Express," which directly arrives at Milano Centrale. 
+You can purchase tickets here: <a href="https://www.malpensaexpress.it/" target="_blank">Malpensa Express Tickets</a>.</li>
+<li><strong>Orio al Serio:</strong> We recommend using the OrioShuttle to reach Milano Centrale. More information can be found at <a href="http://www.orioshuttle.com/" target="_blank">OrioShuttle</a>. Other services can be found at the following link: <a href="https://www.milanbergamoairport.it/en/bus/" target="_blank">Bergamo Airport Bus Services</a>.</li>
 
-**Naples International Airport (Aeroporto di Napoli-Capodichino, NAP)** is the main airport serving the city. It has direct flights from major European cities, including London, Paris, Madrid, Berlin, Amsterdam, Zurich, Vienna, and Barcelona. Budget airlines like Ryanair, easyJet, and Wizz Air offer affordable flights. From the airport, you can reach the city center in 15-20 minutes via:
+Once in Milano Centrale, take the <a href="https://www.tilo.ch/"> TiLo</a> , a direct train to Lugano.
 
-- 🚌 **Alibus shuttle (€5):** a direct shuttle bus to Naples Central Station (Piazza Garibaldi) and the port.  
-- 🚕 **Taxi:** a taxi from the airport to the city center has a fixed fare of around €25. Note that rideshare apps like Uber are **not legal** in Italy 🚫!  
-
----
-
-## How to Reach the University (Piazzale Tecchio 80) 🏫
-
-**From Naples International Airport (NAP):**  
-- 🚌🚆 **By Bus and Metro:** Take the Alibus shuttle to Naples Central Station (Piazza Garibaldi). From there, take Metro Line 2 🚆 towards Pozzuoli and get off at the *Campi Flegrei* stop. The university is a 5-minute walk from the station. The total travel time is approximately 40–60 minutes, depending on traffic and connections.  
-- 🚕 **By Taxi:** A taxi from the airport to Piazzale Tecchio will cost approximately €30–€40 and the ride will take about 20–30 minutes, depending on traffic.  
-
-**From Naples Central Station (Piazza Garibaldi):**  
-- 🚆 **By Metro:** The most convenient way is to take Metro Line 2 towards Pozzuoli and alight at the *Campi Flegrei* stop. The journey takes about 15–20 minutes. From the station, the university is a short walk of around 5 minutes.  
-
----
-
-## Getting to Your Hotel 🏨
-
-**Hotel Nuvò** is located at *Via Nuova Agnano, 5, 80125 Napoli NA.*  
-
-**From Naples International Airport (NAP):**  
-- 🚌🚆 **By Bus and Metro:** Take the Alibus shuttle to Naples Central Station. From there, take Metro Line 2 🚆 towards Pozzuoli and get off at the *Bagnoli-Agnano Terme* stop. From the station, it's about a 15-minute walk 🚶 to the hotel. Total travel time is around 60–75 minutes.  
-- 🚕 **By Taxi:** A taxi ride from the airport to the hotel will take about 25–35 minutes and cost approximately €30–€40.  
-
-**From Naples Central Station (Piazza Garibaldi):**  
-- 🚆 **By Metro:** Take Metro Line 2 towards Pozzuoli and get off at the *Bagnoli-Agnano Terme* stop. The journey takes about 20 minutes. The hotel is a 15-minute walk 🚶 from the station.  
-
----
-
-## How to Get from Your Hotel to the University 🏨➡️🏫
-
-Your hotel, **Hotel Nuvò**, is located at *Via Nuova Agnano, 5*, which is relatively close to the university campus at *Piazzale Tecchio 80*.  
-
-- 🚶 **On Foot:** Walking is a viable option. The walk is approximately 2 kilometers and will take around 25 minutes. It's a straightforward route that provides a nice walk through the local area.  
-- 🚆 **By Public Transport:** The fastest way to reach the university is by using the local **Cumana train line**. The journey is quick.  
-  - 🚶 Walk to the **Agnano Cumana station** (approximately 2 minutes).  
-  - 🚆 Take the Cumana train for two stops, getting off at the **Mostra–Stadio Maradona** station. The ride itself is only a few minutes.  
-  - 🚶 From the station, the university is just a short 2–3 minute walk away.  
-
-The entire trip, including walking, takes approximately **10 minutes** ⏱️.
+### From Zurich
+You can check train options directly on the <a href="https://www.sbb.ch/"> SBB website</a>.
+From Zurich Airport, take the first train to Zurich HB, and from 
+there you can catch one of the several direct trains to Lugano.
 
 
+## Accomodation
+To be defined soon. 
 
-{% include gallery id="gallery3" caption="Monuments (castles, cathedral)" %}
 
 ## What does the fee include?
 
@@ -214,27 +186,38 @@ The fee covers:
 
 __Accommodation in shared rooms (3 guests per room) for 3 nights__ (from Wednesday to Friday).
 
-__Meals during the workshop__ (from Wednesday's dinner to Friday's dinner, including the respective breakfast, lunch and dinner during the mentioned period).
+__Meals during the workshop__ .
 
+Other types of accomodations are of course possible in the city of 
+Lugano, but these are not covered by the Workshop. 
 
-Participants who wish to stay in a __single-use double room or a double room with an accompanying person__ should contact the hotel directly. 
-Please ensure to mention the EUROYoung Workshop October 2025 in your email and include us in CC so we can track participant accommodations.
+## Tips
+Please note that Lugano is outside the EU, so there are a few practical 
+things to keep in mind:
 
-__Important__: These accommodation costs will not be covered by us. We have arranged the following special rates with the hotel (subject to availability):
+💰Currency: Switzerland uses Swiss Francs (CHF), not Euros. 
+Most businesses accept credit/debit cards and electronic payments, 
+but to get the best exchange rate, we recommend pre-loading a 
+multi-currency card like <a href="https://www.revolut.com/"> Revolut</a>. 
+You can exchange up to €1,000 per month without extra fees.
 
-Single-use double room: €80 per night
-Double room: €90 per night
+📱Mobile / Phone: Roaming charges may apply, except with some 
+providers (e.g., Fasweb). A convenient option is to purchase a 
+temporary eSIM for Switzerland through services such as 
+<a href="https://www.airalo.com/"> Airalo</a> or 
+<a href="https://mobimatter.com/"> Mobimatter </a>.
 
-Participants are, of course, free to choose any other accommodation that better suits their needs.
-
-The hotel's website can be accessed [HERE](https://www.hotelnuvo.it/it/).
+💳 Most shops, restaurants, and public transport accept 
+contactless payments and Euro. You probably don't need to get cash.
 
 
 <h1 id="contact">Contact</h1>
-If you have any query, write us! _euroyoung@euro-online.org_
+If you have any query, write us! 
 
-<h1 id="sponsors">Sponsors</h1>
-We highly appreciate the support of the following sponsors.
+📧 euroyoung2026@usi-supsi.ch
+
+<h1 id="sponsors">Sponsors and Supporters</h1>
+We highly appreciate the support of
 
 <div style="
   display: flex;
@@ -244,12 +227,7 @@ We highly appreciate the support of the following sponsors.
   gap: 30px;
   padding: 20px;
 ">
-  <img src="/assets/images/OPSLab.png" alt="OPS" style="max-height: 100px; object-fit: contain;">
-  <img src="/assets/images/logo_scuola.png" alt="politecnico" style="max-height: 90px; object-fit: contain;">
   <img src="/assets/images/EURO.png" alt="EURO" style="max-height: 120px; object-fit: contain;">
-  <img src="/assets/images/otherlogo.png" alt="other" style="max-height: 120px; object-fit: contain;">
-  <img src="/assets/images/UNINA.jpeg" alt="UNINA" style="max-height: 120px; object-fit: contain;">
-  <img src="/assets/images/AIRO.png" alt="AIRO" style="max-height: 90px; object-fit: contain;">
-  <img src="/assets/images/ayroyoung.png" alt="AIROYoung" style="max-height: 90px; object-fit: contain;">
-  <img src="/assets/images/hexaly-orange.svg" alt="hexaly" style="max-height: 90px; object-fit: contain;">
+  <img src="/assets/images/lugano26/usi.png" alt="usi" style="max-height: 120px; object-fit: contain;">
+  <img src="/assets/images/lugano26/supsi.png" alt="supsi" style="max-height: 120px; object-fit: contain;">
 </div>
