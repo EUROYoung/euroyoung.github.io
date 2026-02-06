@@ -7,19 +7,19 @@ toc_sticky: false
 toc_label: "Content"
 author_profile: false
 header:
-  overlay_image: assets/images/lugano26/lugano1
+  overlay_image: /assets/images/lugano26/lugano1.jpg
 permalink: /lugano2026/
 gallery:
-  - url: assets/images/lugano26/lugano2
-    image_path: assets/images/lugano26/lugano2
+  - url: /assets/images/lugano26/lugano2
+    image_path: ../assets/images/lugano26/lugano2.jpg
     alt: "placeholder image 1"
     title: "Image 1 title caption"
   - url: assets/images/lugano26/lugano3
-    image_path: assets/images/lugano26/lugano3
+    image_path: assets/images/lugano26/lugano3.jpg
     alt: "placeholder image 2"
     title: "Image 2 title caption"
-  - url: assets/images/lugano26/lugano4
-    image_path: assets/images/lugano26/lugano4
+  - url: assets/images/lugano26/lugano4.jpg
+    image_path: assets/images/lugano26/lugano4.jpg
     alt: "placeholder image 4"
     title: "Image 1 title caption"
 
@@ -127,7 +127,7 @@ Luis Felipe Vargas (<em>Scuola Universitaria Superiore della Svizzera Italiana, 
 Eleonora Vercesi (<em>Università della Svizzera Italiana, Dalle Molle Institute of Artificial Intelligence - USI, SUPSI</em>)<br>
 
 ## Organizing committee
-The local committee is made of members of the <a href="https://oc.idsia.ch/"> OC Group </a> and the group lead by <a href=https://www.supsi.ch/matteo-salani7> Matteo Salani </a>.
+The local committee is made of members of the <a href="https://oc.idsia.ch/"> OC Group </a> and the <a href="https://www.supsi.ch/en/web/idsia/intelligent-control-for-networked-systems"> Intelligent Systems group </a>
 
 Alex Bortolotti (<em>Scuola Universitaria Superiore della Svizzera Italiana, Dalle Molle Institute of Artificial Intelligence - USI, SUPSI</em>)<br>
 Koppany Encz (<em>Università della Svizzera Italiana, Dalle Molle Institute of Artificial Intelligence - USI, SUPSI</em>)<br>
