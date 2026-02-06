@@ -108,27 +108,33 @@ __Registration__ 1 May 2026 - 1 June 2026
 
 __Workshop__ 13 October 2026 - 16 October 2026
 
-({% include gallery id="gallery" caption="Some views of Lugano" %})
+{% include gallery id="gallery" caption="Some views of Lugano" %}
 
 <h1 id="speakers">Speakers</h1>
 
 The names of the invited speakers will be available soon!
 
-## Scientific committee
+<h1 id="speakers">Committees</h1>
+The committee comprises the EUROYoung Board and members of the 
+<a href="https://oc.idsia.ch/"> OC Group </a> and the 
+<a href="https://www.supsi.ch/en/web/idsia/intelligent-control-for-networked-systems"> 
+Intelligent Systems group </a>.
+
+## Scientific Committee
+
 ### EUROYoung board members
 Marta Baldomero-Naranjo (<em>Universidad de Cádiz, Spain</em>), co-chair<br>
 Yasmine Beck (<em>ESSEC Business School, France</em>)<br>
 Laura Davila-Pena (<em>Universidade de Santiago de Compostela, Spain</em>)<br>
 Andrea Mancuso (<em>University of Naples Federico II, Italy</em>), co-chair<br>
 Alan Osorio-Mora (<em>RPTU Kaiserslautern-Landau, Germany</em>)<br>
+
 ### Members of the local organizing committee
 Saverio Basso (<em>Scuola Universitaria Superiore della Svizzera Italiana, Dalle Molle Institute of Artificial Intelligence - USI, SUPSI</em>)<br>
 Luis Felipe Vargas (<em>Scuola Universitaria Superiore della Svizzera Italiana, Dalle Molle Institute of Artificial Intelligence - USI, SUPSI</em>)<br>
 Eleonora Vercesi (<em>Università della Svizzera Italiana, Dalle Molle Institute of Artificial Intelligence - USI, SUPSI</em>)<br>
 
 ## Organizing committee
-The local committee is made of members of the <a href="https://oc.idsia.ch/"> OC Group </a> and the <a href="https://www.supsi.ch/en/web/idsia/intelligent-control-for-networked-systems"> Intelligent Systems group </a>
-
 Alex Bortolotti (<em>Scuola Universitaria Superiore della Svizzera Italiana, Dalle Molle Institute of Artificial Intelligence - USI, SUPSI</em>)<br>
 Koppany Encz (<em>Università della Svizzera Italiana, Dalle Molle Institute of Artificial Intelligence - USI, SUPSI</em>)<br>
 Stefano Huber (<em>Università della Svizzera Italiana, Dalle Molle Institute of Artificial Intelligence - USI, SUPSI</em>)<br>
@@ -144,18 +150,18 @@ The first draft of the program will be avaible in June, and all the details in J
 <h1 id="abstracts">Abstracts</h1>
 The template for the abstracts and other information regarding the submissions will be available soon!
 
-<h1 id="venue">Venue</h1>
+<h1 id="venue">Venue and practical information</h1>
 
 The workshop will take place at the __Università della Svizzera Italiana and Scuola Universitaria Superiore della Svizzera Italiana__.
 
-<img src="assets/images/lugano26/1_campus_est.jpg" alt="" width="500" height="300">
+<img src="/assets/images/lugano26/1_campus_est.jpg" alt="" width="500" height="300">
 
 You can use Google Maps, just go <a href="https://maps.app.goo.gl/FwYrpEWTz2rPZkHQ8"> here </a>.
 
 ## Getting to Lugano
 
 Arriving in Lugano from other European countries is straightforward thanks to Switzerland’s well-connected transport network. 
-The most convenient way is typically by air ✈️ to Milan or Zurich Airport, depending on your departure city.
+The most convenient way is typically by air to Milan or Zurich Airport, depending on your departure city.
 
 ### From Milan
 In Milan, there are three different airports, all of which are 
@@ -166,6 +172,7 @@ Additionally, there are bus options available, which you can check here: <a href
 <li><strong>Malpensa:</strong> We suggest taking the "Malpensa Express," which directly arrives at Milano Centrale. 
 You can purchase tickets here: <a href="https://www.malpensaexpress.it/" target="_blank">Malpensa Express Tickets</a>.</li>
 <li><strong>Orio al Serio:</strong> We recommend using the OrioShuttle to reach Milano Centrale. More information can be found at <a href="http://www.orioshuttle.com/" target="_blank">OrioShuttle</a>. Other services can be found at the following link: <a href="https://www.milanbergamoairport.it/en/bus/" target="_blank">Bergamo Airport Bus Services</a>.</li>
+
 
 Once in Milano Centrale, take the <a href="https://www.tilo.ch/"> TiLo</a> , a direct train to Lugano.
 
