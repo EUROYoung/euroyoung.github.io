@@ -87,15 +87,14 @@ gallery4:
 </nav>
 
 <h1 id="about">About</h1>
-Join us for an exciting Workshop on Operational Research in the beautiful city of Naples, where young researchers will have the opportunity to engage with leading experts in the field. This event will feature plenary talks by top researchers, providing valuable insights into cutting-edge advancements and real-world applications. Beyond the academic sessions, enjoy networking opportunities and social activities, all set against the stunning backdrop of Naples, a city rich in history, culture, and cuisine. Don't miss this chance to expand your knowledge, connect with peers, and experience the charm of one of Italy’s most vibrant cities!
-
+Join us for an exciting Workshop on Operational Research in the picturesque city of Lugano, where young researchers will have the chance to engage with leading experts in the field. The event will feature plenary talks by top researchers, offering valuable insights into the latest advancements and practical applications of operational research. Beyond the academic sessions, participants can enjoy networking opportunities and social activities, all set against the scenic backdrop of Lugano, a city known for its stunning lakeside views, charming streets, and Swiss-Italian culture. Don’t miss this opportunity to expand your knowledge, connect with peers, and experience the unique charm of Lugano!
 
 <h1 id="dates">Dates</h1>
-__Abstract Submission__ 10 March 2025 (10:00 AM CET time) - <strike>15 April 2025</strike> 25 April 2025. 
+__Abstract Submission__ 13 March 2026  <a href="https://www.timeanddate.com/time/zones/aoe"> (11:59 PM AoE)  </a>.
 
-__Registration__ 1 May 2025 - 1 June 2025 
+__Registration__ 1 May 2026 - 1 June 2026 
 
-__Workshop__ 15 October 2025 - 17 October 2025
+__Workshop__ 13 October 2026 - 16 October 2026
 
 {% include gallery id="gallery" caption="Seaside, Mount Vesuvius" %}
 
@@ -105,73 +104,127 @@ __Workshop__ 15 October 2025 - 17 October 2025
 Meet our confirmed speakers!
 Click on the pictures for more details.
 
-<style>
-  .speaker-grid {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
-    gap: 2em;
-    margin: 2em 0;
-  }
+[//]: # (<style>)
 
-  .speaker-card {
-    text-align: center;
-    width: 180px;
-  }
+[//]: # (  .speaker-grid {)
 
-  .speaker-card img {
-    width: 100%;
-    height: auto;
-    border-radius: 12px;
-    cursor: pointer;
-    box-shadow: 0 2px 6px rgba(0,0,0,0.2);
-    transition: transform 0.2s ease;
-  }
+[//]: # (    display: flex;)
 
-  .speaker-card img:hover {
-    transform: scale(1.05);
-  }
+[//]: # (    flex-wrap: wrap;)
 
-  .speaker-card p {
-    margin-top: 0.5em;
-    font-weight: bold;
-  }
-</style>
+[//]: # (    justify-content: center;)
 
-<div class="speaker-grid">
+[//]: # (    gap: 2em;)
 
-  <div class="speaker-card">
-    <a href="/speakers/speaker1/">
-      <img src="/assets/images/MBoccia2.jpeg" alt="Maurizio Boccia">
-    </a>
-    <p>Maurizio Boccia</p>
-  </div>
+[//]: # (    margin: 2em 0;)
 
-  <div class="speaker-card">
-    <a href="/speakers/speaker2/">
-      <img src="/assets/images/DoloresRomeroMorales2.jpg" alt="Dolores Romero Morales">
-    </a>
-    <p>Dolores Romero Morales</p>
-  </div>
+[//]: # (  })
 
-  <div class="speaker-card">
-    <a href="/speakers/speaker3/">
-      <img src="/assets/images/MartinSchmidt2.jpg" alt="Martin Schmidt">
-    </a>
-    <p>Martin Schmidt</p>
-  </div>
+[//]: # ()
+[//]: # (  .speaker-card {)
 
-  <div class="speaker-card">
-    <a href="/speakers/speaker4/">
-      <img src="/assets/images/MGrazia2.jpg" alt="Maria Grazia Speranza">
-    </a>
-    <p>Maria Grazia Speranza</p>
-  </div>
+[//]: # (    text-align: center;)
 
+[//]: # (    width: 180px;)
 
-  <!-- Add more speaker cards as needed -->
+[//]: # (  })
 
-</div>
+[//]: # ()
+[//]: # (  .speaker-card img {)
+
+[//]: # (    width: 100%;)
+
+[//]: # (    height: auto;)
+
+[//]: # (    border-radius: 12px;)
+
+[//]: # (    cursor: pointer;)
+
+[//]: # (    box-shadow: 0 2px 6px rgba&#40;0,0,0,0.2&#41;;)
+
+[//]: # (    transition: transform 0.2s ease;)
+
+[//]: # (  })
+
+[//]: # ()
+[//]: # (  .speaker-card img:hover {)
+
+[//]: # (    transform: scale&#40;1.05&#41;;)
+
+[//]: # (  })
+
+[//]: # ()
+[//]: # (  .speaker-card p {)
+
+[//]: # (    margin-top: 0.5em;)
+
+[//]: # (    font-weight: bold;)
+
+[//]: # (  })
+
+[//]: # (</style>)
+
+[//]: # ()
+[//]: # (<div class="speaker-grid">)
+
+[//]: # ()
+[//]: # (  <div class="speaker-card">)
+
+[//]: # (    <a href="/speakers/speaker1/">)
+
+[//]: # (      <img src="/assets/images/MBoccia2.jpeg" alt="Maurizio Boccia">)
+
+[//]: # (    </a>)
+
+[//]: # (    <p>Maurizio Boccia</p>)
+
+[//]: # (  </div>)
+
+[//]: # ()
+[//]: # (  <div class="speaker-card">)
+
+[//]: # (    <a href="/speakers/speaker2/">)
+
+[//]: # (      <img src="/assets/images/DoloresRomeroMorales2.jpg" alt="Dolores Romero Morales">)
+
+[//]: # (    </a>)
+
+[//]: # (    <p>Dolores Romero Morales</p>)
+
+[//]: # (  </div>)
+
+[//]: # ()
+[//]: # (  <div class="speaker-card">)
+
+[//]: # (    <a href="/speakers/speaker3/">)
+
+[//]: # (      <img src="/assets/images/MartinSchmidt2.jpg" alt="Martin Schmidt">)
+
+[//]: # (    </a>)
+
+[//]: # (    <p>Martin Schmidt</p>)
+
+[//]: # (  </div>)
+
+[//]: # ()
+[//]: # (  <div class="speaker-card">)
+
+[//]: # (    <a href="/speakers/speaker4/">)
+
+[//]: # (      <img src="/assets/images/MGrazia2.jpg" alt="Maria Grazia Speranza">)
+
+[//]: # (    </a>)
+
+[//]: # (    <p>Maria Grazia Speranza</p>)
+
+[//]: # (  </div>)
+
+[//]: # ()
+[//]: # ()
+[//]: # (  <!-- Add more speaker cards as needed -->)
+
+[//]: # ()
+[//]: # (</div>)
 
 
 <h1 id="committees">Committees</h1>
