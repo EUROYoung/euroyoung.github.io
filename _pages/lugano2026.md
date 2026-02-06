@@ -7,19 +7,19 @@ toc_sticky: false
 toc_label: "Content"
 author_profile: false
 header:
-  overlay_image: assets/images/lugano26/luganocover.jpg
+  overlay_image: assets/images/lugano26/lugano1
 permalink: /lugano2026/
 gallery:
-  - url: /_pages/images/lugano26/luganocover.jpg
-    image_path: _pages/images/lugano26/luganocover.jpg
+  - url: assets/images/lugano26/lugano2
+    image_path: assets/images/lugano26/lugano2
     alt: "placeholder image 1"
     title: "Image 1 title caption"
-  - url: /assets/images/napoli2.jpeg
-    image_path: /assets/images/napoli2.jpeg
+  - url: assets/images/lugano26/lugano3
+    image_path: assets/images/lugano26/lugano3
     alt: "placeholder image 2"
     title: "Image 2 title caption"
-  - url: /assets/images/napoli5.jpeg
-    image_path: /assets/images/napoli5.jpeg
+  - url: assets/images/lugano26/lugano4
+    image_path: assets/images/lugano26/lugano4
     alt: "placeholder image 4"
     title: "Image 1 title caption"
 
@@ -108,7 +108,7 @@ __Registration__ 1 May 2026 - 1 June 2026
 
 __Workshop__ 13 October 2026 - 16 October 2026
 
-[//]: # ({% include gallery id="gallery" caption="Seaside, Mount Vesuvius" %})
+({% include gallery id="gallery" caption="Some views of Lugano" %})
 
 <h1 id="speakers">Speakers</h1>
 
