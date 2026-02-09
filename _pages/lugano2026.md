@@ -1,6 +1,6 @@
 ---
 title: "The 6<sup>th</sup> EUROYoung Workshop - Lugano 2026"
-layout: single
+layout: splash
 classes: wide
 toc: false
 toc_sticky: false
