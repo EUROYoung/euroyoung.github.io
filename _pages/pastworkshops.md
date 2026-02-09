@@ -18,6 +18,7 @@ With these workshops we want:
 
   Check the previous events.
 
+* [Naples, Italy](/_pages/naples2025/), 15 - 17 October 2025.
 * [Barcelona, Spain](/_pages/phdschool24/), 4-6 September 2024.
 * [Cergy (Paris), France](/_pages/workshop23/), 5-6 June 2023.
 * [Porto, Portugal](/_pages/workshop22/), 21-22 June 2022.
