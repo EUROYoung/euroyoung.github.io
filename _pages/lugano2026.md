@@ -1,11 +1,11 @@
 ---
 title: "The 6<sup>th</sup> EUROYoung Workshop - Lugano 2026"
-layout: splash
+layout: single
 classes: wide
 toc: false
 toc_sticky: false
 toc_label: "Content"
-author_profile: false
+author_profile: true
 header:
   overlay_image: /assets/images/lugano26/lugano1.jpg
 permalink: /lugano2026/
