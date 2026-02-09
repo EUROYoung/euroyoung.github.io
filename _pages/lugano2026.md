@@ -87,10 +87,10 @@ gallery4:
 </nav>
 
 <h1 id="about">About</h1>
-Join us for an exciting Workshop on Operational Research in the 
+Join us for an exciting Workshop on Operations Research in the 
 amazing city of Lugano (Switzerland), where young researchers will 
 have the chance to engage with professors and experts in the field of 
-Operation Research. The event will feature plenary talks by 
+Operations Research. The event will feature plenary talks by 
 top researchers. Beyond the academic sessions, participants can enjoy 
 networking opportunities and social activities, all set against 
 the scenic backdrop of Lugano, a city known for its  lakeside views, 
@@ -130,17 +130,17 @@ Andrea Mancuso (<em>University of Naples Federico II, Italy</em>), co-chair<br>
 Alan Osorio-Mora (<em>RPTU Kaiserslautern-Landau, Germany</em>)<br>
 
 ### Members of the local organizing committee
-Saverio Basso (<em>Scuola Universitaria Superiore della Svizzera Italiana, Dalle Molle Institute of Artificial Intelligence - USI, SUPSI</em>)<br>
-Luis Felipe Vargas (<em>Scuola Universitaria Superiore della Svizzera Italiana, Dalle Molle Institute of Artificial Intelligence - USI, SUPSI</em>)<br>
-Eleonora Vercesi (<em>Università della Svizzera Italiana, Dalle Molle Institute of Artificial Intelligence - USI, SUPSI</em>)<br>
+Saverio Basso (<em>Scuola Universitaria Professionale della Svizzera italiana, Dalle Molle Institute of Artificial Intelligence - USI, SUPSI</em>)<br>
+Luis Felipe Vargas (<em>Scuola Universitaria Professionale della Svizzera italiana, Dalle Molle Institute of Artificial Intelligence - USI, SUPSI</em>)<br>
+Eleonora Vercesi (<em>Università della Svizzera italiana, Dalle Molle Institute of Artificial Intelligence - USI, SUPSI</em>)<br>
 
 ## Organizing committee
-Alex Bortolotti (<em>Scuola Universitaria Superiore della Svizzera Italiana, Dalle Molle Institute of Artificial Intelligence - USI, SUPSI</em>)<br>
-Koppany Encz (<em>Università della Svizzera Italiana, Dalle Molle Institute of Artificial Intelligence - USI, SUPSI</em>)<br>
-Stefano Huber (<em>Università della Svizzera Italiana, Dalle Molle Institute of Artificial Intelligence - USI, SUPSI</em>)<br>
-Alessandro Minoli (<em>Scuola Universitaria Superiore della Svizzera Italiana, Dalle Molle Institute of Artificial Intelligence - USI, SUPSI</em>)<br>
-Marilena Palomba (<em>Scuola Universitaria Superiore della Svizzera Italiana, Dalle Molle Institute of Artificial Intelligence - USI, SUPSI</em>)<br>
-Tullio Villa (<em>Scuola Universitaria Superiore della Svizzera Italiana, Dalle Molle Institute of Artificial Intelligence - USI, SUPSI</em>)<br>
+Alex Bortolotti (<em>Scuola Universitaria Professionale della Svizzera italiana, Dalle Molle Institute of Artificial Intelligence - USI, SUPSI</em>)<br>
+Koppany Encz (<em>Università della Svizzera italiana, Dalle Molle Institute of Artificial Intelligence - USI, SUPSI</em>)<br>
+Stefano Huber (<em>Università della Svizzera italiana, Dalle Molle Institute of Artificial Intelligence - USI, SUPSI</em>)<br>
+Alessandro Minoli (<em>Scuola Universitaria Professionale della Svizzera italiana, Dalle Molle Institute of Artificial Intelligence - USI, SUPSI</em>)<br>
+Marilena Palomba (<em>Scuola Universitaria Professionale della Svizzera italiana, Dalle Molle Institute of Artificial Intelligence - USI, SUPSI</em>)<br>
+Tullio Villa (<em>Scuola Universitaria Professionale della Svizzera italiana, Dalle Molle Institute of Artificial Intelligence - USI, SUPSI</em>)<br>
 
 
 
@@ -152,7 +152,7 @@ The template for the abstracts and other information regarding the submissions w
 
 <h1 id="venue">Venue and practical information</h1>
 
-The workshop will take place at the __Università della Svizzera Italiana and Scuola Universitaria Superiore della Svizzera Italiana__.
+The workshop will take place at the __Università della Svizzera italiana and Scuola Universitaria Professionale della Svizzera italiana__.
 
 <img src="/assets/images/lugano26/1_campus_est.jpg" alt="" width="500" height="300">
 
@@ -182,7 +182,7 @@ From Zurich Airport, take the first train to Zurich HB, and from
 there you can catch one of the several direct trains to Lugano.
 
 
-## Accomodation
+## Accommodation
 To be defined soon. 
 
 
@@ -195,7 +195,7 @@ __Accommodation in shared rooms (3 guests per room) for 3 nights__ (from Wednesd
 
 __Meals during the workshop__ .
 
-Other types of accomodations are of course possible in the city of 
+Other types of accommodations are of course possible in the city of 
 Lugano, but these are not covered by the Workshop. 
 
 ## Tips
@@ -209,7 +209,7 @@ multi-currency card like <a href="https://www.revolut.com/"> Revolut</a>.
 You can exchange up to €1,000 per month without extra fees.
 
 📱Mobile / Phone: Roaming charges may apply, except with some 
-providers (e.g., Fasweb). A convenient option is to purchase a 
+providers (e.g., Fastweb). A convenient option is to purchase a 
 temporary eSIM for Switzerland through services such as 
 <a href="https://www.airalo.com/"> Airalo</a> or 
 <a href="https://mobimatter.com/"> Mobimatter </a>.
@@ -219,7 +219,7 @@ contactless payments and Euro. You probably don't need to get cash.
 
 
 <h1 id="contact">Contact</h1>
-If you have any query, write us! 
+If you have any question, write us! 
 
 📧 euroyoung2026@usi-supsi.ch
 
