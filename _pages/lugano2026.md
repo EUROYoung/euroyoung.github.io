@@ -106,7 +106,7 @@ __Notification of acceptance__ 30 April 2026
 
 __Registration__ 1 May 2026 - 1 June 2026 
 
-__Workshop__ 13 October 2026 - 16 October 2026
+__Workshop__ 14 October 2026 - 16 October 2026
 
 {% include gallery id="gallery" caption="Some views of Lugano" %}
 
