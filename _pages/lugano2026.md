@@ -112,7 +112,8 @@ __Workshop__ 14 October 2026 - 16 October 2026
 
 <h1 id="speakers">Speakers</h1>
 
-The names of the invited speakers will be available soon!
+__The names of the invited speakers will be available soon!__
+
 
 <h1 id="speakers">Committees</h1>
 The committee comprises the EUROYoung Board and members of the 
@@ -149,6 +150,16 @@ The first draft of the program will be avaible in June, and all the details in J
 
 <h1 id="abstracts">Abstracts</h1>
 The template for the abstracts and other information regarding the submissions will be available soon!
+
+There is a limited number of places available. If applications exceed
+this limit, selection will be made on a first-come, first-served basis,
+while also ensuring representation of researchers from different
+countries to foster international collaboration. Priority will be
+given to early-career researchers affiliated with institutions
+within EURO.
+
+We highly encourage you to <a href="https://docs.google.com/forms/d/e/1FAIpQLSdfX8dBw0CrVnZg8kyRvNMzjN0hYId4LpmzkQluK_OkCWvm4g/viewform?pli=1"> join
+EUROYoung </a>!
 
 <h1 id="venue">Venue and practical information</h1>
 
