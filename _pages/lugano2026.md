@@ -146,10 +146,12 @@ Tullio Villa (<em>Scuola Universitaria Professionale della Svizzera italiana, Da
 
 
 <h1 id="programme">Programme</h1>
-The first draft of the program will be avaible in June, and all the details in July. 
+The first draft of the program will be available in June, and all the details in July. 
 
-<h1 id="abstracts">Abstracts</h1>
-The template for the abstracts and other information regarding the submissions will be available soon!
+<h1 id="abstracts">Abstract</h1>
+The template for the abstract is available <a href="./template_EUROYoung_2026.zip" download>here</a>. 
+Please be aware that abstract, references, picture, and bio must stay within one page, as described in the 
+template. During the submission, submit both the source files and the produced pdf. 
 
 There is a limited number of places available. If applications exceed
 this limit, selection will be made on a first-come, first-served basis,
