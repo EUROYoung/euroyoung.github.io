@@ -149,7 +149,8 @@ Tullio Villa (<em>Scuola Universitaria Professionale della Svizzera italiana, Da
 The first draft of the program will be available in June, and all the details in July. 
 
 <h1 id="abstracts">Abstract</h1>
-The template for the abstract is available <a href="_pages/template_EUROYoung_2026.zip">here</a>.
+<!--- For the next organizer, you can just download the template and load it on your overleaf--> 
+The template for the abstract is available <a href="https://www.overleaf.com/read/jkdntnnrpmqv#13dcb5">here</a>.
 
 Please be aware that abstract, references, picture, and bio must stay within one page, as described in the 
 template. During the submission, submit both the source files and the produced pdf. 
@@ -183,12 +184,13 @@ connected to the Milano Centrale train station:
 <li><strong>Linate:</strong> You can use metro line M4 (blue) 
 to reach S. Ambrogio station. There, you can take metro line M2 (green) to Milano Centrale.
 Additionally, there are bus options available, which you can check here: <a href="https://www.milanolinate-airport.com/it/da-per/in-bus" target="_blank">Linate Bus Options</a>.</li>
-<li><strong>Malpensa:</strong> We suggest taking the "Malpensa Express," which directly arrives at Milano Centrale. 
+<li><strong>Malpensa:</strong> There is
+also a direct train from Malpensa to Milan. Check <a href="https://www.trenord.it/">here</a> if you wish to pay in
+Euro or <a href="https://www.sbb.ch/en">here</a> if you wish to pay in Swiss Franks. Otherwise, we suggest taking the "Malpensa Express," which directly arrives at Milano Centrale. 
 You can purchase tickets here: <a href="https://www.malpensaexpress.it/" target="_blank">Malpensa Express Tickets</a>.</li>
 <li><strong>Orio al Serio:</strong> We recommend using the OrioShuttle to reach Milano Centrale. More information can be found at <a href="http://www.orioshuttle.com/" target="_blank">OrioShuttle</a>. Other services can be found at the following link: <a href="https://www.milanbergamoairport.it/en/bus/" target="_blank">Bergamo Airport Bus Services</a>.</li>
 
-
-Once in Milano Centrale, take the <a href="https://www.tilo.ch/"> TiLo</a> , a direct train to Lugano.
+Once in Milano Centrale, take the <a href="https://www.tilo.ch/"> TiLo</a> , a direct train to Lugano. 
 
 ### From Zurich
 You can check train options directly on the <a href="https://www.sbb.ch/"> SBB website</a>.
