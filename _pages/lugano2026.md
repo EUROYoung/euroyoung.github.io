@@ -100,13 +100,17 @@ Don’t miss this opportunity!
 
 <h1 id="dates">Dates</h1>
 
-__Abstract Submission__ 13 March 2026  <a href="https://www.timeanddate.com/time/zones/aoe"> (11:59 PM AoE)  </a>.
+All the dates are Anywhere on Earth (AoE). Check <a href="https://dateful.com/time-zone-converter">this tool</a> can be 
+helpful.
 
-__Notification of acceptance__ 30 April 2026
+__Abstract Submission__ 19 February 2026, 00.00 AM - 13 March 2026, 11.59 PM. Submit your abstract
+<a href="https://usi.qualtrics.com/jfe/form/SV_3mESCPXnttayzT8">here</a>. 
 
-__Registration__ 1 May 2026 - 1 June 2026 
+__Notification of acceptance__ 30 April 2026.
 
-__Workshop__ 14 October 2026 - 16 October 2026
+__Registration__ 1 May 2026, 00.00 AM - 1 June 2026, 11.59 PM.
+
+__Workshop__ 14 October 2026 - 16 October 2026.
 
 {% include gallery id="gallery" caption="Some views of Lugano" %}
 
@@ -150,6 +154,8 @@ The first draft of the program will be available in June, and all the details in
 
 <h1 id="abstracts">Abstract</h1>
 <!--- For the next organizer, you can just download the template and load it on your overleaf--> 
+Submit your abstract
+<a href="https://usi.qualtrics.com/jfe/form/SV_3mESCPXnttayzT8">here</a>. 
 The template for the abstract is available <a href="https://www.overleaf.com/read/jkdntnnrpmqv#13dcb5">here</a>.
 
 Please be aware that abstract, references, picture, and bio must stay within one page, as described in the 
@@ -203,7 +209,6 @@ To be defined soon.
 
 
 ## What does the fee include?
-
 The fee will not exceed __€200 (worst-case scenario)__, and depending on the additional funding that we can get, the price might decrease.
 The fee covers: 
 
