@@ -100,15 +100,12 @@ Don’t miss this opportunity!
 
 <h1 id="dates">Dates</h1>
 
-All the dates are Anywhere on Earth (AoE). Check <a href="https://dateful.com/time-zone-converter">this tool</a> can be 
-helpful.
-
-__Abstract Submission__ 19 February 2026, 00.00 AM - 13 March 2026, 11.59 PM. Submit your abstract
+__Abstract Submission__ 10 March 2025 (10:00 AM CET time) - 15 April 2025 (10:00 AM CET time). Submit your abstract
 <a href="https://usi.qualtrics.com/jfe/form/SV_3mESCPXnttayzT8">here</a>. 
 
 __Notification of acceptance__ 30 April 2026.
 
-__Registration__ 1 May 2026, 00.00 AM - 1 June 2026, 11.59 PM.
+__Registration__ 1 May 2026 (00.00 AM CET time) - 1 June 2026 (11.59 PM CET time).
 
 __Workshop__ 14 October 2026 - 16 October 2026.
 
