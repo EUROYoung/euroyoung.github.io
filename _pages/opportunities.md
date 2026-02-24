@@ -46,8 +46,7 @@ More information coming soon.
 
 ## Ph.D. Positions
 
-### 📢 PhD Opportunity in Operations Research  
-**Amsterdam Business School – University of Amsterdam**
+### 📢 PhD Opportunity, Amsterdam Business School – University of Amsterdam
 
 The Amsterdam Business School is seeking a highly motivated PhD candidate in Operations Research to develop innovative optimization methods for improving tax systems in the Netherlands and internationally.
 
@@ -69,8 +68,7 @@ Dick den Hertog – D.denHertog@uva.nl
 
 ## Postdoctoral Positions
 
-### 1-Year Postdoctoral Position in Operations Research  
-**Universitat Pompeu Fabra (UPF), Barcelona, Spain**
+### 📢 1-Year Postdoctoral Position, Universitat Pompeu Fabra (UPF), Barcelona, Spain
 
 🔗 Full details: https://santini.in/academic/postdoc-position  
 🔗 Application form: https://forms.gle/2Y5XWquvHmKz52Bj9  
