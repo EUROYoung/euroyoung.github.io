@@ -7,65 +7,147 @@ layout: single
 classes: wide
 ---
 
-## Workshops/Summer Schools and others
-This is the second call for the PhD school on robust optimization at IGESA in Porquerolles [here](https://urldefense.com/v3/__https://maps.app.goo.gl/VismMQ5mrYzMPdDr5__;!!D9dNQwwGXtA!Qizd0k-xJ4DkNrs8G_NIIewSEmbY7PXfcAO5NpUKPHbDy8nTGECMLPOiQpOHY4vfBmSdg9UcOGstR54uFEbsrccF$), on September 7-11 2026. The school will cover basics of static, adjustable, combinatorial robust optimization, as well as distributionally robust optimization, see the website [here](https://urldefense.com/v3/__https://ro2026.sciencesconf.org/?lang=en__;!!D9dNQwwGXtA!Qizd0k-xJ4DkNrs8G_NIIewSEmbY7PXfcAO5NpUKPHbDy8nTGECMLPOiQpOHY4vfBmSdg9UcOGstR54uFDIguUNv$).
+## Workshops, Summer Schools & Events
 
-The cost of the school will be around 800€ for 4 nights (Monday - Friday), everything included.
+### PhD School on Robust Optimization (ROSCHOOL26)
 
-To apply to the school, please send a CV to poss@lirmm.fr, with topic « application to ROSCHOOL26 », no later than March 15th. Your CV should include :
+The second call is now open for the **PhD School on Robust Optimization**, taking place at IGESA in Porquerolles, France, from **September 7–11, 2026**.
 
-a description of your thesis topic and ongoing research
+The school will cover:
 
-a list of optimization classes that you have taken during your bachelor's, master's and/or doctoral studies
+- Static robust optimization  
+- Adjustable robust optimization  
+- Combinatorial robust optimization  
+- Distributionally robust optimization  
 
-## M.Sc. positions
+📍 Location: IGESA, Porquerolles  
+🔗 Website: https://ro2026.sciencesconf.org/?lang=en  
 
-more to come...
+**Cost:** Approximately **€800** (4 nights, Monday–Friday, all inclusive).
 
-## Ph.D. positions
+### How to Apply
 
-### 📢 PhD Opportunity in Operations Research – Amsterdam Business School
+Send your CV to **poss@lirmm.fr**  
+Subject line: *Application to ROSCHOOL26*  
+Deadline: **March 15**
 
-Are you interested in academic research, and looking to make an impact on society? Do you enjoy to develop optimization methods to solve an important societal problem? Would you like to be part of a vibrant research community in Amsterdam, with the possibility for research visits at MIT and LBS? Then we have just the right position for you! The Amsterdam Business School is looking for a highly motivated PhD student who will develop optimization methods to optimize tax systems in the Netherlands, and in other countries.
+Your CV should include:
 
-PhD Project: Developing innovative mathematical methods for tax system optimization 
-Towards transparent and effective tax systems: a breakthrough in fiscal optimization
+- A description of your thesis topic and current research  
+- A list of optimization courses taken (Bachelor’s, Master’s, and/or PhD level)
 
-🔗 Full position description [here](https://werkenbij.uva.nl/en/vacancies/phd-position-in-operations-research-innovative-mathematical-methods-for-tax-system-optimization-netherlands-14851)
+---
 
-For questions about the position, please contact Dick den Hertog via D.denHertog@uva.nl
+## M.Sc. Positions
 
-## Postdoc positions
+More information coming soon.
 
-### 1-year post-doctoral position in Operations Research at Universitat Pompeu Fabra in Barcelona, Spain.
+---
 
-Complete information [here](https://santini.in/academic/postdoc-position)
+## Ph.D. Positions
 
-Application form [here](https://forms.gle/2Y5XWquvHmKz52Bj9)
+### 📢 PhD Opportunity in Operations Research  
+**Amsterdam Business School – University of Amsterdam**
 
-== The Project ==
+The Amsterdam Business School is seeking a highly motivated PhD candidate in Operations Research to develop innovative optimization methods for improving tax systems in the Netherlands and internationally.
 
-The researcher will be financed through the research project "Fairness and social well-being in optimisation models". The overarching theme of this project is incorporating ethical aspects into mathematical models for public resource allocation and labour organisation. Specifically, the project aims to include fairness and social well-being considerations in optimisation models through two research lines: fairness in public budget allocation models and workers' well-being in service industry optimisation models.
+This project aims to contribute to **transparent, effective, and socially impactful fiscal optimization**.
 
-The researcher will join the Statistics, Probability and Machine Learning research group [(see the webpage)](https://www.upf.edu/web/statistics-group). The IP of the project is Alberto Santini, associate professor of Operational Research at Universitat Pompeu Fabra.
+Research environment highlights:
 
-== Requirements ==
+- Vibrant academic community in Amsterdam  
+- Possibility of research visits to MIT and LBS  
+- Societally relevant research impact  
 
-Candidates will have completed a PhD in Operational Research, Computer Science, Mathematics, Computer Engineering, Economics, or other areas closely related to operational research and mathematical optimisation. Candidates with proven experience in at least one of the following areas are particularly encouraged to apply: Rostering and scheduling problems, Exact methods based on column generation, Multi-objective optimisation, Bi-level programming and Stackelberg games.
+🔗 Full position description:  
+https://werkenbij.uva.nl/en/vacancies/phd-position-in-operations-research-innovative-mathematical-methods-for-tax-system-optimization-netherlands-14851  
 
-== What we offer ==
+For questions, contact:  
+Dick den Hertog – D.denHertog@uva.nl  
 
-A 12-month contract with a minimum salary of around 31200 euros per year. The candidate is expected to focus solely on research and will not have any teaching or administrative duties. If they want to gain teaching experience, this can also possibly be arranged and is paid separately. The scholarship comes with funding to cover research expenses, such as travelling to conferences or stays abroad. UPF offers plenty of opportunities for career growth, including research and soft-skills seminars. The university also has a comprehensive language-learning programme.
+---
 
-== Timeline ==
+## Postdoctoral Positions
 
-Please complete the form as soon as possible and, in any case, before March 27. Remember to include your CV and a recommendation letter. We will be reviewing applications and scheduling interviews continuously. During the interviews, we will explain how to submit your application through the official university system. The contract will start at a mutually agreed date in 2026.
+### 1-Year Postdoctoral Position in Operations Research  
+**Universitat Pompeu Fabra (UPF), Barcelona, Spain**
 
+🔗 Full details: https://santini.in/academic/postdoc-position  
+🔗 Application form: https://forms.gle/2Y5XWquvHmKz52Bj9  
 
-## Tenure track positions
-more to come...
+### Project Overview
 
+The position is funded by the research project:
 
-   
-## Industry positions
+**“Fairness and Social Well-Being in Optimisation Models”**
 
+The project focuses on incorporating ethical considerations into mathematical optimization models, particularly in:
+
+- Public budget allocation  
+- Labour organization and service industry optimization  
+
+Two main research lines:
+
+1. Fairness in public resource allocation  
+2. Workers’ well-being in service optimization models  
+
+The researcher will join the **Statistics, Probability and Machine Learning research group** at UPF.  
+Principal Investigator: **Alberto Santini**, Associate Professor of Operational Research.
+
+---
+
+### Requirements
+
+Applicants should hold a PhD in:
+
+- Operational Research  
+- Computer Science  
+- Mathematics  
+- Computer Engineering  
+- Economics  
+- Or a closely related field  
+
+Strong candidates will have expertise in at least one of:
+
+- Rostering and scheduling  
+- Column generation and exact methods  
+- Multi-objective optimization  
+- Bi-level programming  
+- Stackelberg games  
+
+---
+
+### What We Offer
+
+- 12-month research contract  
+- Minimum salary: approximately €31,200 per year  
+- No teaching or administrative duties (teaching possible upon request, paid separately)  
+- Dedicated research funding (conferences, research visits)  
+- Career development seminars and soft-skills training  
+- Comprehensive language-learning program  
+
+---
+
+### Timeline
+
+- Application deadline: **March 27**  
+- Applications reviewed on a rolling basis  
+- Interviews scheduled continuously  
+- Contract start date: mutually agreed in 2026  
+
+Please include:
+
+- CV  
+- One recommendation letter  
+
+---
+
+## Tenure-Track Positions
+
+More information coming soon.
+
+---
+
+## Industry Positions
+
+More information coming soon.
