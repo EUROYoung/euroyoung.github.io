@@ -25,7 +25,7 @@ The school will cover:
 
 **Cost:** Approximately **€800** (4 nights, Monday–Friday, all inclusive).
 
-### How to Apply
+#### How to Apply
 
 Send your CV to **poss@lirmm.fr**  
 Subject line: *Application to ROSCHOOL26*  
@@ -75,7 +75,7 @@ Dick den Hertog – D.denHertog@uva.nl
 🔗 Full details: https://santini.in/academic/postdoc-position  
 🔗 Application form: https://forms.gle/2Y5XWquvHmKz52Bj9  
 
-### Project Overview
+#### Project Overview
 
 The position is funded by the research project:
 
@@ -96,7 +96,7 @@ Principal Investigator: **Alberto Santini**, Associate Professor of Operational 
 
 ---
 
-### Requirements
+#### Requirements
 
 Applicants should hold a PhD in:
 
@@ -117,7 +117,7 @@ Strong candidates will have expertise in at least one of:
 
 ---
 
-### What We Offer
+#### What We Offer
 
 - 12-month research contract  
 - Minimum salary: approximately €31,200 per year  
@@ -128,7 +128,7 @@ Strong candidates will have expertise in at least one of:
 
 ---
 
-### Timeline
+#### Timeline
 
 - Application deadline: **March 27**  
 - Applications reviewed on a rolling basis  
