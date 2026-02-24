@@ -20,12 +20,11 @@ a list of optimization classes that you have taken during your bachelor's, maste
 
 ## M.Sc. positions
 
-### Modelling Associate vacancy at the Kent Business School, University of Kent 
 more to come...
 
 ## Ph.D. positions
 
-📢 PhD Opportunity in Operations Research – Amsterdam Business School
+### 📢 PhD Opportunity in Operations Research – Amsterdam Business School
 
 Are you interested in academic research, and looking to make an impact on society? Do you enjoy to develop optimization methods to solve an important societal problem? Would you like to be part of a vibrant research community in Amsterdam, with the possibility for research visits at MIT and LBS? Then we have just the right position for you! The Amsterdam Business School is looking for a highly motivated PhD student who will develop optimization methods to optimize tax systems in the Netherlands, and in other countries.
 
@@ -37,7 +36,8 @@ Towards transparent and effective tax systems: a breakthrough in fiscal optimiza
 For questions about the position, please contact Dick den Hertog via D.denHertog@uva.nl
 
 ## Postdoc positions
-We are seeking a motivated candidate for a 1-year post-doctoral position in Operations Research at Universitat Pompeu Fabra in Barcelona, Spain.
+
+### 1-year post-doctoral position in Operations Research at Universitat Pompeu Fabra in Barcelona, Spain.
 
 Complete information [here](https://santini.in/academic/postdoc-position)
 
