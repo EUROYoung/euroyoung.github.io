@@ -271,5 +271,5 @@ We highly appreciate the support of
   <img src="/assets/images/EURO.png" alt="EURO" style="max-height: 120px; object-fit: contain;">
   <img src="/assets/images/lugano26/usi.png" alt="usi" style="max-height: 120px; object-fit: contain;">
   <img src="/assets/images/lugano26/supsi.png" alt="supsi" style="max-height: 120px; object-fit: contain;">
-    <img src="/assets/images/lugano26/SVOR.pdf" alt="svor" style="max-height: 120px; object-fit: contain;">
+    <img src="/assets/images/lugano26/SVOR_nobg.png" alt="svor" style="max-height: 120px; object-fit: contain;">
 </div>
