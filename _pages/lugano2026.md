@@ -202,14 +202,30 @@ there you can catch one of the several direct trains to Lugano.
 
 
 ## Accommodation
-To be defined soon. 
+Accommodation for the participants will be provided at Montarina Hotel&Hostel, 
+where we reserved double, triple and quadruple rooms. The hotel is located in a historic villa from the 
+19th century surrounded by a large palm park with an outdoor swimming pool and offers several amenities 
+including free Wi-Fi, common areas, a shared kitchenette and laundry facilities. It is centrally located 
+only about 200 meters from Lugano’s main train station, making it very easy to reach and convenient for 
+exploring the city.
 
+### How to reach the hotel from Lugano train station?
+After arriving at Lugano railway station, exit the station following the signs for Via Basilea. 
+Walk to the street behind the station and take the short uphill path (stairs or road) towards Via Montarina. 
+The hotel entrance is located at Via Montarina 1 and can be reached in approximately 5 minutes on foot.
+
+<img src="/assets/images/lugano26/hotel_1.jpeg" alt="" width="500" height="300">
+<img src="/assets/images/lugano26/hotel_2.png" alt="" width="500" height="300">
+
+
+More information about the accommodation can be found on the hotel website: 
+<a href="https://www.montarina.com/?utm_source=chatgpt.com"> Montarina Hotel & Hostel official website</a>.
 
 ## What does the fee include?
 The fee will not exceed __€200 (worst-case scenario)__, and depending on the additional funding that we can get, the price might decrease.
 The fee covers: 
 
-__Accommodation in shared rooms (3 guests per room) for 3 nights__ (from Wednesday to Friday).
+__Accommodation in shared rooms (from 2 to 4 guests per room) for 3 nights__ (from Wednesday to Friday).
 
 __Meals during the workshop__ .
 
