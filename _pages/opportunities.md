@@ -66,6 +66,7 @@ Dick den Hertog – D.denHertog@uva.nl
 
 ---
 
+
 ## Postdoctoral Positions
 
 ### 📢 1-Year Position, Universitat Pompeu Fabra (UPF), Barcelona, Spain
@@ -142,7 +143,8 @@ Please include:
 
 ## Tenure-Track Positions
 
-More information coming soon.
+### Position in Operations Research and AI at TU Munich
+🔗 Full details [here](/assets/temporaryfiles/ORAI_TT.pdf).  
 
 ---
 
