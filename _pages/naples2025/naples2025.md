@@ -8,7 +8,7 @@ toc_label: "Content"
 author_profile: false
 header:
   overlay_image: /assets/images/napoli4.jpeg
-permalink: /naples2025/
+permalink: /_pages/naples2025/
 gallery:
   - url: /assets/images/napoli1.jpeg
     image_path: /assets/images/napoli1.jpeg
