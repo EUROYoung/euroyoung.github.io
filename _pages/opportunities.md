@@ -144,7 +144,7 @@ Please include:
 ## Tenure-Track Positions
 
 ### Position in Operations Research and AI at TU Munich
-More information can be found in the attached document.
+🔗 Full details [here](/assets/temporaryfiles/ORAI_TT.pdf)  
 
 ---
 
