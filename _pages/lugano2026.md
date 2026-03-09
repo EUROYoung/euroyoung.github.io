@@ -100,7 +100,7 @@ Don’t miss this opportunity!
 
 <h1 id="dates">Dates</h1>
 
-__Abstract Submission__ 10 March 2025 (10:00 AM CET time) - 15 April 2025 (10:00 AM CET time). Submit your abstract
+__Abstract Submission__ 10 March 2026 (10:00 AM CET time) - 15 April 2026 (10:00 AM CET time). Submit your abstract
 <a href="https://usi.qualtrics.com/jfe/form/SV_3mESCPXnttayzT8">here</a>. 
 
 __Notification of acceptance__ 30 April 2026.
