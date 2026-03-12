@@ -26,6 +26,7 @@
 
 /* https://developer.yahoo.com/blogs/ydn/clip-hidden-content-better-accessibility-53456.html */
 
+.sr-only,
 .visually-hidden,
 .screen-reader-text,
 .screen-reader-text span,
@@ -35,12 +36,6 @@
   height: 1px !important;
   width: 1px !important;
   border: 0 !important;
-  overflow: hidden;
-}
-
-.sr-only {
-  position: absolute;
-  clip: rect(0, 0, 0, 0);
   overflow: hidden;
 }
 
