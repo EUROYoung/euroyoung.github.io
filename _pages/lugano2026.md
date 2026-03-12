@@ -10,15 +10,15 @@ header:
   overlay_image: /assets/images/lugano26/lugano1.jpg
 permalink: /lugano2026/
 gallery:
-  - url: /assets/images/lugano26/lugano2
-    image_path: ../assets/images/lugano26/lugano2.jpg
+  - url: /assets/images/lugano26/lugano2.jpg
+    image_path: assets/images/lugano26/lugano2.jpg
     alt: "placeholder image 1"
     title: "Image 1 title caption"
-  - url: assets/images/lugano26/lugano3
+  - url: /assets/images/lugano26/lugano3.jpg
     image_path: assets/images/lugano26/lugano3.jpg
     alt: "placeholder image 2"
     title: "Image 2 title caption"
-  - url: assets/images/lugano26/lugano4.jpg
+  - url: /assets/images/lugano26/lugano4.jpg
     image_path: assets/images/lugano26/lugano4.jpg
     alt: "placeholder image 4"
     title: "Image 1 title caption"
@@ -111,9 +111,59 @@ __Workshop__ 14 October 2026 - 16 October 2026.
 
 {% include gallery id="gallery" caption="Some views of Lugano" %}
 
+
 <h1 id="speakers">Speakers</h1>
 
-__The names of the invited speakers will be available soon!__
+Meet our confirmed speakers! More to be confirmed soon. 
+Click on the pictures for more details.
+
+
+<style>
+  .speaker-grid {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 2em;
+    margin: 2em 0;
+  }
+
+  .speaker-card {
+    text-align: center;
+    width: 180px;
+  }
+
+  .speaker-card img {
+    width: 100%;
+    height: auto;
+    border-radius: 12px;
+    cursor: pointer;
+    box-shadow: 0 2px 6px rgba(0,0,0,0.2);
+    transition: transform 0.2s ease;
+  }
+
+  .speaker-card img:hover {
+    transform: scale(1.05);
+  }
+
+  .speaker-card p {
+    margin-top: 0.5em;
+    font-weight: bold;
+  }
+</style>
+
+<div class="speaker-grid">
+
+  <div class="speaker-card">
+    <a href="/assets/speakers/lugano26/speaker1/">
+      <img src="/assets/images/lugano26/MLaurent.jpeg" alt="Monique Laurent">
+    </a>
+    <p>Monique Laurent</p>
+  </div>
+
+
+  <!-- Add more speaker cards as needed -->
+
+</div>
 
 
 <h1 id="speakers">Committees</h1>
