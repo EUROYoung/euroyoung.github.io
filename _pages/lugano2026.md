@@ -134,7 +134,7 @@ Click on the pictures for more details.
 
   .speaker-card img {
     width: 100%;
-    height: auto;
+    height: 250px;
     border-radius: 12px;
     cursor: pointer;
     box-shadow: 0 2px 6px rgba(0,0,0,0.2);
@@ -154,11 +154,19 @@ Click on the pictures for more details.
 <div class="speaker-grid">
 
   <div class="speaker-card">
+    <a href="/assets/speakers/lugano26/speaker2/">
+      <img src="/assets/images/lugano26/DKhun.jpg" alt="Daniel Kuhn">
+    </a>
+    <p>Daniel Kuhn</p>
+  </div>
+
+  <div class="speaker-card">
     <a href="/assets/speakers/lugano26/speaker1/">
       <img src="/assets/images/lugano26/MLaurent.jpeg" alt="Monique Laurent">
     </a>
     <p>Monique Laurent</p>
   </div>
+
 
 
   <!-- Add more speaker cards as needed -->
