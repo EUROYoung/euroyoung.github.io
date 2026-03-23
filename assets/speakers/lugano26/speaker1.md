@@ -57,7 +57,7 @@ title: "Monique Laurent"
 
 <div class="speaker-details">
   <h1>Monique Laurent</h1>
-  <h2>Networks and Optimization, Centrum Wiskunde & Informatica, Netherlands</h2>
+  <h2>Centrum Wiskunde & Informatica, and Tilburg University, Netherlands</h2>
 
 Monique Laurent obtained her PhD in Mathematics at the University Paris Diderot in 1986. During her PhD studies, she was a visiting researcher at New York University in the period 1984–1986. After two years as a researcher at CNET (Paris), she became a researcher at CNRS in 1988, affiliated first with University Paris Dauphine and from 1992 with École Normale Supérieure. In 1990–1992, she visited the Institute of Discrete Mathematics in Bonn as a Humboldt Fellow. From 1997, she joined CWI as a senior researcher. She was group leader of Networks and Optimization (N&O) between 2005 and 2016, and a member of the CWI Management Team between 2016 and 2021. She has also been affiliated as a part-time full professor at Tilburg University since 2009. She became a SIAM Fellow in 2017, a EUROPT Fellow in 2021, and she received the Khachiyan Prize 2023 from the INFORMS Optimization Society.
 
