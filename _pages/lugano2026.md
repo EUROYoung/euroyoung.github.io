@@ -326,8 +326,9 @@ We highly appreciate the support of
   gap: 30px;
   padding: 20px;
 ">
-  <img src="/assets/images/EURO.png" alt="EURO" style="max-height: 120px; object-fit: contain;">
-  <img src="/assets/images/lugano26/usi.png" alt="usi" style="max-height: 120px; object-fit: contain;">
+  <img src="/assets/images/EURO.png" alt="EURO" style="max-height: 150px; object-fit: contain;">
+  <img src="/assets/images/lugano26/press-logo-statico-usi-orizzontale-web.svg" alt="usi" style="max-height: 120px; object-fit: contain;">
   <img src="/assets/images/lugano26/supsi.png" alt="supsi" style="max-height: 120px; object-fit: contain;">
-    <img src="/assets/images/lugano26/SVOR_nobg.png" alt="svor" style="max-height: 120px; object-fit: contain;">
+  <img src="/assets/images/lugano26/SVOR_nobg.png" alt="svor" style="max-height: 120px; object-fit: contain;">
+  <img src="/assets/images/lugano26/SNF_logo_standard_web_color_pos_e.png" alt="svor" style="max-height: 80px; object-fit: contain;">
 </div>
