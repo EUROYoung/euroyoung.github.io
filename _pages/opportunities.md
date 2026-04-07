@@ -8,6 +8,29 @@ classes: wide
 ---
 
 ## Workshops, Summer Schools & Events
+
+### PhD Summer Academy at Zaragoza Logistics Center (Spain), June 1-11
+
+
+Zaragoza Logistics Center (ZLC), a higher-education institution affiliated with the Massachusetts Institute of Technology (MIT) and the University of Zaragoza (Spain) is organizing an intensive two-week program designed for PhD students and young researchers in Logistics, Supply Chain Management, Operations Research, Industrial Engineering, Management Science, AI, Statistics, and Data-driven Decision Making.
+
+From **June 1-11, 2026, in Zaragoza, Spain**, the PhD Summer Academy will offer an exceptional opportunity to advance doctoral research with rigorous, state-of-the-art methodologies and engage with world-class faculty.
+
+ 
+Participants will delve into cutting-edge topics presented by leading experts:
+
+Freight Transport and Distribution: Concepts and Optimization Models (Tolga Bektaş, University of Liverpool, UK)
+
+Data-driven Optimization (Stefan Minner, Technical University of Munich, Germany)
+
+Supply Chain Network Design Problems: Recent Approaches and Emerging Trends (Teresa Melo, Saarland University of Applied Sciences, Germany)
+
+Humanitarian and Emergency Response Logistics (Ozlem Ergun, Northeastern University, USA)
+ 
+
+Details about the program and the application process are available [HERE](https://www.zlc.edu.es/education/phd-summer-academy/).
+
+
 ### NATCOR Course on Convex Optimization --- NATCOR Course on Optimization Under Uncertainty, Edinburgh UK.
 
 Dear colleagues,
