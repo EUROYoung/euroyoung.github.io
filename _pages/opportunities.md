@@ -30,7 +30,7 @@ Details about the program and the application process are available [HERE](https
 
 ### NATCOR Course on Convex Optimization --- NATCOR Course on Optimization Under Uncertainty, Edinburgh UK.
 
-📍 Two courses are being organized in Edinburgh:
+📍 Two courses will take place in Edinburgh:
 
 - **NATCOR Course on Convex Optimization, 8-12 June 2026**.
 - **NATCOR Course on Optimization Under Uncertainty, 15-19 June 2026**.
