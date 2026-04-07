@@ -8,6 +8,47 @@ classes: wide
 ---
 
 ## Workshops, Summer Schools & Events
+### NATCOR Course on Convex Optimization --- NATCOR Course on Optimization Under Uncertainty, Edinburgh UK.
+
+Dear colleagues,
+
+We are organizing two courses in Edinburgh:
+
+**NATCOR Course on Convex Optimization, 8-12 June 2026**.
+
+**NATCOR Course on Optimization Under Uncertainty, 15-19 June 2026**.
+  
+The courses are aimed mostly at (but not restricted to) Ph.D. students doing research in operational research and related areas (business analytics, engineering, computer science).
+Both courses will start with an introduction to the topic, moving on to more advanced state-of-the-art concepts and with an important emphasis on applications. Being full-week courses which include several social activities, it is a great opportunity to network with peer Ph.D. students and with the teaching team, consisting of world-leading experts on the area.
+
+Teaching teams are:
+
+**Convex Optimization**: 
+Miguel Anjos (University of Edinburgh, UK),
+
+Julian Hall (HIGHS/University of Edinburgh, UK), 
+
+Tamás Terlaky (Lehigh University, USA), 
+
+Margherita Porcelli (University of Florence, Italy),
+
+Alper Yildirim (University of Edinburgh, UK), and 
+
+Filippo Zanetti (HIGHS/University of Edinburgh, UK).
+
+**Optimization Under Uncertainty**: 
+Kerem Akartunali (University of Strathclyde, UK), 
+
+Merve Bodur (University of Edinburgh, UK), 
+
+Vinh Doan (University of Warwick, UK), Nalan Gulpinar (Durham University, UK), and
+
+Francesca Maggioni (University of Bergamo, Italy).
+
+Note that, very conveniently, the courses are back-to-back, and the Convex Optimization course follows the SIAM Conference on Optimization, also held in Edinburgh from June 2 to June 5.
+More details on the courses and registration, including the course schedule and topics covered, can be found [in the following 🔗](https://urldefense.com/v3/__https://www.natcor.ac.uk/courses/__;!!D9dNQwwGXtA!W6NPbVM29BzeesuIvytCuyJLevvHFCmfCYhuf8Nb6zQ_nqimWH8Uh35B-LhxuK3bFjsPStidOw6hMvOop5d8rGqA3g$).
+
+Since **capacity is limited**, early registration is strongly encouraged.
 
 ### PhD School on Robust Optimization (ROSCHOOL26)
 
