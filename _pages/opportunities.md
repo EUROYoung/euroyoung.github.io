@@ -12,34 +12,28 @@ classes: wide
 ### PhD Summer Academy at Zaragoza Logistics Center (Spain), June 1-11
 
 
-Zaragoza Logistics Center (ZLC), a higher-education institution affiliated with the Massachusetts Institute of Technology (MIT) and the University of Zaragoza (Spain) is organizing an intensive two-week program designed for PhD students and young researchers in Logistics, Supply Chain Management, Operations Research, Industrial Engineering, Management Science, AI, Statistics, and Data-driven Decision Making.
+📍Zaragoza Logistics Center (ZLC), a higher-education institution affiliated with the Massachusetts Institute of Technology (MIT) and the University of Zaragoza (Spain) is organizing an intensive two-week program designed for PhD students and young researchers in Logistics, Supply Chain Management, Operations Research, Industrial Engineering, Management Science, AI, Statistics, and Data-driven Decision Making.
 
 From **June 1-11, 2026, in Zaragoza, Spain**, the PhD Summer Academy will offer an exceptional opportunity to advance doctoral research with rigorous, state-of-the-art methodologies and engage with world-class faculty.
 
  
 Participants will delve into cutting-edge topics presented by leading experts:
 
-Freight Transport and Distribution: Concepts and Optimization Models (Tolga Bektaş, University of Liverpool, UK)
+- Freight Transport and Distribution: Concepts and Optimization Models (Tolga Bektaş, University of Liverpool, UK)
+- Data-driven Optimization (Stefan Minner, Technical University of Munich, Germany)
+- Supply Chain Network Design Problems: Recent Approaches and Emerging Trends (Teresa Melo, Saarland University of Applied Sciences, Germany)
+- Humanitarian and Emergency Response Logistics (Ozlem Ergun, Northeastern University, USA)
 
-Data-driven Optimization (Stefan Minner, Technical University of Munich, Germany)
-
-Supply Chain Network Design Problems: Recent Approaches and Emerging Trends (Teresa Melo, Saarland University of Applied Sciences, Germany)
-
-Humanitarian and Emergency Response Logistics (Ozlem Ergun, Northeastern University, USA)
  
-
 Details about the program and the application process are available [HERE](https://www.zlc.edu.es/education/phd-summer-academy/).
 
 
 ### NATCOR Course on Convex Optimization --- NATCOR Course on Optimization Under Uncertainty, Edinburgh UK.
 
-Dear colleagues,
+📍 Two courses are being organized in Edinburgh:
 
-We are organizing two courses in Edinburgh:
-
-**NATCOR Course on Convex Optimization, 8-12 June 2026**.
-
-**NATCOR Course on Optimization Under Uncertainty, 15-19 June 2026**.
+- **NATCOR Course on Convex Optimization, 8-12 June 2026**.
+- **NATCOR Course on Optimization Under Uncertainty, 15-19 June 2026**.
   
 The courses are aimed mostly at (but not restricted to) Ph.D. students doing research in operational research and related areas (business analytics, engineering, computer science).
 Both courses will start with an introduction to the topic, moving on to more advanced state-of-the-art concepts and with an important emphasis on applications. Being full-week courses which include several social activities, it is a great opportunity to network with peer Ph.D. students and with the teaching team, consisting of world-leading experts on the area.
@@ -47,26 +41,19 @@ Both courses will start with an introduction to the topic, moving on to more adv
 Teaching teams are:
 
 **Convex Optimization**: 
-Miguel Anjos (University of Edinburgh, UK),
-
-Julian Hall (HIGHS/University of Edinburgh, UK), 
-
-Tamás Terlaky (Lehigh University, USA), 
-
-Margherita Porcelli (University of Florence, Italy),
-
-Alper Yildirim (University of Edinburgh, UK), and 
-
-Filippo Zanetti (HIGHS/University of Edinburgh, UK).
+- Miguel Anjos (University of Edinburgh, UK)
+- Julian Hall (HIGHS/University of Edinburgh, UK)
+- Tamás Terlaky (Lehigh University, USA) 
+- Margherita Porcelli (University of Florence, Italy)
+- Alper Yildirim (University of Edinburgh, UK)
+- Filippo Zanetti (HIGHS/University of Edinburgh, UK).
 
 **Optimization Under Uncertainty**: 
-Kerem Akartunali (University of Strathclyde, UK), 
-
-Merve Bodur (University of Edinburgh, UK), 
-
-Vinh Doan (University of Warwick, UK), Nalan Gulpinar (Durham University, UK), and
-
-Francesca Maggioni (University of Bergamo, Italy).
+- Kerem Akartunali (University of Strathclyde, UK)
+- Merve Bodur (University of Edinburgh, UK)
+- Vinh Doan (University of Warwick, UK)
+- Nalan Gulpinar (Durham University, UK)
+- Francesca Maggioni (University of Bergamo, Italy).
 
 Note that, very conveniently, the courses are back-to-back, and the Convex Optimization course follows the SIAM Conference on Optimization, also held in Edinburgh from June 2 to June 5.
 More details on the courses and registration, including the course schedule and topics covered, can be found [in the following 🔗](https://urldefense.com/v3/__https://www.natcor.ac.uk/courses/__;!!D9dNQwwGXtA!W6NPbVM29BzeesuIvytCuyJLevvHFCmfCYhuf8Nb6zQ_nqimWH8Uh35B-LhxuK3bFjsPStidOw6hMvOop5d8rGqA3g$).
