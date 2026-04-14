@@ -114,7 +114,7 @@ __Workshop__ 14 October 2026 - 16 October 2026.
 
 <h1 id="speakers">Speakers</h1>
 
-Meet our confirmed speakers! More to be confirmed soon.
+Meet our confirmed speakers! 
 Click on the pictures for more details.
 
 
@@ -152,6 +152,13 @@ Click on the pictures for more details.
 </style>
 
 <div class="speaker-grid">
+
+<div class="speaker-card">
+    <a href="/assets/speakers/lugano26/speaker3/">
+      <img src="/assets/images/lugano26/ACeselli.JPG" alt="Alberto Ceselli">
+    </a>
+    <p>Alberto Ceselli</p>
+  </div>
 
   <div class="speaker-card">
     <a href="/assets/speakers/lugano26/speaker2/">
