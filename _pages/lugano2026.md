@@ -101,7 +101,7 @@ Don’t miss this opportunity!
 <h1 id="dates">Dates</h1>
 
 __Abstract Submission__ 10 March 2026 (10:00 AM CET time) - <strike>15 April 2026 (10:00 AM CET time)</strike> 24 April 2026 (10:00 AM CET time). Submit your abstract
-<a href="https://usi.qualtrics.com/jfe/form/SV_3mESCPXnttayzT8">here</a>. 
+<a href="https://usi.qualtrics.com/jfe/form/SV_3mESCPXnttayzT8">here</a>.
 
 __Notification of acceptance__ <strike>30 April 2026</strike> 8 May 2026.
 
@@ -114,7 +114,7 @@ __Workshop__ 14 October 2026 - 16 October 2026.
 
 <h1 id="speakers">Speakers</h1>
 
-Meet our confirmed speakers! More to be confirmed soon. 
+Meet our confirmed speakers! More to be confirmed soon.
 Click on the pictures for more details.
 
 
@@ -184,7 +184,7 @@ Intelligent Systems group </a>.
 
 ### EUROYoung board members
 Marta Baldomero-Naranjo (<em>Universidad de Cádiz, Spain</em>), co-chair<br>
-Yasmine Beck (<em>Eindhoven University of Technology, The Netherlands</em>)<br>
+Yasmine Beck (<em>ESSEC Business School, France</em>)<br>
 Laura Davila-Pena (<em>Universidade de Santiago de Compostela, Spain</em>)<br>
 Andrea Mancuso (<em>University of Naples Federico II, Italy</em>), co-chair<br>
 Alan Osorio-Mora (<em>RPTU Kaiserslautern-Landau, Germany</em>)<br>
@@ -213,8 +213,8 @@ Submit your abstract
 <a href="https://usi.qualtrics.com/jfe/form/SV_3mESCPXnttayzT8">here</a>. 
 The template for the abstract is available <a href="https://www.overleaf.com/read/jkdntnnrpmqv#13dcb5">here</a>.
 
-Please be aware that abstract, references, picture, and bio must stay within one page, as described in the 
-template. During the submission, submit both the source files and the produced pdf. 
+Please be aware that abstract, references, picture, and bio must stay within one page, as described in the
+template. During the submission, submit both the source files and the produced pdf.
 
 There is a limited number of places available. If applications exceed
 this limit, selection will be made on a first-come, first-served basis,
@@ -236,11 +236,11 @@ You can use Google Maps, just go <a href="https://maps.app.goo.gl/FwYrpEWTz2rPZk
 
 ## Getting to Lugano
 
-Arriving in Lugano from other European countries is straightforward thanks to Switzerland’s well-connected transport network. 
+Arriving in Lugano from other European countries is straightforward thanks to Switzerland’s well-connected transport network.
 The most convenient way is typically by air to Milan or Zurich Airport, depending on your departure city.
 
 ### From Milan
-In Milan, there are three different airports, all of which are 
+In Milan, there are three different airports, all of which are
 connected to the Milano Centrale train station:
 <li><strong>Linate:</strong> You can use metro line M4 (blue) 
 to reach S. Ambrogio station. There, you can take metro line M2 (green) to Milano Centrale.
@@ -250,62 +250,62 @@ Euro or <a href="https://www.sbb.ch/en">here</a> if you wish to pay in Swiss Fra
 You can purchase tickets here: <a href="https://www.malpensaexpress.it/" target="_blank">Malpensa Express Tickets</a>.</li>
 <li><strong>Orio al Serio:</strong> We recommend using the OrioShuttle to reach Milano Centrale. More information can be found at <a href="http://www.orioshuttle.com/" target="_blank">OrioShuttle</a>. Other services can be found at the following link: <a href="https://www.milanbergamoairport.it/en/bus/" target="_blank">Bergamo Airport Bus Services</a>.</li>
 
-Once in Milano Centrale, take the <a href="https://www.tilo.ch/"> TiLo</a> , a direct train to Lugano. 
+Once in Milano Centrale, take the <a href="https://www.tilo.ch/"> TiLo</a> , a direct train to Lugano.
 
 ### From Zurich
 You can check train options directly on the <a href="https://www.sbb.ch/"> SBB website</a>.
-From Zurich Airport, take the first train to Zurich HB, and from 
+From Zurich Airport, take the first train to Zurich HB, and from
 there you can catch one of the several direct trains to Lugano.
 
 
 ## Accommodation
-Accommodation for the participants will be provided at Montarina Hotel&Hostel, 
-where we reserved double, triple and quadruple rooms. The hotel is located in a historic villa from the 
-19th century surrounded by a large palm park with an outdoor swimming pool and offers several amenities 
-including free Wi-Fi, common areas, a shared kitchenette and laundry facilities. It is centrally located 
-only about 200 meters from Lugano’s main train station, making it very easy to reach and convenient for 
+Accommodation for the participants will be provided at Montarina Hotel&Hostel,
+where we reserved double, triple and quadruple rooms. The hotel is located in a historic villa from the
+19th century surrounded by a large palm park with an outdoor swimming pool and offers several amenities
+including free Wi-Fi, common areas, a shared kitchenette and laundry facilities. It is centrally located
+only about 200 meters from Lugano’s main train station, making it very easy to reach and convenient for
 exploring the city.
 
 ### How to reach the hotel from Lugano train station?
-After arriving at Lugano railway station, exit the station following the signs for Via Basilea. 
-Walk to the street behind the station and take the short uphill path (stairs or road) towards Via Montarina. 
+After arriving at Lugano railway station, exit the station following the signs for Via Basilea.
+Walk to the street behind the station and take the short uphill path (stairs or road) towards Via Montarina.
 The hotel entrance is located at Via Montarina 1 and can be reached in approximately 5 minutes on foot.
 
 <img src="/assets/images/lugano26/hotel_1.jpeg" alt="" width="500" height="300">
 <img src="/assets/images/lugano26/hotel_2.png" alt="" width="500" height="300">
 
 
-More information about the accommodation can be found on the hotel website: 
+More information about the accommodation can be found on the hotel website:
 <a href="https://www.montarina.com/?utm_source=chatgpt.com"> Montarina Hotel & Hostel official website</a>.
 
 ## What does the fee include?
 The fee will not exceed __€200 (worst-case scenario)__, and depending on the additional funding that we can get, the price might decrease.
-The fee covers: 
+The fee covers:
 
 __Accommodation in shared rooms (from 2 to 4 guests per room) for 3 nights__ (from Wednesday to Friday).
 
 __Meals during the workshop__ .
 
-Other types of accommodations are of course possible in the city of 
-Lugano, but these are not covered by the Workshop. 
+Other types of accommodations are of course possible in the city of
+Lugano, but these are not covered by the Workshop.
 
 ## Tips
-Please note that Lugano is outside the EU, so there are a few practical 
+Please note that Lugano is outside the EU, so there are a few practical
 things to keep in mind:
 
-💰Currency: Switzerland uses Swiss Francs (CHF), not Euros. 
-Most businesses accept credit/debit cards and electronic payments, 
-but to get the best exchange rate, we recommend pre-loading a 
-multi-currency card like <a href="https://www.revolut.com/"> Revolut</a>. 
+💰Currency: Switzerland uses Swiss Francs (CHF), not Euros.
+Most businesses accept credit/debit cards and electronic payments,
+but to get the best exchange rate, we recommend pre-loading a
+multi-currency card like <a href="https://www.revolut.com/"> Revolut</a>.
 You can exchange up to €1,000 per month without extra fees.
 
-📱Mobile / Phone: Roaming charges may apply, except with some 
-providers (e.g., Fastweb). A convenient option is to purchase a 
-temporary eSIM for Switzerland through services such as 
-<a href="https://www.airalo.com/"> Airalo</a> or 
+📱Mobile / Phone: Roaming charges may apply, except with some
+providers (e.g., Fastweb). A convenient option is to purchase a
+temporary eSIM for Switzerland through services such as
+<a href="https://www.airalo.com/"> Airalo</a> or
 <a href="https://mobimatter.com/"> Mobimatter </a>.
 
-💳 Most shops, restaurants, and public transport accept 
+💳 Most shops, restaurants, and public transport accept
 contactless payments and Euro. You probably don't need to get cash.
 
 
