@@ -100,12 +100,12 @@ Don’t miss this opportunity!
 
 <h1 id="dates">Dates</h1>
 
-__Abstract Submission__ 10 March 2026 (10:00 AM CET time) - 15 April 2026 (10:00 AM CET time). Submit your abstract
+__Abstract Submission__ 10 March 2026 (10:00 AM CET time) - <strike>15 April 2026 (10:00 AM CET time)</strike> 24 April 2026 (10:00 AM CET time). Submit your abstract
 <a href="https://usi.qualtrics.com/jfe/form/SV_3mESCPXnttayzT8">here</a>. 
 
-__Notification of acceptance__ 30 April 2026.
+__Notification of acceptance__ <strike>30 April 2026</strike> 8 May 2026.
 
-__Registration__ 1 May 2026 (00.00 AM CET time) - 1 June 2026 (11.59 PM CET time).
+__Registration__ <strike>1 May 2026 (00.00 AM CET time)</strike> 9 May 2026 (00.00 AM CET time) - 1 June 2026 (11.59 PM CET time).
 
 __Workshop__ 14 October 2026 - 16 October 2026.
 
@@ -245,8 +245,7 @@ connected to the Milano Centrale train station:
 <li><strong>Linate:</strong> You can use metro line M4 (blue) 
 to reach S. Ambrogio station. There, you can take metro line M2 (green) to Milano Centrale.
 Additionally, there are bus options available, which you can check here: <a href="https://www.milanolinate-airport.com/it/da-per/in-bus" target="_blank">Linate Bus Options</a>.</li>
-<li><strong>Malpensa:</strong> There is
-also a direct train from Malpensa to Milan. Check <a href="https://www.trenord.it/">here</a> if you wish to pay in
+<li><strong>Malpensa:</strong> There is a direct train from Malpensa to Milan. Check <a href="https://www.trenord.it/">here</a> if you wish to pay in
 Euro or <a href="https://www.sbb.ch/en">here</a> if you wish to pay in Swiss Franks. Otherwise, we suggest taking the "Malpensa Express," which directly arrives at Milano Centrale. 
 You can purchase tickets here: <a href="https://www.malpensaexpress.it/" target="_blank">Malpensa Express Tickets</a>.</li>
 <li><strong>Orio al Serio:</strong> We recommend using the OrioShuttle to reach Milano Centrale. More information can be found at <a href="http://www.orioshuttle.com/" target="_blank">OrioShuttle</a>. Other services can be found at the following link: <a href="https://www.milanbergamoairport.it/en/bus/" target="_blank">Bergamo Airport Bus Services</a>.</li>
