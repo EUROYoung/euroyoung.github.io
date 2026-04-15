@@ -191,7 +191,7 @@ Intelligent Systems group </a>.
 
 ### EUROYoung board members
 Marta Baldomero-Naranjo (<em>Universidad de Cádiz, Spain</em>), co-chair<br>
-Yasmine Beck (<em>ESSEC Business School, France</em>)<br>
+Yasmine Beck (<em>Eindhoven University of Technology, The Netherlands</em>)<br>
 Laura Davila-Pena (<em>Universidade de Santiago de Compostela, Spain</em>)<br>
 Andrea Mancuso (<em>University of Naples Federico II, Italy</em>), co-chair<br>
 Alan Osorio-Mora (<em>RPTU Kaiserslautern-Landau, Germany</em>)<br>
