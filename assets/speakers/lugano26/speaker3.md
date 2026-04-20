@@ -59,12 +59,11 @@ title: "Alberto Ceselli"
   <h1>Alberto Ceselli
 </h1>
   <h2>Associate Professor at the Department of Computer Science of University of Milan, Italy</h2>
-
-Alberto Ceselli is a Full Professor in the Department of Computer Science at the University of Milan. He received his Ph.D. in 2006 and has held research positions at several leading European institutions, including TU Berlin, Politecnico di Milano, INRIA Sophia Antipolis, RWTH Aachen, Université Paris XIII, and ESSEC Business School. 
+Alberto Ceselli is a Full Professor in the Department of Computer Science at the University of Milan. He received his Ph.D. in 2006 and spent research periods as a visiting scholar at leading European institutions, including TU Berlin, Politecnico di Milano, INRIA Sophia Antipolis, RWTH Aachen, Université Paris XIII, and ESSEC Business School.
 
 His research focuses on computational integer programming, prescriptive data analytics, and bridging optimization with data-driven decision-making.
 
-    He is actively engaged in technology transfer, collaborating with industry on applications in network optimization, smart cities, and digital industry. He also coordinates the department’s relations with its industrial advisory board.
+He is actively engaged in technology transfer, collaborating with industry on applications in network optimization, smart cities, and digital industry. He also coordinates the department’s relations with its industrial advisory board.
 
   <p><strong>Talk Title</strong>: <em>To be defined</em></p>
 
