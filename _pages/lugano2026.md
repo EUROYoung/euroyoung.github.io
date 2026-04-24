@@ -96,12 +96,16 @@ networking opportunities and social activities, all set against
 the scenic backdrop of Lugano, a city known for its  lakeside views, 
 charming streets, and Swiss-Italian culture. 
 
-Don’t miss this opportunity!
+**Abstract submission is now closed!** Registered participants will be notified whether their abstract has been accepted by May 8.
+
+If you would still like to participate, please send us an email: we will add you to a waiting list and contact you directly in case of cancellations.
+
+
 
 <h1 id="dates">Dates</h1>
 
-__Abstract Submission__ 10 March 2026 (10:00 AM CET time) - <strike>15 April 2026 (10:00 AM CET time)</strike> 24 April 2026 (10:00 AM CET time). Submit your abstract
-<a href="https://usi.qualtrics.com/jfe/form/SV_3mESCPXnttayzT8">here</a>.
+__Abstract Submission__ <strike> 10 March 2026 (10:00 AM CET time) - 15 April 2026 (10:00 AM CET time) 24 April 2026 (10:00 AM CET time). Submit your abstract
+<a href="https://usi.qualtrics.com/jfe/form/SV_3mESCPXnttayzT8">here</a>. </strike>
 
 __Notification of acceptance__ <strike>30 April 2026</strike> 8 May 2026.
 
@@ -286,7 +290,8 @@ More information about the accommodation can be found on the hotel website:
 <a href="https://www.montarina.com/?utm_source=chatgpt.com"> Montarina Hotel & Hostel official website</a>.
 
 ## What does the fee include?
-The fee will not exceed __€200 (worst-case scenario)__, and depending on the additional funding that we can get, the price might decrease.
+The fee is __50.-CHF (Approx 55.- €).__
+
 The fee covers:
 
 __Accommodation in shared rooms (from 2 to 4 guests per room) for 3 nights__ (from Wednesday to Friday).
