@@ -98,8 +98,10 @@ charming streets, and Swiss-Italian culture.
 
 **Abstract submission is now closed!** Registered participants will be notified whether their abstract has been accepted by May 8.
 
-If you would still like to participate, please send us an email: we will add you to a waiting list and contact you directly in case of cancellations.
-
+As we have received more registrations than we can accommodate, if you are interested in joining the
+workshop, we encourage you to
+<a href="https://qualtricsxm5cj8bsydc.qualtrics.com/jfe/form/SV_5vwTZnCrdLv2MWa">
+join the waiting list</a>.
 
 
 <h1 id="dates">Dates</h1>
