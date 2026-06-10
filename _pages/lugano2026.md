@@ -109,9 +109,9 @@ join the waiting list</a>.
 __Abstract Submission__ <strike> 10 March 2026 (10:00 AM CET time) - 15 April 2026 (10:00 AM CET time) 24 April 2026 (10:00 AM CET time). Submit your abstract
 <a href="https://usi.qualtrics.com/jfe/form/SV_3mESCPXnttayzT8">here</a>. </strike>
 
-__Notification of acceptance__ <strike>30 April 2026</strike> 8 May 2026.
+__Notification of acceptance__ <strike>30 April 2026 8 May 2026 </strike>.
 
-__Registration__ <strike>1 May 2026 (00.00 AM CET time)</strike> 9 May 2026 (00.00 AM CET time) - 1 June 2026 (11.59 PM CET time).
+__Registration__ <strike>1 May 2026 (00.00 AM CET time) 9 May 2026 (00.00 AM CET time) - 1 June 2026 (11.59 PM CET time). </strike>
 
 __Workshop__ 14 October 2026 - 16 October 2026.
 
@@ -296,9 +296,9 @@ The fee is __50.-CHF (Approx 55.- €).__
 
 The fee covers:
 
-__Accommodation in shared rooms (from 2 to 4 guests per room) for 3 nights__ (from Wednesday to Friday).
+__Accommodation in shared rooms (from 2 to 4 guests per room) for 3 nights__ (from Tuesday to Friday).
 
-__Meals during the workshop__ .
+__Meals during the workshop. __ 
 
 Other types of accommodations are of course possible in the city of
 Lugano, but these are not covered by the Workshop.
@@ -329,8 +329,56 @@ If you have any question, write us!
 📧 euroyoung2026@usi-supsi.ch
 
 <h1 id="sponsors">Sponsors and Supporters</h1>
-We highly appreciate the support of
+<h2> Industrial partners </h2>
 
+<h3> •  Platinum </h3>
+<div style="
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  gap: 30px;
+  padding: 20px;
+">
+
+<a href="https://www.hexaly.com/" target="_blank" rel="noopener noreferrer">
+<img src="/assets/images/lugano26/hexaly-orange.png" alt="Hexaly"
+style="max-height: 300px; object-fit: contain;">
+</a>
+
+</div>
+
+
+
+<h3> •  Premium </h3>
+<div style="
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  gap: 30px;
+  padding: 20px;
+">
+<a href="https://www.duferco.com/" target="_blank" rel="noopener noreferrer">
+  <img src="/assets/images/lugano26/Logo_Duferco.svg" alt="svor" style="max-height: 40px; object-fit: contain;">
+</a>
+</div>
+
+<h3> •  Supporter </h3>
+<div style="
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  gap: 30px;
+  padding: 20px;
+">
+<a href="https://www.mosek.com/" target="_blank" rel="noopener noreferrer">
+  <img src="/assets/images/lugano26/webgraphmoseklogocolor.png" alt="svor" style="max-height: 30px; object-fit: contain;">
+</a>
+</div>
+
+<h2> Academic partners </h2>
 <div style="
   display: flex;
   flex-wrap: wrap;
