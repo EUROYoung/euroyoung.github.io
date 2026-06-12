@@ -97,7 +97,7 @@ classes: wide
   </div>
 
   <div class="board-card">
-    <img src="/assets/images/Alan-Osorio-Mora.jpeg" alt="Alan Osorio Mora">
+    <img src="/assets/images/Alan-Osorio-Mora.jpg" alt="Alan Osorio Mora">
     <div class="board-name">
       <a href="https://aoso-mora.github.io/">
         Alan Osorio Mora
