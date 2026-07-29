@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Monique Laurent"
+title: "Daniel Kuhn"
 ---
 
 <style>
