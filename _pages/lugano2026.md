@@ -218,7 +218,11 @@ Tullio Villa (<em>Scuola Universitaria Professionale della Svizzera italiana, Da
 
 
 <h1 id="programme">Programme</h1>
-The first draft of the program will be available in June, and all the details in July. 
+You can [Download the program (PDF)]({{ "/assets/pdffiles/schedule.pdf" | relative_url }}) (Last update: 11.08.2026), and the high-level organization is shown in this table
+<p> </p>
+<img src="/assets/images/lugano26/EURO_SCHEDULE.png" alt="" width="800">
+
+
 
 <h1 id="abstracts">Abstract</h1>
 <!--- For the next organizer, you can just download the template and load it on your overleaf--> 
