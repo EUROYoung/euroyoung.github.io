@@ -52,13 +52,13 @@ title: "Alberto Ceselli"
 <div class="speaker-container">
 
   <div class="speaker-image">
-    <img src="/assets/images/lugano26/ACeselli.JPG" alt="Daniel Kuhn">
+    <img src="/assets/images/lugano26/ACeselli.JPG" alt="Alberto Ceselli">
   </div>
 
 <div class="speaker-details">
   <h1>Alberto Ceselli
 </h1>
-  <h2>Associate Professor at the Department of Computer Science of University of Milan, Italy</h2>
+  <h2>Full Professor at the Department of Computer Science of University of Milan, Italy</h2>
 Alberto Ceselli is a Full Professor in the Department of Computer Science at the University of Milan. He received his Ph.D. in 2006 and spent research periods as a visiting scholar at leading European institutions, including TU Berlin, Politecnico di Milano, INRIA Sophia Antipolis, RWTH Aachen, Université Paris XIII, and ESSEC Business School.
 
 His research focuses on computational integer programming, prescriptive data analytics, and bridging optimization with data-driven decision-making.

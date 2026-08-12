@@ -96,22 +96,10 @@ networking opportunities and social activities, all set against
 the scenic backdrop of Lugano, a city known for its  lakeside views, 
 charming streets, and Swiss-Italian culture. 
 
-**Abstract submission is now closed!** Registered participants will be notified whether their abstract has been accepted by May 8.
-
-As we have received more registrations than we can accommodate, if you are interested in joining the
-workshop, we encourage you to
-<a href="https://qualtricsxm5cj8bsydc.qualtrics.com/jfe/form/SV_5vwTZnCrdLv2MWa">
-join the waiting list</a>.
+**Abstract submission is now closed!**
 
 
 <h1 id="dates">Dates</h1>
-
-__Abstract Submission__ <strike> 10 March 2026 (10:00 AM CET time) - 15 April 2026 (10:00 AM CET time) 24 April 2026 (10:00 AM CET time). Submit your abstract
-<a href="https://usi.qualtrics.com/jfe/form/SV_3mESCPXnttayzT8">here</a>. </strike>
-
-__Notification of acceptance__ <strike>30 April 2026 8 May 2026 </strike>.
-
-__Registration__ <strike>1 May 2026 (00.00 AM CET time) 9 May 2026 (00.00 AM CET time) - 1 June 2026 (11.59 PM CET time). </strike>
 
 __Workshop__ 14 October 2026 - 16 October 2026.
 
@@ -262,7 +250,7 @@ connected to the Milano Centrale train station:
 <li><strong>Linate:</strong> You can use metro line M4 (blue) 
 to reach S. Ambrogio station. There, you can take metro line M2 (green) to Milano Centrale.
 Additionally, there are bus options available, which you can check here: <a href="https://www.milanolinate-airport.com/it/da-per/in-bus" target="_blank">Linate Bus Options</a>.</li>
-<li><strong>Malpensa:</strong> There is a direct train from Malpensa to Milan. Check <a href="https://www.trenord.it/">here</a> if you wish to pay in
+<li><strong>Malpensa:</strong> There is a direct train from Malpensa to Milan (S50). Check <a href="https://www.trenord.it/">here</a> if you wish to pay in
 Euro or <a href="https://www.sbb.ch/en">here</a> if you wish to pay in Swiss Franks. Otherwise, we suggest taking the "Malpensa Express," which directly arrives at Milano Centrale. 
 You can purchase tickets here: <a href="https://www.malpensaexpress.it/" target="_blank">Malpensa Express Tickets</a>.</li>
 <li><strong>Orio al Serio:</strong> We recommend using the OrioShuttle to reach Milano Centrale. More information can be found at <a href="http://www.orioshuttle.com/" target="_blank">OrioShuttle</a>. Other services can be found at the following link: <a href="https://www.milanbergamoairport.it/en/bus/" target="_blank">Bergamo Airport Bus Services</a>.</li>
@@ -302,7 +290,7 @@ The fee covers:
 
 __Accommodation in shared rooms (from 2 to 4 guests per room) for 3 nights__ (from Tuesday to Friday).
 
-__Meals during the workshop. __ 
+__Meals during the workshop.__ 
 
 Other types of accommodations are of course possible in the city of
 Lugano, but these are not covered by the Workshop.
@@ -312,10 +300,10 @@ Please note that Lugano is outside the EU, so there are a few practical
 things to keep in mind:
 
 💰Currency: Switzerland uses Swiss Francs (CHF), not Euros.
-Most businesses accept credit/debit cards and electronic payments,
-but to get the best exchange rate, we recommend pre-loading a
-multi-currency card like <a href="https://www.revolut.com/"> Revolut</a>.
-You can exchange up to €1,000 per month without extra fees.
+For convenient payments in Swiss francs, you may consider using a multi-currency card/service. 
+For example, <a href="https://www.revolut.com/"> Revolut</a>'s Standard plan currently allows up to €1,000 
+per month in currency exchanges before an additional fair-usage fee applies. Please check the conditions 
+of your own plan before travelling.
 
 📱Mobile / Phone: Roaming charges may apply, except with some
 providers (e.g., Fastweb). A convenient option is to purchase a
