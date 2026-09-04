@@ -210,6 +210,8 @@ You can [Download the program (PDF)]({{ "/assets/pdffiles/schedule.pdf" | relati
 <p> </p>
 <img src="/assets/images/lugano26/EURO_SCHEDULE.png" alt="" width="800">
 
+The book of abstracts can be downloaded <a href="/assets/pdffiles/boa_lugano_26.pdf">here</a>.
+
 
 
 <h1 id="abstracts">Abstract</h1>
