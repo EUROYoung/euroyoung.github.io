@@ -65,6 +65,13 @@ gallery4:
   }
 </style>
 
+
+<div style="text-align: center; margin: 1em 0;">
+  <img src="/assets/images/lugano26/EuroYoung2026_Logo_Final.svg"
+       alt="6th EUROYoung Workshop - Lugano 2026 logo"
+       style="max-width: 280px; width: 80%; height: auto;">
+</div>
+
 <nav style="
   text-align: center;
   font-size: 1.1em;
@@ -97,6 +104,38 @@ the scenic backdrop of Lugano, a city known for its  lakeside views,
 charming streets, and Swiss-Italian culture. 
 
 **Abstract submission is now closed!**
+
+<h1 id="important-info">⚠️ Important information ⚠️</h1>
+
+<p>📍 <strong>Useful places</strong> (Google Maps links):</p>
+
+<ul>
+  <li>🏢 <strong>Conference venue (Room A0.02):</strong> <a href="https://maps.app.goo.gl/gBSL7hwLLKGJH42w9">USI - SUPSI East Campus</a></li>
+  <li>🖥️ <strong>Social event:</strong> <a href="https://maps.app.goo.gl/kR79FQeL514RK9dp9">CSCS Visit</a></li>
+  <li>🍔 <strong>Social dinner:</strong> <a href="https://maps.app.goo.gl/kR79FQeL514RK9dp9">Porto Bello</a></li>
+</ul>
+
+<p>📄 <strong>Practical information sheet</strong> (venue map, emergency numbers and more):
+<a href="../assets/pdffiles/euroyoung2026_practical_info.pdf">Download the PDF</a></p>
+
+<p>📨 If you need help, write to us at <a href="mailto:euroyoung2026@usi-supsi.ch">euroyoung2026@usi-supsi.ch</a>. Somebody will get back to you soon!</p>
+
+<small>
+Please be aware that we will be taking pictures and videos during the event. These pictures and videos will be posted on the data controller’s website and social media platforms and might be shared with other interested media channels. If you prefer not to have your images shared, please let our staff know in advance.
+</small>
+<small>
+The organizers do not accept any responsibility for individual medical, travel or
+personal insurance. Attendees are strongly advised to have their own travel
+insurance policies to cover risks including (but not limited to) loss, cancellation,
+medical costs and injury.
+</small>
+<small>
+A name badge will be provided along with your conference documents, which you
+receive upon your registration at the registration desk. For the purposes of security
+and our internal regulations, wearing the badge is compulsory at all times during
+the conference. Only persons wearing an EUROYoung Workshop  badge are
+entitled to attend meetings and take refreshments
+</small>
 
 
 <h1 id="dates">Dates</h1>
@@ -381,7 +420,8 @@ style="max-height: 300px; object-fit: contain;">
   gap: 30px;
   padding: 20px;
 ">
-  <img src="/assets/images/EURO.png" alt="EURO" style="max-height: 150px; object-fit: contain;">
+   <img src="/assets/images/EURO.png" alt="EURO" style="max-height: 150px; object-fit: contain;">
+  <img src="/assets/images/lugano26/Logo_IDSIA_color_EN.png" alt="EURO" style="max-height: 150px; object-fit: contain;">
   <img src="/assets/images/lugano26/press-logo-statico-usi-orizzontale-web.svg" alt="usi" style="max-height: 120px; object-fit: contain;">
   <img src="/assets/images/lugano26/supsi.png" alt="supsi" style="max-height: 120px; object-fit: contain;">
   <img src="/assets/images/lugano26/SVOR_nobg.png" alt="svor" style="max-height: 120px; object-fit: contain;">
