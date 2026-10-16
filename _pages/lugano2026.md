@@ -105,6 +105,22 @@ charming streets, and Swiss-Italian culture.
 
 **Abstract submission is now closed!**
 
+<h1 id="after">✨ After the workshop️</h1>
+
+- **Walk to Gandria:** the lakeside "olive path" from Castagnola to Gandria, a pretty fishing village. Walk one way and take the boat back. [Gandria](https://www.ticinotopten.ch/it/villaggi/gandria). You can start for instance [here](https://maps.app.goo.gl/CrJXuuPrqtRjnUHq7)
+- **Monte San Salvatore:** funicular from Paradiso. [Official site](https://www.montesansalvatore.ch/en/) (see "Timetable & Fares"). Your target could be [here](https://maps.app.goo.gl/jWJe6hRYKf3RGVku8)
+- **Monte Brè:** funicular from Cassarate. [Funicolare website](https://www.montebre.ch/en/). Your target could be [here](https://www.montebre.ch/en/)
+- **Short visit to Morcote:** a village on the southern tip of the lake, often called "one of the most beautiful in Switzerland". Easy to reach by bus. [Morcote](https://www.visitmorcote.ch/)
+- **Bellinzona:** three castles, UNESCO World Heritage. [Official website](https://fortezzabellinzona.ch/en/)
+- **LAC and MASI:** the art museum in the centre of Lugano. [LAC Lugano Arte e Cultura](https://www.luganolac.ch/en/lac/home) · [MASI](https://www.masilugano.ch/en/masi/home.html)
+
+## Food
+
+- **Lunch in a grotto:** traditional Ticino taverns serving polenta, risotto and local wine. [What is a grotto?](https://www.ticino.ch/en/travel-inspirations/grotti.html)
+
+## Sources
+
+All links go to official or tourism-board pages. I checked the boat season end date (18.10.2026), the Monte Generoso low-season note and the Ticino Ticket contents on the pages above. I could not read the 2026 funicular and Swissminiatur hours.
 <h1 id="important-info">⚠️ Important information ⚠️</h1>
 
 <p>📍 <strong>Useful places</strong> (Google Maps links):</p>
